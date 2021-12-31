@@ -1,19 +1,19 @@
 # The Book
 # dwulf-manifesto
 
-##First Principles
+## First Principles
 (code primitives, JavaScript, Python, and Rust)
 
-##The Hard Stuff
+## The Hard Stuff
 (Hardware devices, Raspberry Pi)
 
-##Meta Machines
+## Meta Machines
 (Libraries/frameworks, Git, Docker, K8, GraphQL)
 
-##Blockchain/Crypto
+## Blockchain/Crypto
 (Self-custody crypto wallets, exchanges, mining, nodes)
 
-##Health
+## Health
 (diet, exersize, and sleep)
 
 
