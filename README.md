@@ -1,6 +1,8 @@
 # The Book
 # dwulf-manifesto
 
+You don't have to know how the computer works, just how to work the computer.
+
 ## First Principles
 (code primitives, JavaScript, Python, and Rust)
 
