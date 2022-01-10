@@ -91,32 +91,55 @@ WORKING WITH FILES/DIRECTORIES
 
 
 GOD MODE
-sudo
-sudo -s (exit)
+- `sudo`
+- `sudo -s` (exit)
 
-su - {username}
+- `su -` {username}
 
 ADMINISTRATION
-adduser
-deluser
-useradd (to groups)
-addgroup
-delgroup
-passwd {username}
-passwd -l {username}
-passwd -u {username}
+- `adduser`
+- `deluser`
+- `useradd` (to groups)
+- `addgroup`
+- `delgroup`
+- `passwd` {username}
+- `passwd -l` {username}
+- `passwd -u` {username}
 
-chfn {username}
+- `chfn` {username}
 
-
-
-kill
-killall
-watch
+- `kill`
+- `killall`
+- `watch`
 [CTRL] + C(ancel program)
-exit
+- `exit`
 [CTRL] + D (exit terminal)
 [CTRL] + L (clear screen)
+
+## Ansible
+Roles
+
+Playbooks
+`main.yml`
+---
+- name: Main Playbook
+`vars.yml`
+---
+`secret.yml`
+---
+
+
+inventory (aka host)
+`hosts.ini`
+[ all ]
+3.
+
+
+AWX
+
+## Docker
+
+## K8 Kubernetes
 
 
 ## 0(n) Algorthms
