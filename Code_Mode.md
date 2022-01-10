@@ -44,6 +44,79 @@ It is sometimes difficult to wrap your head around the multiple extractions that
 
 To conjure the Spells correctly in one's mind, to implement with perfect detail. No mistakes, no errors, and no, as the humans call it, bugs.
 
+## BASH
+(Joe Collins)
+
+TEXT EDITOR
+```
+nano
+|   ( pipe operator,
+        output into input)
+```
+
+NAVIGATION
+- `pushd` 
+- `popd`
+- `more`
+- `less`
+
+
+INFORMATIONAL
+- `cat` (concatinate)
+- `file`
+- `locate`
+- `which`
+- `history`
+- `whatis`
+- `apropos`
+- `man`
+- `users`
+- `id`
+- `echo`
+
+
+WORKING WITH FILES/DIRECTORIES
+- `mkdir`
+- `touch`
+- `cp` 
+- `mv`
+- `chmod`
+(777 full access)
+(700 just you access)
+
+
+*DELETE*
+- `rm`
+- `rmdir`
+
+
+GOD MODE
+sudo
+sudo -s (exit)
+
+su - {username}
+
+ADMINISTRATION
+adduser
+deluser
+useradd (to groups)
+addgroup
+delgroup
+passwd {username}
+passwd -l {username}
+passwd -u {username}
+
+chfn {username}
+
+
+
+kill
+killall
+watch
+[CTRL] + C(ancel program)
+exit
+[CTRL] + D (exit terminal)
+[CTRL] + L (clear screen)
 
 
 ## 0(n) Algorthms
