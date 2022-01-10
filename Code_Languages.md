@@ -3,6 +3,11 @@
 Analysis of what I consider the core languages JavaScript, Python, Go, and Rust.  I will discuss other languages and why they are not included
 
 ## JavaScript ECMA
+
+One of the most dynamic features of JavaScript is that it has first-class functions, meaning that functions are treated like any other first-class object — they can be stored in variables, passed around, returned from other functions, and even hold their own properties.
+
+this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
+
 ## Python
 ## Go
 ## Rust
