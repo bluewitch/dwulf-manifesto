@@ -148,6 +148,40 @@ I know that the big O can be intiminating  but do not let this be daunting to yo
 
 Thats the math of code.  If it is still a bit much to grok, just take it day by day, and talk about it to your ducky.
 
+## RESTful API, GraphQL
+GraphQL is an open-source data query and manipulation technical standard for APIs, and a runtime for fulfilling queries with existing data. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015
+
+### GraphQL vs. RESTful API
+
+GraphQL is effectively an optimized replacement for RESTful API interfacing.   Consolidating the multiple end points from the RESTful standards, which use (multiple request methods) the `GET`, `POST`, `PATCH`, `DELETE`, etc. To pull a glob of `JSON` data During and to and from the various http requests.
+
+GraphQL, conversly utilizes only the POST request method, which sheaths, a more specific  and detailed request for more effeceint data retireval, saving on bandwidth, with specifying a more surgical data pull, querying only the specific data needed as opposed to pulling a blob of all data in a `JSON` structure, and then filtering out the specific data after retrevial.
+
+Because GraphQL uses a POST
+
+### RESTful API
+Are optimized for servers, not clients.
+
+- `GET` one or more resources
+- `POST` to create a new resource
+- `PUT` to update a resource
+- `PATCH` to partially update a resource
+- `DELETE` to delete a resource
+
+### CRUD
+- **C** `create`
+- **R** `replace`
+- **U** `update`
+- **D** `delete`
+
+RESTful and CRUD are the core mechinisms for creating dynamic Web Sites,
+
+GraphQL
+A data query "specification" language.
+think SQL
+not Neo4j
+
+
 
 ## Testing and Debugging
 Perhaps the most trying and tedious part of developing is testing and debugging the code itself.
