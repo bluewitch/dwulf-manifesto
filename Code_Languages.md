@@ -2,6 +2,25 @@
 
 Analysis of what I consider the core languages JavaScript, Python, Go, and Rust.  I will discuss other languages and why they are not included
 
+## JavaScript ECMA
+## Python
+## Go
+## Rust
+Inseption 2010
+Rollout 2015
+
+GFX
+
+Bevy
+
+Amethist
+
+
+
+3D code in Rust, WebGL, WebGPU
+2018 wgpu kick-off
+2019 gecko firefox
+
 
 ## PHP
 "I know PHP,  I just refuse to program in it."
