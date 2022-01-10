@@ -31,6 +31,20 @@ These 3 areas of meta training, will adapt you to any modern programming languag
 
 ~dwulf 
 
+## Computational Theory
+Often over looked, but probably the one most important concept to the entirity of the dicipline of Computer Science.  Is the theory of it all.  Which is the ASCII standard * that is 42.
+
+From the low hardware, registers and cucuits, to the language that directly interfaces with memory and pointers to that memory through language compilers, to0 the high, more abstract allowing data manipulation that is more dynamic...and powerfull through Objects and Higher Order Functions and the importing of solid libraries
+
+The very theory of how and why code and computing code works.
+
+On the surface it can be percieved as boring, but that is only because one has to marvel at the abstracted mechinisms of the math that makes computation a reality.
+
+It is sometimes difficult to wrap your head around the multiple extractions that is mandated when learning to program.
+
+To conjure the Spells correctly in one's mind, to implement with perfect detail. No mistakes, no errors, and no, as the humans call it, bugs.
+
+
 
 ## 0(n) Algorthms
 Big O operations, and the time scale of functions, specifcally for searching and sifting through data.
