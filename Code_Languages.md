@@ -73,3 +73,9 @@ Of course I still know PHP and Perl and am exploring the framework that is larav
 Magic Quotes, disable
 
 phpinfo()
+
+
+# Leetcode
+Often called toy projects, are code "excersizes", that give problems that test your ability to reconcile and provide bug free working code to provide a solution for.
+
+I don't like to do these, I prefer, to work on actual practical projects and project tools, as it feels with toy code projects I am just spinning my wheels spending time to factor code for psets, but I have come to understand the nessesity of practicing with them.
