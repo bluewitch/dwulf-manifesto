@@ -88,6 +88,9 @@ Magic Quotes, disable
 phpinfo()
 
 
+# ELM Language
+
+
 # Leetcode
 Often called toy projects, are code "excersizes", that give problems that test your ability to reconcile and provide bug free working code to provide a solution for.
 
