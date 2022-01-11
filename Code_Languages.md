@@ -9,6 +9,21 @@ One of the most dynamic features of JavaScript is that it has first-class functi
 this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
 
 ## Python
+function (parameters)
+
+Python
+``` python
+def is_even(i):
+   """
+   Input: i, a positive int
+   Returns: True if i is even, otherwise False
+   """"
+   print(" inside is_even")
+   return i%2 == 0
+
+is_even(3)
+```
+
 ## Go
 ## Rust
 Inseption 2010
