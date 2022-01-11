@@ -296,6 +296,12 @@ A data query "specification" language.
 think SQL
 not Neo4j
 
+# Hadoop & Spark
+As data becomes more and more, special frameworks are created and engineered to accomidate these data sets for comparison and analysis.
+
+Hadoop is designed to handle batch processing efficiently whereas Spark is designed to handle real-time data efficiently. Hadoop is a high latency computing framework, which does not have an interactive mode whereas Spark is a low latency computing and can process data interactively.
+
+
 # Web Dev
 --------
 - HTML5
