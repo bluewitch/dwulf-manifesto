@@ -209,7 +209,46 @@ A data query "specification" language.
 think SQL
 not Neo4j
 
+# Web Dev
+--------
+- HTML5
+- JavaScript
+- CSS3
 
+Front End:
+- React
+- Angular
+- Vue
+
+
+Website Performance & Optimization Techniques
+Optimization techniques include File compression which can reduce code files by as much as 80%, thereby improving site responsiveness. Web Caching Optimization which reduces server load, bandwidth usage and latency by retaining redundant web page data so the server does not need to reload with every page request. CDNs use dedicated web caching software to store copies of documents passing through their system.
+
+As a side note, further optimization beyond conventional RESTful methods of web/data queries, which glob exsessive bandwidth can be replaced with GraphQL which can reduce bandwith even more.
+
+
+### Microservices:
+Microservices are a software development technique to engineer and impliment a variant of the service-oriented architecture (SOA) structural style— that arranges an application as a collection of loosely coupled and highly specialized "micro" services.
+
+In a microservices architecture, services are fine-grained and the protocols are lightweight and specific in function.
+
+As opposed to a monolithic architecture, which is often difficult to debug, because services of functions can be interdependent with each other, making it difficult to determine where bugs are at  and if the bug is severe enough, could create catastrophic complications, like the entire site going down as opposed to a single component failing while the crux of the site remains up and operational.
+
+### Serverless:
+Serverless computing is a cloud-computing specific  execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity.
+
+AWS Lambda, is an example of Amazon's commercial solution to a serverless, sometimes call headless.
+
+### Machine Learning & Artificial Intelligence:
+Artificial Intelligence is the broader concept of machines being able to carry out tasks in a way that we would consider “smart”. And, Machine Learning is a current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
+
+The core idea of machine learning is mapping input data, assigning weights, of probable certainty to the data through a concept known as back propigation, and outputing a upgraded numeric caliboration to its probability of certainty
+
+### Testing:
+In computer programming, unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use.
+
+Progessive Web Apps and/or Cross-Platform Apps
+Casper, Ionic, React Native, Native Script
 
 ## Testing and Debugging
 Perhaps the most trying and tedious part of developing is testing and debugging the code itself.
