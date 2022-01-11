@@ -31,6 +31,93 @@ These 3 areas of meta training, will adapt you to any modern programming languag
 
 ~dwulf 
 
+Principles or Parables (P&P)
+
+With learming to code, one must understand principles and mental math constructs and concepts, from simple varibles, functions, and objects.  To complex like algorthms, model veiw controllers, high level functions, and object orientated abstraction.
+
+I call them first principles, knowing, by heart, the primitive datatypes, and mechinisms for software development.  Specific enough to instantiate and manipulate the data, but abstract enough to apply first principled algorthms to any software language.
+
+From there one can expand outward, with a solid foundation of a first principled approach of any software language, into more advanced resources, from software libraries and frameworks to higher level function methods, microservice implimentations, and automated CD/CI and testing of more sofisticated software projects.
+
+When one has mastery of both high and low (mostly low) fundimentals, the journey is complete.
+
+Web File/Directory Layout
+
+Permissions:
+html   644
+gif       644
+jpg      644
+css     644
+js         644
+png     644
+php     644
+
+dir        711
+
+
+PDO, PHP Data Object
+
+InnoDB, Atomic Transactions
+
+MyISAM, Locks, faster
+
+AJAX, Asycn
+
+Amazon
+AWS
+Elastic
+
+
+BIND
+-Berkley
+-Internet
+-Name
+-Deamon9
+
+Round Robin
+
+
+RAID0 (striping data)
+RAID1 (mirroring data)
+
+RAID5
+(can have odd number of drives, using  one of the drives as mirror, any one drive can die, and still be ok)
+
+RAID6
+(any 2 drives can die, and still be ok)
+
+
+RAID10 (combo of striping/mirroring)
+
+
+192.168.x.x
+
+172.16.x.x
+
+10.x.x.x
+
+
+HTTP: port 80
+HTTPS: port 443
+
+SMTP: port 25
+
+DHCP:
+
+
+
+
+1 good code is self explanitory, but not always self defining.
+
+2 leave code better than you found it
+
+3 single purpose functions, does one thing, does it well, and that is all it does.
+
+4 Write tests, Integration test to test functionality dependently, and Unit test to test functionality independently.
+
+5 Practice by youself, practice with others, practice upping your game.
+
+
 ## Computational Theory
 Often over looked, but probably the one most important concept to the entirity of the dicipline of Computer Science.  Is the theory of it all.  Which is the ASCII standard * that is 42.
 
