@@ -8,6 +8,9 @@ One of the most dynamic features of JavaScript is that it has first-class functi
 
 this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
 
+### Polyfill
+A polyfill is a piece of code (usually JavaScript on the web) used to provide modern functioality on older browsers that do not natively support it.  (i.e. `babel.js`)
+
 Brendan Eich, JavaScript, Firefox, Mozilla, and Brave
 
 ## Python
