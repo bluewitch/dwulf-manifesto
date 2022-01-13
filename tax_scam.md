@@ -47,3 +47,32 @@ Decentralized crypto, is immune to this, by not initailly being pair-bonded to a
 The code is not beholden to any one, except the holder of the private key of the wallet.
 
 And it is at this point, crypto is trully seperated from church and state.
+
+
+# Chainalysis, hired thug of the IRS
+
+
+
+Money Laundering in Cryptocurrency
+
+A few years back, the IRS hired a third party validation company called chainalaysis, its contract was to monitor trades on the centralized crypto exchanges, and match them with us tax paying citizens to determine the ownership of crypto wallets and the respective user accounts on the pseudo anonymous  blockchain platform.
+
+Governmental agencies and regulators mandated know your customer and anti-money laundering rules, also known as KYC/AML mandates.
+
+Which required all users on centralized and officialy regulated and sanctioned platforms to identify themselves with governmental issued IDs and a picture of themselves in order to use the services of the centralized crypto exchange.
+
+Exchanges that failed to comply, we're shut down by law enforcement agencies.
+
+Because of the nature of this some cryptocurrency exchanges such as Binance were forced to geo-block US citizens temporarily freezing them out of their accounts, until another clone site, creativly called, Binance US, (how orignial) could be created to deal with the specific mandated arbitrary regulations set forth by the United States government.
+
+In the end, Binance simply excluded US citizens from its servers and services, forcing users in the US to withdraw their funds, or create new accounts through VPNs to continue to trade through Binance.
+
+The consiquences of this act gave leverage to the SEC regulators, the IRS, and other governmental legal factions. To subpoena, at will, and for any reason, all personal user information and their respective trades on the crypto exchange platform.
+
+KYC/AML would also give Chainalysis, a indexing starting point to trace all crypto trades provided thru KYC and AML mandates and the information of the users provided.
+
+
+This is why, with the same complications of keeping personal private data, private is becoming even more complicated.
+
+With USDT, ( tether ), under fire, from the SEC, and the courts, stable coins, that can be seized are no diffrent than fiat accounts that can be frozen, at will, for any reason to let the courts hash it out and decide if you get your money or not.
+
