@@ -6,6 +6,14 @@ Check their data APIs
 - Coin Gecko
 - Coin Market Cap
 
+## Scaling
+Max Transactions Per Second
+- Bitcoin (BTC) ~7 tps
+- Ethereum (ETH) ~25 tps
+- Visa Card ~1,736 tps
+- Polkadot (DOT) ~166,666 tps
+
+
 
 ## Exchange Details
 
