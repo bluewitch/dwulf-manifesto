@@ -79,3 +79,7 @@ https://monero.stackexchange.com/questions/1388/how-much-cpu-power-to-mine-1-coi
 
 Howto
 https://1stminingrig.com/how-to-mine-monero-randomx-with-cpu-gpu/
+
+
+# Ethereum
+[ETH TPS (Transactions Per Second)](https://ethtps.info/)
