@@ -1,5 +1,7 @@
 # Blockchain and Crypto Currencies
 
+## Bitcoin (BTC)
+Think of it as having a key a bank safe in a vault, the difference is only you have the key to your safe and the bank has the keys to the vault which houses all the saves but not the key to your individual safe!
 
 ### Price Indexes
 Check their data APIs
