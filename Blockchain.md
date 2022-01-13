@@ -65,3 +65,17 @@ IPFS specific Web3 domains I own
 
 - greenwitchproductions.crypto
 - greenwitchproductions.zil
+
+# XMRIG (Monero Mining)
+All right the XM the location of the configuration file is in configure Json it's located in the source directory when you clone the original GitHub repository.
+
+The system should work automatically the configuration you realize that you need to do the private key it has to be on hand because when you can figure it will be credited to your wallet
+
+
+https://monero.stackexchange.com/questions/1388/how-much-cpu-power-to-mine-1-coin-a-day
+
+
+
+
+Howto
+https://1stminingrig.com/how-to-mine-monero-randomx-with-cpu-gpu/
