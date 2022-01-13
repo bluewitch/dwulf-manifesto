@@ -56,3 +56,12 @@ If a conventional crypto exchange like Coinbase goes bust or gets hacked, you're
 In the end, that is the price for custodial overseers, they have liquidity of the other pooled user funds, are able to instantiate trades of any coins they incorporate in their trading pool of coins, but they also know your hot key, and know who you are through KYC/AML.
 
 To properly insulate one's wealth one needs to take the best foot forward approach going into the crypto eco-system, do not share your hot wallet private keys, and do not share your persoal KYC/AML data.
+
+# Unstoppable Domains
+IPFS specific Web3 domains I own
+
+- dazeofthewolf.crypto
+- dazeofthewolf.zil
+
+- greenwitchproductions.crypto
+- greenwitchproductions.zil
