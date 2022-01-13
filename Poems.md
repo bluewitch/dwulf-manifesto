@@ -10,6 +10,7 @@ An ever growing stash,
 Of all my crypto cash,
 While the shitcoins only crash.
 
+
 Collator holds the details,
 that are put upon the node.
 buying money that retails,
