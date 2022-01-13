@@ -1,5 +1,12 @@
 # Blockchain and Crypto Currencies
 
+
+### Price Indexes
+Check their data APIs
+- Coin Gecko
+- Coin Market Cap
+
+
 ## Exchange Details
 
 It should be noted that Bisq is a layer 2 solution built ontop of the layer 1  BTC, and requires BTC on both sides of the trade. 
