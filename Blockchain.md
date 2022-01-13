@@ -13,6 +13,14 @@ Max Transactions Per Second
 - Visa Card ~1,736 tps
 - Polkadot (DOT) ~166,666 tps
 
+## Trading Strategies
+The main agenda of the blockchain and the crypto which is minted on it.
+
+It's quite frankly to have a means that is independent of the old world economy. What I mean by means, his Capital at your command.
+
+This Manifesto will primarily revolve around substrate and the polka. Ecosystem.
+
+Yes I know there are other cryptocurrencies they're fantastic but for purposes of General instruction I've consolidated the Crux of most crypto lectures into involving substrate and polka.
 
 
 ## Exchange Details
