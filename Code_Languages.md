@@ -315,6 +315,11 @@ The Fetch API is a simple interface for fetching resources. Fetch makes it easie
 
 Axios()
 A step more evolved is Axios, while not baked into the language, requires the require import to import the Axios library.   Streamlines data fetching, to the nth degree.
+``` javascript
+import axios;
+```
+A library that handles HTTP transactions, and is a good replacement for the fetch(), which is a barebones library that handles HTTP transactions built into browsers.
+
 
 ## NPM (Node Package Managers)
 Packages:
