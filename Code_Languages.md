@@ -13,6 +13,20 @@ A polyfill is a piece of code (usually JavaScript on the web) used to provide mo
 
 Brendan Eich, JavaScript, Firefox, Mozilla, and Brave
 
+### Lodash.js and underscore.js
+
+Lodash is a JavaScript library which is successor of underscore.js.
+
+Lodash is a JavaScript library that helps programmers write more concise and maintainable JavaScript. It can be broken down into several main areas: Utilities - for simplifying common programming tasks such as determining type as well as simplifying math operations.
+
+The Lodash size is about 72.5 KB.
+
+The Underscore.js is a JavaScript software library that provides a lot of useful functions that helps in the programming with library functions like the `map`, `filter`, `invoke`, etc even without using any built-in objects.
+
+The `_.where()` function is used to find all the elements that matches the searching condition.
+
+
+
 ## Python
 function (parameters)
 
