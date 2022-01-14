@@ -4,6 +4,58 @@ Analysis of what I consider the core languages JavaScript, Python, Go, and Rust.
 
 ## JavaScript ECMA
 
+
+ES 5 supported by all browsers
+
+ES 6 needs polyfills, transpilers
+
+JS Bin
+
+`let` and `const`
+
+`let` allows for block scope
+
+`const` creates unchangable varibles
+
+Fat arrow functions
+`()=>`
+
+## JSON
+JavaScript Object Notation
+
+JSON (JavaScript Object Notation) is a lightweight format for sharing data.
+
+A more effecient alternative Data Interchange Exchange mechinism to XML, is JSON, while JSON is not as verbose as XML tags are, to give readability tags to coorisponding data, JSON also uses less space than XML and slightly improves transfer speeds.
+
+JSON is not a software language in and of itself, but a language neutral Object, name/value pair container for data that many software languages are able to utilze.  This language netural software container mechinism is based on name/value paired Objects.
+
+As noted,  although JSON is derived from JavaScript — it may be used with a variety of programming languages, including Python. In this book however, we’ll be focusing on the use of JSON in JavaScript.
+
+JavaScript and JSON
+
+JSON.stringify():
+The `JSON.stringify()` function converts a JavaScript formatted Object into a JSON formatted string. JSON Strings are lightweight, using less physical characters than, say XML,  because of this JSON offers a slight speed advantage when transporting data from a client to a server.
+
+The `JSON.stringify()` function will allow you to convert Objects to Strings. To reverse this, and convert Strings to Objects you can use the JSON.parse() function
+
+JSON.parse():
+
+
+
+JSON placeholder is a site that has JSON object data online so you can test the online mechinims of pulling a JSON object as opposed to have a JSON object locally and pulling data from there.
+
+## AJAX Object
+This is an object that is called as
+``` javascript
+xhr = XMLHttpRequest;
+```
+The 'xhr' becomes the variable object of the XMLHttpRequest.
+
+This enables an object to be instantiated, that will send a http request to the server without reloading the entire page.
+
+The XML of the HttpRequest object, is a legacy artifact of eXtended Markup Language, a tag method of creating a DOM like tree for data.   JSON JavaScript Object Notation, is just as good, less clunky, and can be manipulated by most languages, including Python, PHP, and, of course JavaScript
+
+## First-Class Functions
 One of the most dynamic features of JavaScript is that it has first-class functions, meaning that functions are treated like any other first-class object — they can be stored in variables, passed around, returned from other functions, and even hold their own properties.
 
 this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
@@ -70,6 +122,15 @@ If you have a Github, with  demonstration code, Professionals will recogize this
 // reduce
 ```
 
+## Promises
+Promises, are a step up and out of the callback hell of callbacks.   A more elegant way of handling return variable  parameters and errors.  Mostly with the use of .then(), 
+``` javascript
+.catch() methods.
+
+.then()
+.catch(err => console.log(err));
+```
+Promises should allow for better composure.
 
 
 ### Polyfill
@@ -110,6 +171,26 @@ Audible applications
 
 ### Reveal.js
 Slide Show Presentations
+
+# 3D JavaScript
+JavaScript has library frameworks that allows for 3D object models to render on the browser.  Used in tandam with CSS can create exteemly dynamic and vivid graphical demonstrations on the browser.
+
+As a side note, I have noticed that demonstrations of visually appealing code will sell you to a wider range of audience as a developer than a clever network fix or hack on your github that has no interactive eye candy.
+
+Keep this in mind when developing your contracting business shingle.
+
+THREE.js
+A abstraction wrapper for WebGL, allows a developer to create 3D environments within a browser (usually a Cavas HTML element object).  AR.js is a JavaScript library that allows you to toggle on for a VR/AR view of your 3D world without allot of code, just set it and forget
+
+babylon.js
+
+## GPU
+
+## WebGL
+
+## WebGPU
+
+Vectary
 
 ### Three.js
 3D
