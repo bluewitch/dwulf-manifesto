@@ -117,6 +117,14 @@ DHCP:
 
 5 Practice by youself, practice with others, practice upping your game.
 
+## Arrays
+Arrays are the very basic and core first principled data structure.   The array can hold an array vector of data and a coorisponding index interger number starting at 0, and expanding incrementaly in numeric order ( i.e., 1, 2, 3, 4... ) of the same data type (i.e. intergers with intergers, doubles with doubles, characters with characters) not mixed data types (i.e. intergers with characters, doubles with intergers, etc.)
+
+Modern software programming languages, like Python have a data type analigous to an array that can hold diffrent data types, called lists and in the software language of JavaScript is able to use Objects to emulate arrays.
+
+The C language array data types are primitives, and do not have the innate flexibility of more advanced (non primitive data-types), like Python Lists, or JavaScript Objects.  They are still a good fundimental learning tool of implimenting code.
+
+
 
 ## Computational Theory
 Often over looked, but probably the one most important concept to the entirity of the dicipline of Computer Science.  Is the theory of it all.  Which is the ASCII standard * that is 42.
