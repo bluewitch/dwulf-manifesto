@@ -99,6 +99,26 @@ The Underscore.js is a JavaScript software library that provides a lot of useful
 
 The `_.where()` function is used to find all the elements that matches the searching condition.
 
+### Animate.js
+Animating objects in JavaScript
+
+### Chart.js
+Creating charts in JavaScript
+
+### Howler.js
+Audible applications
+
+### Reveal.js
+Slide Show Presentations
+
+### Three.js
+3D
+
+### Pixi.js
+2D
+
+
+
 ### TS (Type Script)
 TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. ... js. TypeScript headers for the Node.
 
