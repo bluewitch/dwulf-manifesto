@@ -8,6 +8,70 @@ One of the most dynamic features of JavaScript is that it has first-class functi
 
 this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
 
+### Higher Order Functions
+
+Higher-Order Functions in JavaScript. One of the characteristics of JavaScript that makes it well-suited for functional programming is the fact that it can accept higher-order functions. A higher-order function is a function that can take another function as an argument, or that returns a function as a result.
+
+
+`.forEach()`, `.filter()`, `.map()`, `.sort()`, and `.reduce()`
+
+Higher Order Functions offer a more elegant way to handle data within your code.
+
+``` javascript
+// Object name/value pairs
+let dships = {
+
+{     "shipName" : "Darkstar",
+      "shipDesignation" : "Scout",
+      "shipType" :"Cobra Mk III",
+      maxJumprange : 26
+},
+
+{     "shipName" : "Blackfriday",
+      "shipDesignation" : "Trader",
+      "shipType" :"Asp Explorer",
+      maxJumprange : 26
+},
+
+{     "shipName" : "Blackfriday",
+      "shipDesignation" : "Miner",
+      "shipType" :"Asp Explorer",
+      maxJumprange : 26
+},
+{     "shipName" : "Blackfriday",
+      "shipDesignation" : "Trader",
+      "shipType" :"Asp Explorer",
+      maxJumprange : 26
+},qqq
+
+}
+
+// Object array
+let skill = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ];
+```
+
+A elegant coding practice is using
+
+`forEach()`, `.filter()`, `.map()`, `.sort()`, and `.reduce()`
+
+
+These methods can be used in place of clunky and ugly and micro managed for loops, that require initilizing a variable i (interger), as a counter, a conditional, and increases the iteration of the loop count.  Very cumbersome.
+
+Also using these methods in your code in place of vanilla for loops will demonstrate a advaced level of sofistication with your development standards. 
+
+If you have a Github, with  demonstration code, Professionals will recogize this elegant method.
+``` javascript
+// forEach
+
+// filter
+.filter(),
+// map
+// sort
+// reduce
+```
+
+
+
 ### Polyfill
 A polyfill is a piece of code (usually JavaScript on the web) used to provide modern functioality on older browsers that do not natively support it.  (i.e. `babel.js`)
 
