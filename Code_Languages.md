@@ -23,6 +23,9 @@ Fat arrow functions
 ## __proto__ vs. prototype
 JavaScript primitive Object, from which all other Objects are born.
 
+## Object.create
+Objects are everything in JavaScript, and very intimatly related to the language
+
 ## JSON
 JavaScript Object Notation
 
@@ -62,6 +65,11 @@ The XML of the HttpRequest object, is a legacy artifact of eXtended Markup Langu
 One of the most dynamic features of JavaScript is that it has first-class functions, meaning that functions are treated like any other first-class object — they can be stored in variables, passed around, returned from other functions, and even hold their own properties.
 
 this means that you can take advantage of powerful design patterns such as higher-order functions (map, reduce, etc.), partial function application, callbacks, and more. First-class functions are a vital part of the JavaScript landscape. 
+
+## JSON Web Token (JWT)
+JSON Web Token (JWT) with Web API. The modern approach for authenticating a user is through token based (key:value) pair authentication scheme. It relies on signed tokens which are sent by user to server with each request. It is becoming very popular because it naturally blends with stateless Web APIs and other REST services.
+
+
 
 ### Higher Order Functions
 
@@ -124,6 +132,11 @@ If you have a Github, with  demonstration code, Professionals will recogize this
 // sort
 // reduce
 ```
+## Callbacks
+Callbacks where the first software mechinism to progam the event loop needs to callback when the work is done.
+
+The event loop is one (and only one), thread of a processing mechanism.
+
 
 ## Promises
 Promises, are a step up and out of the callback hell of callbacks.   A more elegant way of handling return variable  parameters and errors.  Mostly with the use of .then(), 
@@ -221,6 +234,50 @@ Vectary
 ### Pixi.js
 2D
 
+
+## Vue.js
+
+vuejs.org
+
+
+Combining the best of both of the worlds of the light weight library of React.js and the self containing fully functional framework of Angular.js is Vue.js
+
+I was drawn to this library framework because of its independence from mother corporations like React.js is to Facebook, and Angular.js is to Google.  Vue.js is home grown and is not beholden to proprietary biases.
+
+Our projects will for the most part will be implimented in Vue.js.  Learning from Vue.js first, will allow you to build from the best library framework, and from there allow you to shift over to React.js and Angular.js when you are forced to develop with these.
+
+
+
+Install router first
+
+Vuex, state managnment
+
+
+'v-*' Vue directives is analogus to Angulars 'ag-*"
+
+Components and Props
+
+Vue.js developer tools
+(a module for your chrome browser)
+
+Vuex:
+
+State management & Pattern library
+Similar to Redux (react), flux, easier
+Centralized store for all components
+
+
+
+Vuetur
+
+## Angular.js
+Angular is probably the best engineered all in one framework solution, it requires you to impliment in TypeScript which is a augmentation of JavaScript that forces Type casting in your code which encourages developers to write tight and consider casting variables to their respective types, as integers, floats, boolean, characters, etc.
+
+Created by Google, which is a company of very smart and vetted engineers.
+
+Personally I like Google, and the Engineering mantra, but they have a Denise Ritchie Syndrome,  
+
+
 ## React.js
 React is a nimble library created by Facebook, that allows you to build and render out simple UI components.
 
@@ -259,6 +316,62 @@ The Fetch API is a simple interface for fetching resources. Fetch makes it easie
 Axios()
 A step more evolved is Axios, while not baked into the language, requires the require import to import the Axios library.   Streamlines data fetching, to the nth degree.
 
+## NPM (Node Package Managers)
+Packages:
+
+Express,
+Helper function for Node.js
+
+COR,
+Cross-Object Relay, to over-ride browser restriction safeguards.
+
+Body Parser,
+Parses the JSON "body" of data, into a string of characters to be read and interpreted correctly.
+
+Nodemon,
+Node Monitor, to check and refresh server as new code is input.
+
+Morgan,
+A logging package, that logs your output to the terminal.
+
+Mongoose,
+A database package for MongoDB, that provides DB drivers and a Object to interface with the Mongo NoSQL database.
+
+bcrypt
+This package takes password inputs, salts those password inputs (by adding additional, random data), then hashes the password and salted string, to create a cryptographic string that cannot be read if your db or back-end is ever compromised.
+
+JWT
+JavaScript Web Token
+
+
+## Express
+Express is a helper library framework compliment to Node.js.
+
+Enabling servers to run, and provide routes to web pages served up on the node web server.
+
+JavaScript centric, and JavaScript7 user friendly, Express makes real-time development a breeze.
+
+Project ATM
+Node.js (Express)
+Restful API
+MongoDB
+
+
+/app.js
+
+npm init
+
+npm install express
+npm install nodemon (in dev)
+
+npm install mongoose
+npm install dotenv
+
+npm install body-parser
+npm install cors
+
+
+DB from mlab.com
 
 ## Python
 function (parameters)
