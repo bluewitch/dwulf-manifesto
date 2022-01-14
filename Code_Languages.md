@@ -13,6 +13,16 @@ A polyfill is a piece of code (usually JavaScript on the web) used to provide mo
 
 Brendan Eich, JavaScript, Firefox, Mozilla, and Brave
 
+### Babel.js
+Babel.js, a appropriatly named transpiler reminising to the tower of babel's story, where the humans built a tower called the tower of babel, to reach the heavens, so the earth bound mortals could have a direct communication with god the creator.
+
+Of course, god wasn't having any of this and decided to inflict the mortals with a curse that made them speak in diffrent languages, so they could not communicate or efficiently coordinate the complete construction of the tower of babel.
+
+In JavaScript, the babel.js libraries act as a transpiler mostly for new language features that have not been made completely compatable the all browsers.
+
+Babel.js refactors and re-compiles new and non-compatable JavaScript syntax into, older,  compatable JavaScript that a bowser can understand.
+
+
 ### Lodash.js and underscore.js
 
 Lodash is a JavaScript library which is successor of underscore.js.
@@ -25,6 +35,27 @@ The Underscore.js is a JavaScript software library that provides a lot of useful
 
 The `_.where()` function is used to find all the elements that matches the searching condition.
 
+### TS (Type Script)
+TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. ... js. TypeScript headers for the Node.
+
+### XMLHttpRequest()
+
+The original `XMLHttpRequest`  is a built-in browser object, specifically a constructor that initializes a XMLHttpRequest. 
+
+This allows a XMLHttpRequest (XHR) Object to make HTTP requests in JavaScript.  Allowing XHR Objects to interact with servers. Where you can retrieve data from a URL without having to do a full page refresh.
+
+The word “XML” in its name, is a nomenclature artifact for when XML (Extensible Markup Language) was the only known available data format option, now however, in modern times the XHR Object can operate on any data, not only in XML format (i.e., a JSON data structure).  Through the constructed XHR Object you can upload/download files, track progress and much more.
+
+XHR is used heavily in AJAX (Asynchronous JavaScript And XML) programming.
+
+
+
+fetch()
+
+The Fetch API is a simple interface for fetching resources. Fetch makes it easier to make web requests and handle responses than with the older XMLHttpRequest, which often requires additional logic (for example, for handling redirects). Note: Fetch supports the Cross Origin Resource Sharing (CORS).
+
+Axios()
+A step more evolved is Axios, while not baked into the language, requires the require import to import the Axios library.   Streamlines data fetching, to the nth degree.
 
 
 ## Python
