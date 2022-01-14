@@ -20,6 +20,9 @@ JS Bin
 Fat arrow functions
 `()=>`
 
+## __proto__ vs. prototype
+JavaScript primitive Object, from which all other Objects are born.
+
 ## JSON
 JavaScript Object Notation
 
@@ -132,6 +135,22 @@ Promises, are a step up and out of the callback hell of callbacks.   A more eleg
 ```
 Promises should allow for better composure.
 
+## `this` and `bind`
+What is `this`?
+
+Perhaps the most misunderstood keyword in JavaScript is `this`
+
+This provides access to the value of the scoped global variable in the moment of its invocation.
+
+When out of scope, and not invoked `bind` can provide access to the `this` value.
+
+## Async / Await JS
+Callbacks were atiquiated by promisses in ES6, and async/await are the new evolution of callbacks and promisses and are a much more elegant way to handle returned parameters and errors.
+
+Async/Await
+Is the answer to the callback hell, where you link a callback to another callback to another callback, ad infinim.  It also gives more structure to promisses and is a prefred mechanic to develop on JavaScripts single looping thread.
+
+
 
 ### Polyfill
 A polyfill is a piece of code (usually JavaScript on the web) used to provide modern functioality on older browsers that do not natively support it.  (i.e. `babel.js`)
@@ -169,6 +188,10 @@ Creating charts in JavaScript
 ### Howler.js
 Audible applications
 
+### Highlander.js
+Streams
+
+
 ### Reveal.js
 Slide Show Presentations
 
@@ -198,7 +221,21 @@ Vectary
 ### Pixi.js
 2D
 
+## React.js
+React is a nimble library created by Facebook, that allows you to build and render out simple UI components.
 
+While not as framework comprehensive as Angular, with complete solutions out of the box such as form validation, etc. It has a everything is JavaScript mantra, utilizing JSX, which requires a interpreter called Babel to convert JSX syntax to JavaScript.
+
+
+Create React App
+- Web Server
+- Webpack
+- Babel
+
+Components
+
+### React Native
+Mobile UI development
 
 ### TS (Type Script)
 TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. ... js. TypeScript headers for the Node.
