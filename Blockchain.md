@@ -1,7 +1,62 @@
 # Blockchain and Crypto Currencies
 
 ## Bitcoin (BTC)
+1% HODL
 Think of it as having a key a bank safe in a vault, the difference is only you have the key to your safe and the bank has the keys to the vault which houses all the saves but not the key to your individual safe!
+
+The one that started it all. Is now down to 1%, stack sats, 24/7 until you have one*.
+* 1 BTC
+
+Satoshi Nakamoto built it and dissapeared.  It grew, and became the crypto gold, it is today.
+
+I would parse out 1%-20%, to invest, BTC which is digital gold, and mathamatically scarce, it will go up, but alt-coins will too, with a much more multipliers, and leverage.
+
+You cannot really go wrong with BTC, it is the standard, after all.
+
+1 BTC
+To be apart of the big club.
+
+
+## Polkadot (DOT)
+66% HODL/Stake
+Not much to say, I am pot commited here.  Staking, earning intrest ~20% through staking rewards provided through the Polkadot.
+
+Hypothetically Produces ($8-$10 USD), in DOT, need to scale this, a sample of 408 DOTs, leads to 1 DOT per week.  Modest, gains, all gains are compounded back into STASH, to maximize returns and to increase working capital for the Mother Ship.
+
+Acala, is one to back, at least 50%, of DOT, as staking is a 2 year lock, but yields LDOT, and capital access, to leverage with, until the end of the 2 year lease, your staked DOT, is realesed back in full and, hopefully, in flush.
+
+
+## Ethereum (ETH)
+5% HODL
+
+Proof of Stake
+
+ETH, v2.0 will move from proof of work, to proof of stake.   ETC, or ethereum classic, will continue to be proof of work.
+
+ETH, will be used as a loaned amount, you can stake ETH, often converted into DAI, which is pegged to the USD to recieve interest on staked funds.
+
+(ETH) Ethereum, is a special alt-coin, almost to the point I don't see it as a alt-coin, so much.
+
+Because of Ethereum's programic nature, and its stakability.  I used to feel good about a 80% ETH, and 20% BTC ratio is a good spread for a pre halvening entry.
+
+Just banking ETH, and DAI, and staking it generates interest, dharma.io, is such a service.  But you can only send it DAI, from your crypto wallet, or attach your debit card, with no fee, to seed the account with fiat currency, which will be traded for DAI, banked, and staked.
+
+Liquid in ETH, is flowing to less costly, blockchain networks, currently and still in the werks.
+
+I keep just a little ETH for gwei, for access to some liquid, I can sqeak out of COMP, holding a DAI debt, but also positions in BTC, UNI and of course COMP.
+
+
+## Cardano (ADA)
+5% HODL/Liquid
+Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.
+
+## 
+
+Yoroi, is the lite wallet I use, there is a full Cardano, wallet named D.
+
+This wallet is more flexable, with interest, every epoch, on any balance.
+
+I think it is safe to say this will be a more stream lined configuration.
 
 ### Price Indexes
 Check their data APIs
