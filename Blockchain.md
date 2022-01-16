@@ -125,6 +125,44 @@ In the end, that is the price for custodial overseers, they have liquidity of th
 
 To properly insulate one's wealth one needs to take the best foot forward approach going into the crypto eco-system, do not share your hot wallet private keys, and do not share your persoal KYC/AML data.
 
+# Prisoner of Fiat
+Onboarding anomolies
+
+My initial attempts to get on board and into the crypto eco-system has been fraught with complications...So much so I thought the deepstate was purposefully putting barriers to stop adaptation, which while may be true, probably was more along the lines of Alpha software being passed as completed and bug free.
+
+My first attempt was with a new crypto ATM, in Oregon at the happy valley mall.
+
+The ATM Told me I had a wrong model phone.  I did not understand why, the wallets and the blockchain are 100% software and data and not tied to any specific hardware device or network.  But it would not let me buy any BTC.
+
+The Second attempt, with an actual centralized crypto exchange,  Coinbase, which in retrospect even if I was to sucessfully adopted to would of been a failer, because of KYC/AML mandates, and nessesary sharing of private hot keys.
+
+Regardless, this attempt was still unsucessful, as coinbase sent me 3 deposits into my bank account to verify, instead of 2, and I could not determine which 2 of the 3 were correct, so I was locked out.
+
+Third attempt, with RobinHood, which, I consider unsucessful, due to the fact, RobinHood,  does not even share your private hot keys with the owner of their own crypto, their is no real hot wallet to allow you to move your crypto to annother crypto wallet.  You can only use RobinHood's application, you must sell to have availible cash to buy another crypto currency, you cannot simply exchange one crypto for another directly.
+
+So on proof of keys day, Jan 3, my bot liquidated, my RobinHood "crypto" holdings and I was back to fiat to try again.
+
+4th attempt, was when I got introduced and obtained the Atomic crypto wallet, and attempted to use my bank debit card to purchase BTC, which was denied, by Simplicity, Atomics credit card provider in the UK, reasons unknown.
+
+Then finally, my 5th and final attempt, was simply with my local monthly crypto group, a simple, low cost, crypto wallet to crypto wallet transfer.
+
+~Atomic wallet
+~Scan to send (10 min)
+~1+ confirmations good
+~New balance populates
+~first cyrpto under my control.  With keys only I know.
+
+It felt good to finally be incontrol.
+
+With each attempt to enter the crypto eco-system, met with resistance, first with a crypto ATM, then with attempt to connect with a solid centralized crypto exchange, coinbase, again with a fake, not a true crypto exchange, without private keys and wholely dependent on the 3rd party custodial system then a  release funds, then again, in a attempt to buy with my bank debit card, on a crypto wallet, through simplicity, failed, no reason given.
+
+Only my 5th attempt, with crypto currency holders, crypto wallets and cash in hand, was I able to finally aquire BTC and a little bit of some ETH.
+
+Now that is allot to go through to enter the eco system of a pure 5 pillar crypto currency base case, 2nd class user.
+
+Adoption is easier with centralized approaches, but plauged with onboarding issues, like sharing private hot keys, and mandating KYC/AML all of which provide more vectors of attack, both for the actual crypto in your hot wallet, and on your privacy with your personal details and the added detail of active knowledge that your identity is tied to monitary channels, your legal name and a connection to a financual account in your name, attackers are only a routing and account number away from your banking details, and some soft shoe social engineering from empting your account.
+
+
 # Unstoppable Domains
 IPFS specific Web3 domains I own
 
@@ -151,6 +189,7 @@ https://1stminingrig.com/how-to-mine-monero-randomx-with-cpu-gpu/
 
 # Ethereum
 [ETH TPS (Transactions Per Second)](https://ethtps.info/)
+
 
 
 # Research
