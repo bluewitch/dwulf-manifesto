@@ -50,13 +50,26 @@ I keep just a little ETH for gwei, for access to some liquid, I can sqeak out of
 5% HODL/Liquid
 Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.
 
-## 
-
 Yoroi, is the lite wallet I use, there is a full Cardano, wallet named D.
 
 This wallet is more flexable, with interest, every epoch, on any balance.
 
 I think it is safe to say this will be a more stream lined configuration.
+
+## Synthetix (SNX)
+Synthetix Network Token (SNX) is a cryptocurrency token and operates on the Ethereum platform.
+
+Synthetix Network Token
+
+I hold these,  bearing interest on Aave.
+
+
+## Chainlink (LINK)
+HODL
+ChainLink is a platform which attempts to bridge the gap between smart contracts on the blockchain and real-world applications, which often tend to be off the blockchain. The cryptocurrency uses “oracles”, which find and verify real-world data and bring it on-chain to be integrated into smart contracts.
+
+I hold these coin/tokens,  earning interest and yield farming COMP coin/tokens.  
+
 
 ### Price Indexes
 Check their data APIs
