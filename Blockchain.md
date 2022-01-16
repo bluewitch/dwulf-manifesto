@@ -151,3 +151,17 @@ https://1stminingrig.com/how-to-mine-monero-randomx-with-cpu-gpu/
 
 # Ethereum
 [ETH TPS (Transactions Per Second)](https://ethtps.info/)
+
+
+# Research
+- Altcoin Season Index
+- CryptoQuant
+- Coinmarketcal
+- Glassnode
+- Coindance
+- 3Commas
+- ByBt
+- CryptoPanic
+- Messari
+- TradingView
+
