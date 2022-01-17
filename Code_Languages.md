@@ -491,4 +491,41 @@ typedef struct
 humaniod;
 ```
 - `array` (data_construct)
-- 
+
+## String
+``` c
+// string is a char *
+typedef char *string;
+
+#include <stdio.h>
+
+int main(void)
+{
+    char *s = "dwulf";
+    printf("%p\n", s);
+    printf("%p\n", &s[0]);
+    printf("%p\n", &s[1]);
+    printf("%p\n", &s[2]);
+    printf("%p\n", &s[4]);
+}
+
+// 0x42ab52
+
+------
+int main(void)
+{
+    char *s = "dwulf";
+    printf("%c\n", *s);
+    printf("%c\n", *(s+1));
+    printf("%c\n", *(s+2));
+    printf("%c\n", *(s+3));
+    printf("%c\n", *(s+4));
+    printf("%c\n", *(s+5));
+}
+
+// d
+// w
+// u
+// l
+// f
+```
