@@ -473,6 +473,12 @@ Tools
 - `struct` (data_construct) Design your own data structure, pre cursor to the `Object`
 
 ### Structure
+A Structure (aka. Struct) in C is a defineable datatype, like intergers, doubles, longs, and characters being datatypes. 
+
+The Stuct is a pre cursor to an Object data-type in more modern languages such as Python or JavaScript, as these languages do most of the heavy lifting and abstract away many details of data manipulation.
+
+In the C programming language the `struct` keyword, can create any specialized datatype the programmer wishes, enabling the mixing of other data-types.
+
 
 
 ``` c
