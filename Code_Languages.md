@@ -506,6 +506,17 @@ humaniod;
 ```
 - `array` (data_construct)
 
+### Node (data_construct)
+
+``` c
+typedef struct node
+{
+      int n;
+      struct node *left;
+      struct node *right;
+}
+node;
+```
 
 ### Linked List (data_construct)
 
@@ -554,4 +565,31 @@ int main(void)
 // u
 // l
 // f
+```
+
+# Pointers
+
+``` c
+
+// incorrect
+// only changes the values in the
+//   copies of the varibles.
+void swap(int a, int b)
+{
+    int tmp = a;
+    a = b;
+    b = tmp;
+}
+
+
+// correct
+// passes the poiners of memory
+//  addresses, not just values of
+//  varibles themselves.
+void swap(int *a, int *b)
+{
+    int tmp = *a;
+    *a = *b;
+    *b = tmp;
+}
 ```
