@@ -514,6 +514,13 @@ is_even(3)
 s = "Python"
 print(s[-1::-1])
 ```
+For Python, import the re library, we will use the urllib and beautiful soup.
+
+``` python
+import re
+
+pattern = re.compile (r'  ', )
+```
 
 
 ## Go
