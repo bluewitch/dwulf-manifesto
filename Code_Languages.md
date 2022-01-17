@@ -382,6 +382,120 @@ DB from mlab.com
 function (parameters)
 
 Python
+
+Python is a good primer language compliment to learning other languages, including the sister languages of PHP and JavaScript.
+
+Although Python syntax is diffrent, and spacing style counts, since without proper spacing, the Python Interpreter will throw syntactical errors. 
+
+This forces good style habits from the start and is a good reason to start learning to program with Python first as being forced to implimenting good style encourages the Python programmer to have a solid style to pass on to other langauges.
+
+Once a Python interpreter is installed on your computer system, Windows may not have a Python interpreter on Windows by default, so Windows users will have to manually install it to their system, then you can run it with the command line or terminal window.
+
+Also the Jupyter browser interface is another interaction point, with definitivly visable input and output layers, source code you write and its output, great to demonstrate real-time execution of your Python program(s).
+
+
+pip
+The pip tool, is analegus to aptget, as it installs libraries and frameworks for your core Python development environment.
+
+
+For Web Development
+
+~Flask
+~Django
+
+Finance
+Libraries
+Pandas
+Pandas-datareader
+Mat
+SciKit
+
+Take Aways:
+Python is arguably the best starting language to learn and practice from.
+
+Python can do everything moderetly well, but not optimatly well.  Such as when comparing JavaScript and Python to browser based development. (Like JavaScript being native to the browser, and Python not.)
+
+Python is able to build out quick code prototypes, and demonstrate data reports, it is especially adaptable to Machine Learning.
+
+My first technical programming test, a binary search.  
+``` python
+# Python Program for recursive binary search.
+# Returns index of x in arr if present, else -1
+
+def binarySearch (arr, l, r, x):
+
+ 
+
+    # Check base case
+
+    if r >= l:
+
+ 
+
+        mid = l + (r - l)/2
+
+ 
+
+        # If element is present at the middle itself
+
+        if arr[mid] == x:
+
+            return mid
+
+         
+
+        # If element is smaller than mid, then it 
+
+        # can only be present in left subarray
+
+        elif arr[mid] > x:
+
+            return binarySearch(arr, l, mid-1, x)
+
+ 
+
+        # Else the element can only be present 
+
+        # in right subarray
+
+        else:
+
+            return binarySearch(arr, mid + 1, r, x)
+
+ 
+
+    else:
+
+        # Element is not present in the array
+
+        return -1
+
+ 
+
+# Test array
+
+arr = [ 2, 3, 4, 10, 40 ]
+
+x = 10
+
+ 
+
+# Function call
+
+result = binarySearch(arr, 0, len(arr)-1, x)
+
+ 
+
+if result != -1:
+
+    print "Element is present at index % d" % result
+
+else:
+
+    print "Element is not present in array"
+```
+
+Python
 ``` python
 def is_even(i):
    """
