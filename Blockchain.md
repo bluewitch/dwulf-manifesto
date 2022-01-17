@@ -1,5 +1,15 @@
 # Blockchain and Crypto Currencies
 
+## OkBitcoiner
+First Steps, are the most important ones, keep the night and day divided.  The seperation of church of the nation-state and state of your personal wealth.
+0
+Your eco-system of crypto should never become tainted or mapped to your personal identity, through KYC/AML mandates often required from centralized crypto exchanges.  You should always consider DeFi options when trading the crypto holdings you control.
+
+If these proper first principled security protocols are not practiced, then your identity will be attached to your crypto wealth holdings and will be at best forever indexed and potentially targeted by hackers, collection agencies,  governments, tax authorities, and other bad actors. 
+
+At worst, provide yet another permanent vector of attack for your identity.
+
+
 ## Bitcoin (BTC)
 1% HODL
 Think of it as having a key a bank safe in a vault, the difference is only you have the key to your safe and the bank has the keys to the vault which houses all the saves but not the key to your individual safe!
@@ -15,6 +25,32 @@ You cannot really go wrong with BTC, it is the standard, after all.
 
 1 BTC
 To be apart of the big club.
+
+### Bitcoin Price
+It is important to realize that crypto currency does not have a price, it has an exchange rate.
+
+The price will fall inline from the spread of the exchange rate, the price spread is the diffrence between the ask and bid price. 
+
+The spot price is where the ask exchange price is inline with the bid exchange price, and the actual price is negotiated (finalized) and set upon.
+
+Bisq illustrates this in its UI, with what is called an order book, that shows the selling bids and the buying offers.
+
+### Proof-of-Keys
+The Proof-of-Keys, is more a reminder to check your hot crypto wallets attached to your centralized crypto exchange accounts to make sure your funds can be liquidated and verified.
+
+If you run your own node and miner, you most certainly do not need to do this as if you are a 0 Class level user, you almost certainly got you ducks,
+
+Remember everybody proof of keys is on January 3rd.
+
+Liquidate your hot wallets from your cryptocurrency exchanges and make sure the funds are there.
+
+This is mostly a safety measure to keep crypto exchanges on their toes as hot crypto wallets directly attached to crypto exchanges are a vulnerable vector to 3rd party hacks.
+
+If everything checks out, you can reassert and repurchase your crypto. It would be also a great time to recalibrate your crypto holdings in the appropriate cold, warm, or hot crypto wallets.
+
+And always remember,
+"Not your keys not your coins." 
+
 
 
 ## Polkadot (DOT)
