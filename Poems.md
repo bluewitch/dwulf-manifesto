@@ -76,4 +76,51 @@ trust the code correct.
 The blockchains gears will never chafe,
 and testing will inspect.
 
-##
+## W2 I work for me or I work for you
+
+The battle for the W-2, I work for me or I work for you.
+ 
+The details of an employment compact,
+Bundled in an at will contract.
+ 
+1/3 or more your coin deducted,
+As indentured servitude is instructed.
+ 
+Stake your coin as is the mandates,
+For all the years to follow.
+A careful craft of Freedom substrates,
+Because slavery is hard to swallow.
+ 
+But time and pressure realize, future options just got slimmer.
+ 
+And then you see with real eyes,
+The lies that called you winner.
+ 
+A city-state, that forced your fate, and told you what you're good for.
+The illusion of choice, and the power of voice.
+Showed all, but the 1 door.
+ 
+And now you stand at the end of time, your essence all but spent.
+Your masters are not so kind, pushed to the trash bin you are sent.
+ 
+To cut your loss, they receive their gain, their fortune on the back of your pain.
+ 
+A trinket here, a bauble there, and words they spoke to charm you.
+ 
+Their promises where open air,
+They broke them when they were through.
+ 
+So when you go job hunting,  or looking for a patron master.
+Know just how deep, your freedoms are cutting, to keep you from disaster.
+ 
+It never really is so clear, the terms of the engaument.
+But only the wise know how to shear, a duty from enslavement.
+ 
+But the cost of progress is sometimes worth its price.
+It takes no act of congress to trade your life for spice.
+ 
+The world keeps on spinning, as the masters keep on winning.
+ 
+The fish will just keep swimming, as the fisher king keeps grinning.
+
+
