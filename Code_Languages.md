@@ -464,9 +464,25 @@ I don't like to do these, I prefer, to work on actual practical projects and pro
 
 # Honourable Mentions
 ## C/C++
+C language
+
+This is not the easiest programming language to start with, but it is the best to start with as it illustrates low order operations, without making your eyes bleed, like the way assembler and binary would.
+
+The hardest thing for me to wrap my head around was the concept of pointers.  Or more specifically, a variable"s memory address location, and the direct value of that location.
+
+Leads to the suttle diffrence between passing by refrence, passing by refrence to the memory address and passing by value, passing a copy of the value.
+
+Meaning with the first, one can directly manipulate the adresses value and the second can manipulate the copy of the addressed value.
+
+Yes, it was a head scratcher, and was one for me for many years.   I moved on to less maintanced, looser typed languages, like JavaScript and Python respectively, but came full circle, when I grew more respect for more structured type cast language implimentations through TypeScript.
+
+
+
 Tools
-- `malloc` (memory_tools) C function in `stdlib.h`
+- `malloc` (memory_tools) C function in `stdlib.h`, allocates memory from heap
 - `realloc` (memory_tools) Reallocates memory into heap
+- `free` (memory_tools) Deallocates (returns) memory back to heap
+- `valgrind` (memory_tools) Finds memory leaks
 - `char *` (memory_tools) Pointer to memory location of data
 - `gdb` (debugging_tools) GNU debugger
 - `make` (compolation_tools) Linux Compiler
@@ -479,8 +495,6 @@ The Stuct is a pre cursor to an Object data-type in more modern languages such a
 
 In the C programming language the `struct` keyword, can create any specialized datatype the programmer wishes, enabling the mixing of other data-types.
 
-
-
 ``` c
 typedef struct
 {
@@ -491,6 +505,18 @@ typedef struct
 humaniod;
 ```
 - `array` (data_construct)
+
+
+### Linked List (data_construct)
+
+``` c
+typedef struct node
+{
+      int n;
+      struct node *next; // points to the next node.
+}
+node;
+```
 
 ## String
 ``` c
