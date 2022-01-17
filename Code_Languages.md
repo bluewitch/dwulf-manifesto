@@ -460,3 +460,29 @@ phpinfo()
 Often called toy projects, are code "excersizes", that give problems that test your ability to reconcile and provide bug free working code to provide a solution for.
 
 I don't like to do these, I prefer, to work on actual practical projects and project tools, as it feels with toy code projects I am just spinning my wheels spending time to factor code for psets, but I have come to understand the nessesity of practicing with them.
+
+
+# Honourable Mentions
+## C/C++
+Tools
+- `malloc` (memory_tools) C function in `stdlib.h`
+- `realloc` (memory_tools) Reallocates memory into heap
+- `char *` (memory_tools) Pointer to memory location of data
+- `gdb` (debugging_tools) GNU debugger
+- `make` (compolation_tools) Linux Compiler
+- `struct` (data_construct) Design your own data structure, pre cursor to the `Object`
+
+### Structure
+
+
+``` c
+typedef struct
+{
+      char *name;
+      char *race;
+      bool *sex;
+}
+humaniod;
+```
+- `array` (data_construct)
+- 
