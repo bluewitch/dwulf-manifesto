@@ -28,6 +28,34 @@ They are always tehered to your legal personal legal identity.
 
 Either by KYC or AML, that is required by default when you open up any modern and regulated bank account. Or by your personal social security number, required for W2 employment which serves as a numeric index that the IRS can use to identify you personally and determine monies paid to you through labour.
 
+# Tax Rant
+And here we go again...
+
+The typical tax rant, you want police and Emergency Services don't you, you want to help the poor and mentally ill don't you, you want to educate our citizens don't you.
+
+To that I say have some fucking accountability.
+
+Yes I want police, that are agents of Justice, and not just agents of the state and the wealthy.
+
+Yes, I want actual emergency services, that include the services I would actually use in an emergency, like an ambulance ride to the hospital ( a reasonably priced ambulance ride.)
+
+Helping the poor and mentally ill, absolutely! Just stop cutting all the social services for the mentally ill you "Joker"
+
+What is the fair tax solution?
+
+First off, income tax is off the table. Every citizen is entitled to 100% of their income. Abolish the IRS. No more automatic tax deductions from your paycheck. Giving the tax authorities an interest-free loan for a year.
+
+I hear you saying, what about all the amazing services that we get like the prison industrial complex, or the military industrial complex, and the banking industrial complex which for some reason can't be allowed to fail.
+
+VAT taxes, sales taxes, property taxes, and even contributing voluntary taxes for the things that we all care about.  When you consume with your 100% tax free wealth, you pay a premium to contribute to what you consume. 
+
+Buy a house, you pay property taxes, for local communities, schools and such.
+
+Buy a car, you pay the VAT for roads and bridges.
+
+Buy food, sales tax for the health inspector, etc.
+
+Fuck the just pay your taxes mantra.  Show us your books, and we the people, not the lobyst and polititions will decide what is important enough to opt-in to, and what is to opt-out of. 
 Crypto and Bitcoin, specifically the creation of crypto warm and cold wallets, initially does not, mandate this.  This may not be so for hot crypto wallets created on regulated centralized crypto exchanges.
 
 Unless you opt-into sharing your personal information, by submitting KYC/AML to the regulated centralized crypto exchanges that require the user to do so in order to use the crypto exchange services.
