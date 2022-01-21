@@ -7,6 +7,11 @@
 - Neutral (Impartial)
 - Censorship Resistant 
 
+## Wallet Ratio
+- 70% cold storage, Hardware, off-line
+- 20% warm storage, software, online (main driver)
+- 10% hot storage, software 3rd party, online (custodial exchange)
+
 ## Mix it up (Coin Join)
 Is a coin mixer, and a tool to help you protect your transactional privacy.   Coin Join is designed to recieve several inputs, shuffle the recieved tokens and output token designations to their respective recipants.
 
@@ -22,6 +27,60 @@ Your eco-system of crypto should never become tainted or mapped to your personal
 If these proper first principled security protocols are not practiced, then your identity will be attached to your crypto wealth holdings and will be at best forever indexed and potentially targeted by hackers, collection agencies,  governments, tax authorities, and other bad actors. 
 
 At worst, provide yet another permanent vector of attack for your identity.
+
+# Bisq
+A literal non-custodial decentralized crypto exchange, where you manage the leg work, that a custodial centralized crypto exchange would of done on your behalf.
+
+The practical advantage is  retaining all your sensitive credentials, like your personal identification, which is mandated by regulated and centralized crypto exchanges,  your hot crypto wallet's private key, which is nessesarily required, with any exchange trade, centralized or decentralized.
+
+The critical advantage of Bisq is securing your privacy, before exchanging, your personal identity or private hot crypto wallet key is completely under your control.  As it should be.
+
+I have sesrched high and low for best first new steps into the crypto currency eco-sphere.  That holds true to the 5 pillars of optimum crypto currency exchange protocols.
+
+~Open (Permissionless)
+~Public (Available to Everybody)
+~Borderless (Not sovergien or centralized)
+~Neutral (Impartial)
+~Censorship Resistant
+
+Open
+Open or permissionless means it's open and you don't need permission to use or trade it. You don't need a governmental ID, you don't need special privilege, you don't need to be born in the certain area. The name implies it's open and permission less.
+
+Public
+Anyone can participate, availible to the public.
+
+Borderless
+Not bound to sovergien centralized laws of the land, Which can impose  arbitrary restrictions, such as KYC (know your customer) requirements.  Or prevent non-citizens of any city-state from participating it only follows the blockchain "law" of math and code.
+
+
+Neutral
+Impartial, is code, a series of switches and buttons, set into motion by cause and effect.
+
+Censorship Resistant
+Cannot be Censored, Blocked, or Stopped.
+
+
+You become the exchange:
+
+How is trading with Bisq diffrent from centralized alternatives?
+
+Cons
+### No automatic (automagic) order matching, you must take the reigns and manually match the trading pairs you want to trade with.
+
+### Protocol coordinates out-of-band (outside of the bisq app) fiat payments, you must determing the banking network protocols to use when trading within fiat channels.
+
+### Settlement takes longer
+
+Benefits:
+
+### Entirely non-custodial with regard to crypto and fiat
+
+### Staking Security Deposits from both buyer (taker) and seller (maker).
+
+### 2-of-2 multisig escrow with BTC or coloured coin BSQ  held during the open channel to secure the trade
+
+BSQ (coloured coins)
+Can convert to ETH or BTC
 
 
 ## Bitcoin (BTC)
