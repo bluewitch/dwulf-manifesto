@@ -1,8 +1,6 @@
 # The Book
 ## dwulf-manifesto
 
-The dwulf-manifesto is a personal declaration and guidebook written by the author, dwulf. This manifesto reflects dwulf's perspective on life, social interactions, personal values, and the pursuit of knowledge and expertise in various domains. In this readme, we will explore the key themes and line items mentioned in the manifesto in a more descriptive manner.
-
 People often perceive me as standoffish, keeping to myself, and anti-social. While there is some truth to that, I choose to be selective in my social interactions, preferring to spend time with people I deem worthy, even if it means being alone.
 
 I am wary of getting involved in trivial dramas that resemble cackling hens, as they only bring disharmony, senseless arguments, and waste valuable time that can never be reclaimed. Tempus fugit. (time flies)
@@ -15,16 +13,27 @@ To them, I say:
 You don't have to understand how the computer works; you just need to know how to work with it.
 
 ## First Principles
-- Code primitives in JavaScript, Python, and Rust.
+- Code primitives and first principles in JavaScript, Python, and Rust.  
+- A clear understanding of the algorthm and code base.
+- Git fluency (all common  comands)
+- Linux fluency with administration of NixOS, Ubuntu, Kali
 
 ## The Hard Stuff
-- Hardware devices, Raspberry Pi.
+- Adroid devices, Mobile
+- Hardware devices, Microprocessors, Raspberry Pi.
+- Drone devices, DJI
 
 ## Meta Machines
-- Libraries/frameworks, Git, Docker, Kubernetes, GraphQL.
+- Optimized configurations (aliases, BASH)
+- Libraries/frameworks: GraphQL, REST, gRPC
+- Containers: Docker, Kubernetes.
 
-## Blockchain/Crypto
-- Self-custody crypto wallets, exchanges, mining, nodes.
+## Blockchain/Crypto (Avado Metal)
+- Self-custody crypto wallets, 
+- Running DeFi exchanges
+- Running Validators
+- Running Coallators 
+- Running Nodes
 
 ## Health
 - Diet, exercise, and sleep.
