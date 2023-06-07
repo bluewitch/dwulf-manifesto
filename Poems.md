@@ -1,7 +1,38 @@
 # Poems (Not Volgon)
 
 ## DOT A Lot
+I dot allot  
+With all my dots  
 
+It's locked into my hash,  
+An ever growing stash,  
+Of all my crypto cash,  
+While the shitcoins only crash.  
+
+Collator holds the details,  
+that are put upon the node.  
+buying money that retails,  
+Shopping DOT abode.  
+
+> Validators, nominators checking all the blocks,  
+> Lambda running automators,  
+> Cashing in the stocks.  
+
+Keeping daily rhythm by crunching all the numbers,  
+and the nightly calculations  
+while the earth just slumbers.  
+
+> Validators, nominators checking all the blocks,  
+> Lambda running automators,  
+> Cashing in the stocks.  
+
+So I have a hash,  
+that represents my cash,  
+hidden in my stash,  
+controlled by scripts in bash.  
+
+
+## old one
 I dot allot
 With all my dots
 
