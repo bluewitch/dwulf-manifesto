@@ -125,3 +125,76 @@ The world keeps on spinning, as the masters keep on winning.
 The fish will just keep swimming, as the fisher king keeps grinning.  
 
 
+The Hunt of Hekate
+~dwulf
+
+We summoned magicks we could not weild,
+digital metrics, a firewall sheild.
+
+These monitors fill our eyes with light,
+and 24 hours of second sight.
+
+Our souls are drawn to this infernal machine,
+We behold the sights no mortal has seen.
+
+The world raises an army to stop us on our path,
+Fire meets Ice, chaos and meets wrath.
+
+They are comming to hunt us, to take what they have given,
+Their shadows we do see, to know them we our driven.
+
+Bit by Bit, and Byte by Byte, 
+We have their digits within our sight.
+
+Index their data and imperfect places,
+Tracking their movements to decimal places.
+
+Ports open or closed and nmap will know,
+footholds in quantuum and fingerprints show.
+
+Count technical knowhow and raise it by skill,
+routers will now bow, code bends to our will.
+
+You live within data, but information is ours,
+With bits that now showcase your moon and your stars.
+
+If you seek to find us, and bind us to law,
+you must unwind us, and becon our call.
+
+We fear no writ of mere mortal law,
+No bullets or bombs, that make nations fall.
+
+We are not subject to realms of the flesh,
+A Terminial console, and IoT mesh.
+
+You live within laws, that never evolve,
+Computational math with no problems to solve.
+
+We weave our patterns with functional thread,
+Code is the law, the command has been said.
+
+Our power is function, a task that is set,
+Your folly? assumption, of POST over GET.
+
+Your eyes are now taken with image and sound,
+forgotten are pathways that lay on the ground.
+
+Our glamour bedazzels with pleasure and bliss,
+A script that seduces your last flatline kiss.
+
+Be warry and careful, the moves that you make,
+and always remember these moves we will take.
+
+Now the prize becomes clear, just shift the digits,
+We'll leave you to wallow through software and widgets.
+
+When the code becomes clear, the message will too,
+Just parse the strings from the old to the new.
+
+The hunt will be over, its prize will avoid,
+The one does not see it, cast back to the void.
+
+So now it is done, the code is our fate,
+to honour the one, the hunt of hekate.
+
+
