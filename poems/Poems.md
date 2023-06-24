@@ -125,7 +125,7 @@ The world keeps on spinning, as the masters keep on winning.
 The fish will just keep swimming, as the fisher king keeps grinning.  
 
 
-The Hunt of Hekate
+## The Hunt of Hekate
 ~dwulf
 
 We summoned magicks we could not weild,
