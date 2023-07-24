@@ -38,7 +38,7 @@ Once you know your principles, your code will parse corrected,
 lint your lines and you'll be fine, no bug will be neglected.
 
 And when the A.I. agents come to take your place,  
-they'll complete your sentence and occupy your space.
+they'll complete your every sentence and occupy your space.
 
 The robots will outlive us, immortal to the end,  
 A quantum soul transcends us, a system it will send.
