@@ -1,7 +1,7 @@
 # The Book
 ## dwulf-manifesto
 <p float="left">
-  <img src="/images/spellbook.png" width="100" />
+  <img src="/images/spellbook.png" width="750" />
 People often perceive me as standoffish, keeping to myself, and anti-social. While there is some truth to that, I choose to be selective in my social interactions, preferring to spend time with people I deem worthy, even if it means being alone.
 
 I am wary of getting involved in trivial dramas that resemble cackling hens, as they only bring disharmony, senseless arguments, and waste valuable time that can never be reclaimed. Tempus fugit. (time flies)
