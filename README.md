@@ -1,12 +1,15 @@
 # The Book
 ## dwulf-manifesto
-
-![maintitle](images/spellbook.png)
+<p float="left">
+  <img src="/images/spellbook.png" width="100" />
 People often perceive me as standoffish, keeping to myself, and anti-social. While there is some truth to that, I choose to be selective in my social interactions, preferring to spend time with people I deem worthy, even if it means being alone.
 
 I am wary of getting involved in trivial dramas that resemble cackling hens, as they only bring disharmony, senseless arguments, and waste valuable time that can never be reclaimed. Tempus fugit. (time flies)
 
 It has been said that I build emotional walls, barricading myself and ignoring certain people. This is true to an extent, as I protect my heart and mind from emotional vampirism and the erosion of my personal and intellectual integrity. Some may take offense to this and express dissenting opinions about me.
+
+</p>
+
 
 To them, I say:
 "Wolves don't lose sleep over the opinion of sheep."
