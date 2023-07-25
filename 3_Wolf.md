@@ -1,7 +1,8 @@
 # The book of the wizard, is divided into 3 foci, First Principles,  DevOps, and Blockchain.
 
 ## First Principles
-Start with the primitives,  Integers, Strings, etc., Build the Arrays, and Vectors.  Then the Objects you desire.
+First Principles, are the building blocks of the book, as always we start with the primitives,  
+Integers, Strings, etc., then build the Arrays, and Vectors.  Then the Objects you desire.
 
 With native interface and object manipulation proficiency with the BASH terminal and the primitives of programming languages of the machine there is no problem that cannot be configured to werk.
 
