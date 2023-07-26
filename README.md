@@ -12,7 +12,11 @@ To them, I say:
 
 You don't have to understand how the computer works; you just need to know how to work with it.
 
-<br>
+
+
+
+
+
 ## First Principles
 - Code primitives and first principles in JavaScript, Python, and Rust.  
 - A clear understanding of the algorthm and code base.
