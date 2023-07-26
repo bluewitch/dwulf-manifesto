@@ -2,7 +2,7 @@
 ## dwulf-manifesto
 
   
-<img align="left" src="/images/spellbook.png" alt="Book of Shadows"><p>Compiled Code is the Law, ***Code is the Law***.
+<img align="left" src="/images/spellbook.png" width="33%"alt="Book of Shadows"><p>Compiled Code is the Law, ***Code is the Law***.
 There is a Rule of Law, but it is too slow and too buracratic.  By the time we compile a new dApp and run its smart contract,
 the Rule of Law was involved in...co-chairing the committee that reviewed the recommendation to revise the colour of the book that regulation is in...they kept it gray.</p>
 
