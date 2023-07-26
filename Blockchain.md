@@ -118,20 +118,20 @@ In conclusion, Bisq exemplifies the future of cryptocurrency exchanges, demonstr
 
 
 ## Bitcoin (BTC)
-1% HODL
+The one that started it all. Stack sats, 24/7 until you have one*.
+* 1 BTC
+Do a Dollar Cost Average and 1% of all income and just HODL.  Buy actual BTC, not that ETF horse shit, actual BTC is good, but you might want to get it wrapped to interoperate with liquidity services.
 Think of it as having a key a bank safe in a vault, the difference is only you have the key to your safe and the bank has the keys to the vault which houses all the saves but not the key to your individual safe!
 
-The one that started it all. Is now down to 1%, stack sats, 24/7 until you have one*.
+The one that started it all. Stack sats, 24/7 until you have one*.
 * 1 BTC
 
 Satoshi Nakamoto built it and dissapeared.  It grew, and became the crypto gold, it is today.
 
-I would parse out 1%-20%, to invest, BTC which is digital gold, and mathamatically scarce, it will go up, but alt-coins will too, with a much more multipliers, and leverage.
+I would parse out 1%-20%, to invest, BTC which is digital gold, and mathamatically scarce, it will go up, but alt-coins will too, with a much more multipliers, and leverage. You cannot really go wrong with BTC, it is the standard, after all.
 
-You cannot really go wrong with BTC, it is the standard, after all.
-
-1 BTC
-To be apart of the big club.
+# 1 BTC
+*To be apart of the big club.*
 
 ### Bitcoin Price
 It is important to realize that crypto currency does not have a price, it has an exchange rate.
