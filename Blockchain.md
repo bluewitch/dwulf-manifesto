@@ -1,11 +1,11 @@
 # Blockchain and Crypto Currencies
 ![MainTitle](/images/blockchain1.png)
 # 5 Pillars of Crypto
-- Open (Permissionless)
-- Public (Available to Everybody)
-- Borderless (Not sovergien centralized)
-- Neutral (Impartial)
-- Censorship Resistant 
+- ***Open (Permissionless)***
+- ***Public (Available to Everybody)***
+- ***Borderless (Not sovergien centralized)***
+- ***Neutral (Impartial)***
+- ***Censorship Resistant*** 
 
 ## Wallet Ratio
 - 70% cold storage, Hardware, off-line
