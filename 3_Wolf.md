@@ -1,4 +1,4 @@
-# The book of the wizard, is divided into 3 foci, First Principles,  DevOps, and Blockchain.
+# The book of Shadows: 3 foci; First Principles,  DevOps, and Blockchain.
 
 ## First Principles
 First Principles, are the building blocks of the book, as always we start with the primitives,  
