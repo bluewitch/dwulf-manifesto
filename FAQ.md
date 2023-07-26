@@ -1,15 +1,9 @@
 # Frequently Asked Questions
 
-## Rules of Engagement
+## Engagement Guidelines:
 
-### Must have remote options
+1. ***Remote Work Policy:*** We insist on the provision of remote work options for all roles. In the event that a role is mandated to be on-site and does not permit any degree of remote work flexibility, the contractual agreement must henceforth include comprehensive relocation and housing subsidies.
 
-All mandated onsite roles that can not or will not offer any professional remote option flexibility must include full relocation and full housing subsidies as a part of the contract going forward.  Thanks.
+2. ***Preferred Employment Type:*** Our preference is to engage via a Decentralized Autonomous Organization (DAO) employment structure. We are open to considering 1099 contract roles based on the specific project requirements. However, we do not typically prefer or consider W2 employment positions.
 
-### DAO Employment prefered
-1099 contract roles are considered depending on project and W2 positions are not even considered or prefered
-
-### What are you seeking in compensation?
-Without knowing the project or the project details, I am unable to assess an accurate level of fair compensation. I would be more comfortable negotiating these numbers after a budget is established, the project and details of said project are known and only after a offer is made.
-
-Current local market rates are a good starting point until project and budget details are known
+3. ***Compensation:*** Without specific knowledge of the project or its particulars, it's not feasible to determine an appropriate compensation level. We prefer to engage in compensation negotiations once a budget has been outlined, project details are fully disclosed, and an offer has been extended. Until such time, local market rates can be employed as a preliminary reference point.
