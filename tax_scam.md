@@ -104,3 +104,21 @@ This is why, with the same complications of keeping personal private data, priva
 
 With USDT, ( tether ), under fire, from the SEC, and the courts, stable coins, that can be seized are no diffrent than fiat accounts that can be frozen, at will, for any reason to let the courts hash it out and decide if you get your money or not.
 
+### Questions on tax authorities tracking your wallet
+If the whole purpose of bitcoin was to eliminate the governments control of your own money, after all any bitcoin trade can be traced back to the blockchain and every blockchain has a node and every node has a person behind it, then what's it about?
+
+Bitcoin, and other true 5 pillar decentralized crypto currencies are designed to eliminate all 3rd party custodial control of your wealth.  This includes your government.
+
+While it is true, that the linked-list hashes that identify the actual transaction can be tracked, audited and traced through the historical legacy of  the Blockchain.
+
+It is not nessecarily true that a node, or crypto wallet is tethered to a personal identity, the node or crypto wallet is only tied to the transaction itself, which is controlled, but may not nessesarily be owned by whomever is controlling the trasaction on the blockchain.
+
+That being said, governments or tax authorities that want to determine ownership of any given transaction are forced to resolve this by mandating KYC/AML on crypto exchanges they force their regulations on, under threat of legal sanctions, heavy fines, or imprisonment.
+
+They also, hire 3rd party analyic firms to track all transactions on the blockchain to determine which transactions are "owned" by their citizen users.
+
+As for what is the point, if they will seemingly inevitably be able to track all users and be able to determine if said users are in fact their citizens.
+
+The reality is with true crypto exchange decentralization especially with mature DAO orchistration, they will not and cannot.
+
+If they could, they would of done so already.
