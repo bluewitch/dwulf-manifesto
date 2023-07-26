@@ -32,7 +32,7 @@ Creating a pristine working (bug free) image.
 - DevOps
 - OS Workspace: Linux Ubuntu
 - Tools: JavaScript Node.js (NPM), Python, Cython, Rust (Cargo),
-- Co-Ops: Ansible, Docker,k8,Prometheus and Grafana
+- Co-Ops: Ansible, Docker,k8 (Kubernetes),Prometheus and Grafana
 
 
 ## Blockchain
