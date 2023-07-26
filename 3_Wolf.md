@@ -32,7 +32,7 @@ Creating a pristine working (bug free) image.
 - DevOps
 - OS Workspace: Linux Ubuntu
 - Tools: JavaScript Node.js (NPM), Python, Cython, Rust (Cargo),
-- Co-Ops: Ansible, Docker,k8,
+- Co-Ops: Ansible, Docker,k8,Prometheus and Grafana
 
 
 ## Blockchain
@@ -42,15 +42,14 @@ Is the means and the money, to provide options to implement from.
 
 Experience in this will set one to self custodial crypto wallets, lighting node operations,  and management of full validators, and delegators.
 
-- Crypto Blockchain
-- Solidity, Vipr, Substrate
-- Smart Contract
-- DeFi, Terra Luna, Astar Plasm
-
-Fresh accounts,  should be incepted through a air gapped, cold hardware wallet, trezor, or nano x.  with crypto steel.
+- Crypto Blockchain, BTC (MyNode)
+- EVM: Solidity, Vipr
+- Polkadot: Substrate, Ink! Swanky (Smart Contract)
+- Para-Chains: Astar(Plasm), Acala, Nodle,
+- Fresh accounts, should be incepted through a air gapped, cold hardware wallet, trezor, or nano x.  with crypto steel as primary backup.
 
 ## Raspberry Pi (MyNode) Lightning.
-
+Bitcoin and Litecoin node with lightning and other options
 MyNode Lighting Node
 (ARM, 1TB, 4 GIG RAM)
 
