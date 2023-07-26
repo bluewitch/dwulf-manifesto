@@ -2,7 +2,7 @@
 ## dwulf-manifesto
 
   
-<img align="left" src="/images/spellbook.png" width=300px alt="Book of Shadows"><p>Compiled Code is the Law, ***Code is the Law***.
+<img align="left" src="/images/spellbook.png" width=500px alt="Book of Shadows"><p>Compiled Code is the Law, ***Code is the Law***.
 There is a Rule of Law, but it is too slow and too buracratic.  By the time we compile a new dApp and run its smart contract,
 the Rule of Law was involved in...co-chairing the committee that reviewed the recommendation to revise the colour of the book that regulation is in...they kept it gray.</p>
 
@@ -37,7 +37,7 @@ To them, I say:
 - Containers: Docker, Kubernetes.
 
 ## Blockchain/Crypto (Avado Metal)
-<img align="left" src="/images/avado.jpg" alt="Avado Device">
+<img align="left" src="/images/avado.jpg" width=333px  alt="Avado Device">
 - Self-custody crypto wallets, 
 - Running DeFi exchanges
 - Running Validators
