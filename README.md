@@ -37,6 +37,7 @@ To them, I say:
 - Containers: Docker, Kubernetes.
 
 ## Blockchain/Crypto (Avado Metal)
+<img align="left" src="/images/avado.jpg" alt="Avado Device">
 - Self-custody crypto wallets, 
 - Running DeFi exchanges
 - Running Validators
