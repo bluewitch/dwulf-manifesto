@@ -6,7 +6,7 @@ First Principles, are the building blocks of the book, as always we start with t
 With native interface and object manipulation proficiency with the BASH terminal and the primitive building blocks of programming languages of the machine there is no problem that cannot be configured to werk.
 
 ### First Principles
-- JavaScript, node.js (npm, node packet manager)
+- JavaScript ECMA, node.js (npm, node packet manager)
 - ### Python: Programming Language
 - Flask: Micro Framework
 - Django: Web Framework
@@ -20,14 +20,19 @@ With native interface and object manipulation proficiency with the BASH terminal
 
 
 ## DevOps
-Is the CI/CD workflow. Installing OS, Updating and Uprading, Git Repo Build with dependencies.  Linting and Unit Testing, auto merging.
+Git is the key for DevOps, Github is a pretty way to illustrate your work to the public, and the CI/CD workflow. 
+
+At its core, I feel DevOps should be a tool in all Developer's tool box, because it is just so dam usefull. 
+
+From laying the foundation in a virtual machine or container Installing OS, Updating and Uprading, Git Repo Build with dependencies.  
+Linting and Unit Testing, auto merging to code.
 
 Creating a pristine working (bug free) image.
 
 - DevOps
-- OS Workspace, linux
-- Tools, JavaScript Node.js (NPM), Rust (Cargo),
-- Co Ops, Ansible Docker, k8
+- OS Workspace: Linux Ubuntu
+- Tools: JavaScript Node.js (NPM), Python, Cython, Rust (Cargo),
+- Co-Ops: Ansible, Docker,k8,
 
 
 ## Blockchain
