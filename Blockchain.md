@@ -22,16 +22,17 @@ The essence of the cryptocurrency ecosystem and the principles that underline bl
 In conclusion, these five pillars are not just the guiding principles of the cryptocurrency ecosystem; they are its very foundation. They foster a space that is inclusive, transparent, and decentralized, providing a more equitable financial framework for the global community. Any deviation from these principles would disrupt the very essence of the cryptocurrency ecosystem, thereby undermining the advantages it provides over traditional financial systems. Therefore, adherence to these pillars is imperative for the interoperability and the future success of the cryptocurrency ecosystem.
 
 ## Wallet Ratio
-- 70% cold storage, Hardware, off-line
-- 20% warm storage, software, online (main driver)
-- 10% hot storage, software 3rd party, online (custodial exchange)
+Your crypto wallet is everything, Trezor is your air gaped and cold storage to your vault.  Nova and Trust are good crypto wallets for mobile android, Nova has a large swath of coin/tokens it can hold, and EVM or Polkadot.  Trust can accomidate BTC.  A popular fiat gateway is the Cash APP, it is not without its problems, it is centralized, but it is good for the short term until a better fiat on/off ramp can be engineered.
+- 70% cold storage, Hardware, off-line (Trezor)
+- 20% warm storage, software, online (runing through personal browser extention, main driver)
+- 10% hot storage, software 3rd party, online (runing through 3rd party custodial exchange, fiat ramp)
 
 ## Mix it up (Coin Join)
-Is a coin mixer, and a tool to help you protect your transactional privacy.   Coin Join is designed to recieve several inputs, shuffle the recieved tokens and output token designations to their respective recipants.
+On the GreenWitchDAO, this is done automatically with any and all incoming assets, the process is convert to BTC, buy Monero, mix it, sell Monero for required asset (i.e. BTC), mix it again, put into treasury. A coin mixer, is a tool to help you protect your transactional privacy.   Coin Join is designed to recieve several inputs, shuffle the recieved tokens and output token designations to their respective recipants.
 
-This obscures crypto addresses, by mixing input addresses, to output addresses. 
+This obscures crypto addresses, by mixing input addresses, to output addresses and is an effective counter measure for survalence as it greatly enhances user privacy. 
 
-This could be probmatic, if regulators decide to be suspecious of and sanction addresses associated with coun join outputs.
+This could be probmatic, if regulators decide to be suspecious of and sanction addresses associated with coin join outputs.
 
 ## OkBitcoiner
 First Steps, are the most important ones, keep the night and day divided.  The seperation of church of the nation-state and state of your personal wealth.
