@@ -38,6 +38,7 @@ To them, I say:
 
 ## Blockchain/Crypto (Avado Metal)
 <img align="left" src="/images/avado.jpg" width=333px  alt="Avado Device">
+
 - Self-custody crypto wallets, 
 - Running DeFi exchanges
 - Running Validators
