@@ -42,56 +42,40 @@ If these proper first principled security protocols are not practiced, then your
 
 At worst, provide yet another permanent vector of attack for your identity.
 
-# Bisq
-A literal non-custodial decentralized crypto exchange, where you manage the leg work, that a custodial centralized crypto exchange would of done on your behalf.
+# Bisq: A Comprehensive Overview
 
-The practical advantage is  retaining all your sensitive credentials, like your personal identification, which is mandated by regulated and centralized crypto exchanges,  your hot crypto wallet's private key, which is nessesarily required, with any exchange trade, centralized or decentralized.
+Bisq represents an authentic non-custodial, decentralized cryptocurrency exchange. It allows users to control the entire process, a role typically undertaken by centralized, custodial cryptocurrency exchanges.
 
-The critical advantage of Bisq is securing your privacy, before exchanging, your personal identity or private hot crypto wallet key is completely under your control.  As it should be.
+The primary practical advantage of using Bisq lies in its ability to protect user-sensitive information. For example, personal identification that is typically mandated by regulated, centralized crypto exchanges or the private key of your hot crypto wallet, which is necessary for all types of exchange trades, are kept exclusively under the user's control.
 
-I have sesrched high and low for best first new steps into the crypto currency eco-sphere.  That holds true to the 5 pillars of optimum crypto currency exchange protocols.
+One of Bisq's critical strengths is its commitment to privacy. Prior to initiating any exchange, both your personal identity and your private hot crypto wallet key remain entirely under your jurisdiction - as it should be.
 
-~Open (Permissionless)
-~Public (Available to Everybody)
-~Borderless (Not sovergien or centralized)
-~Neutral (Impartial)
-~Censorship Resistant
+The quest for a reliable and efficient entry point into the cryptocurrency ecosystem that upholds the five pillars of optimal cryptocurrency exchange protocols - Openness, Public Availability, Borderless Functionality, Neutrality, and Censorship Resistance - has led to the discovery of Bisq.
 
-Open
-Open or permissionless means it's open and you don't need permission to use or trade it. You don't need a governmental ID, you don't need special privilege, you don't need to be born in the certain area. The name implies it's open and permission less.
+Open or Permissionless: This refers to the unrestricted access provided by the platform, eliminating the need for governmental IDs, special privileges, or specific birth requirements. The platform is designed to be accessible to all, without any need for permissions.
 
-Public
-Anyone can participate, availible to the public.
+Public Availability: Bisq is designed to include everyone. Any individual can participate, making the platform universally available.
 
-Borderless
-Not bound to sovergien centralized laws of the land, Which can impose  arbitrary restrictions, such as KYC (know your customer) requirements.  Or prevent non-citizens of any city-state from participating it only follows the blockchain "law" of math and code.
+Borderless Functionality: Unrestrained by sovereign, centralized laws, Bisq avoids imposing arbitrary restrictions such as KYC (Know Your Customer) requirements or exclusions of non-citizens from specific jurisdictions. It adheres strictly to the blockchain laws of mathematics and code.
 
+Neutrality: The platform functions impartially, powered by a sequence of switches and buttons driven by cause and effect.
 
-Neutral
-Impartial, is code, a series of switches and buttons, set into motion by cause and effect.
+Censorship Resistance: The platform is designed to be impervious to censorship, blocking, or stopping.
 
-Censorship Resistant
-Cannot be Censored, Blocked, or Stopped.
+In essence, using Bisq implies becoming the exchange. However, it's crucial to consider the differences between trading with Bisq versus centralized alternatives.
 
+Cons:
 
-You become the exchange:
-
-How is trading with Bisq diffrent from centralized alternatives?
-
-Cons
-### No automatic (automagic) order matching, you must take the reigns and manually match the trading pairs you want to trade with.
-
-### Protocol coordinates out-of-band (outside of the bisq app) fiat payments, you must determing the banking network protocols to use when trading within fiat channels.
-
-### Settlement takes longer
-
+Bisq lacks automatic order matching. Users must take charge and manually match the trading pairs they desire.
+The protocol coordinates fiat payments outside of the Bisq app, requiring users to determine the appropriate banking network protocols when trading within fiat channels.
+The settlement period is typically longer.
 Benefits:
 
-### Entirely non-custodial with regard to crypto and fiat
-
-### Staking Security Deposits from both buyer (taker) and seller (maker).
-
-### 2-of-2 multisig escrow with BTC or coloured coin BSQ  held during the open channel to secure the trade
+Bisq is entirely non-custodial with regard to both crypto and fiat currencies.
+It enforces staking of security deposits from both the buyer (taker) and seller (maker).
+It employs a 2-of-2 multisig escrow system with BTC or colored coin BSQ held during the open trade to ensure security.
+BSQ (colored coins) can be converted into ETH or BTC.
+In conclusion, Bisq exemplifies the future of cryptocurrency exchanges, demonstrating a strong commitment to user autonomy, privacy, and the core principles of an ideal cryptocurrency ecosystem.
 
 BSQ (coloured coins)
 Can convert to ETH or BTC
