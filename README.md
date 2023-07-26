@@ -27,9 +27,10 @@ To them, I say:
 - Linux fluency with administration of NixOS, Ubuntu, Kali
 
 ## The Hard Stuff
-- Adroid devices, Mobile
-- Hardware devices, Microprocessors, Raspberry Pi.
-- Drone devices, DJI
+- Daily Driver: Legion Pro 5 (Windows/Linux)
+- Mobile: Samsung s23 Ultra (Android)
+- Hardware devices(Microprocessors): Raspberry Pi.
+- Drone devices: DJI Pro
 
 ## Meta Machines
 - Optimized configurations (aliases, BASH)
