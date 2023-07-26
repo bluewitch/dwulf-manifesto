@@ -1,15 +1,22 @@
 # The book of Shadows: 3 foci; First Principles,  DevOps, and Blockchain.
 
 ## First Principles
-First Principles, are the building blocks of the book, as always we start with the primitives,  
-Integers, Strings, etc., then build the Arrays, and Vectors.  Then the Objects you desire.
+First Principles, are the building blocks of the book, as always we start with the primitives, Integers(whole numbers), Strings(characters), etc., then build the Arrays, and Vectors to hold the primitive data and then the Objects you desire.
 
-With native interface and object manipulation proficiency with the BASH terminal and the primitives of programming languages of the machine there is no problem that cannot be configured to werk.
+With native interface and object manipulation proficiency with the BASH terminal and the primitive building blocks of programming languages of the machine there is no problem that cannot be configured to werk.
 
-- First Principles
-- JavaScript, node.js
-- Python, flask, django, Tensorflow, pynum,
-- Rust, Bevy, Amethist, webgl, webgpu,
+### First Principles
+- JavaScript, node.js (npm, node packet manager)
+- ### Python: Programming Language
+- Flask: Micro Framework
+- Django: Web Framework
+- Tensorflow: Machine Learning
+- NumPy: Numerical Computation
+- ### Rust: Systems Programming
+- Bevy: Game Engine
+- Amethyst: Game Framework
+- WebGL: Graphics Library
+- WebGPU: Graphics API,
 
 
 ## DevOps
