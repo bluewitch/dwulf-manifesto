@@ -29,7 +29,7 @@ To them, I say:
 ## The Hard Stuff
 - Daily Driver (code named: Stormbringer / Darkstar): Legion Pro 5 (Windows/Linux)
 - Mobile (code named: Shadow Caster): Samsung s23 Ultra (Android)
-- Hardware devices(Microprocessors): Raspberry Pi MyNode (code named: ).
+- Hardware devices(Microprocessors): Raspberry Pi MyNode (code named: Demeter).
 - Drone devices: DJI Pro
 
 ## Meta Machines
@@ -38,6 +38,11 @@ To them, I say:
 - DevOps: Docker, Kubernetes.
 
 ## Blockchain/Crypto (Avado Metal)
+The Blockchain is the capital resource for all operations and projects.  While it is true grants and sponcerships are available
+for Blockchain projects, the pourpose of having a Avado unit is to house one's own "bank".   When connected with an appropriate 
+fiat bridge (peer-to-peer, ATM, or Bisq), it will have the power of fiat distribution as nessecary, but it is important to understand,
+that any and all fiat bridges need to be engineered in such a way where they become obsolete and are not required for the majority
+of transfers for goods and services.
 <img align="left" src="/images/avado.jpg" width=333px  alt="Avado Device">
 
 - Self-custody Crypto Wallets:
