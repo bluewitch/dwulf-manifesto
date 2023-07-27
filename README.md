@@ -27,15 +27,15 @@ To them, I say:
 - Linux fluency with administration of NixOS, Ubuntu, Kali
 
 ## The Hard Stuff
-- Daily Driver: Legion Pro 5 (Windows/Linux)
-- Mobile: Samsung s23 Ultra (Android)
-- Hardware devices(Microprocessors): Raspberry Pi.
+- Daily Driver (code named: Stormbringer / Darkstar): Legion Pro 5 (Windows/Linux)
+- Mobile (code named: Shadow Caster): Samsung s23 Ultra (Android)
+- Hardware devices(Microprocessors): Raspberry Pi MyNode (code named: ).
 - Drone devices: DJI Pro
 
 ## Meta Machines
 - Optimized configurations (aliases, BASH)
-- Libraries/frameworks: GraphQL, REST, gRPC
-- Containers: Docker, Kubernetes.
+- Libraries/frameworks: NPM, Cargo, PIP, GraphQL, REST, gRPC
+- DevOps: Docker, Kubernetes.
 
 ## Blockchain/Crypto (Avado Metal)
 <img align="left" src="/images/avado.jpg" width=333px  alt="Avado Device">
