@@ -21,6 +21,47 @@ The essence of the cryptocurrency ecosystem and the principles that underline bl
 
 In conclusion, these five pillars are not just the guiding principles of the cryptocurrency ecosystem; they are its very foundation. They foster a space that is inclusive, transparent, and decentralized, providing a more equitable financial framework for the global community. Any deviation from these principles would disrupt the very essence of the cryptocurrency ecosystem, thereby undermining the advantages it provides over traditional financial systems. Therefore, adherence to these pillars is imperative for the interoperability and the future success of the cryptocurrency ecosystem.
 
+## Blockchain/Crypto (Avado Metal)
+The Blockchain is the capital resource for all operations and projects.  While it is true grants and sponcerships are available
+for Blockchain projects, the pourpose of having a Avado unit is to house one's own "bank".   When connected with an appropriate 
+fiat bridge (peer-to-peer, ATM, or Bisq), it will have the power of fiat distribution as nessecary, but it is important to understand,
+that any and all fiat bridges need to be engineered in such a way where they become obsolete and are not required for the majority
+of transfers for goods and services.
+<img align="left" src="/images/avado.jpg" width=333px  alt="Avado Device">
+
+- Self-custody Crypto Wallets:
+- Running DeFi Exchanges:
+- Running Validators:
+- Running Collators:
+- Running Nodes:
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+***Self-custody Crypto Wallets:***
+
+A self-custody crypto wallet is a type of cryptocurrency wallet where you have full control over the private keys and, consequently, your digital assets. In other words, you 'custodize' or maintain custody of your own funds. This is in contrast to custodial wallets, where a third party, such as an exchange or a wallet service, keeps the keys for you. The key advantage of a self-custody wallet is that you have full control over your funds, reducing the risk of third-party breaches. However, it also means you're responsible for the security and backup of your wallet keys.
+
+***Running DeFi Exchanges:***
+
+Running a Decentralized Finance (DeFi) exchange involves maintaining a platform that uses blockchain technology to eliminate intermediaries and facilitate direct peer-to-peer transactions. DeFi exchanges, also known as decentralized exchanges (DEXs), allow for the trading of digital assets directly from wallet to wallet, without the need for a centralized authority. As such, the role involves ensuring the functionality, security, and integrity of the DeFi exchange platform. It might also entail facilitating liquidity provision, order matching, and dispute resolution mechanisms.
+
+***Running Validators:***
+
+Validators play a crucial role in the Proof of Stake (PoS) consensus mechanism. Validators are nodes that are chosen to create a new block and validate transactions within that block on the blockchain. The process of running a validator involves maintaining a node, staking a certain amount of cryptocurrency as collateral, and performing actions necessary to validate transactions, such as verifying the validity of signatures and ensuring transactions do not double spend. Validators earn rewards for their work, but they can also lose (or 'be slashed') their staked collateral if they validate fraudulent transactions or fail to stay online and perform their role.
+
+***Running Collators:***
+
+In a blockchain network like Polkadot, collators serve a significant function. A collator's primary role is to maintain a full node of a specific parachain (a simpler form of blockchain, attached to the central Relay Chain), collect and execute transactions in that parachain, and produce new block candidates for validators' approval. They collate (thus, the term 'collator') information from their specific parachain and pass it to the Relay Chain, allowing for inter-chain communication and scalability.
+
+***Running Nodes:***
+
+Running nodes is fundamental to the operation and security of a blockchain network. A node is essentially a computer that holds a copy of the blockchain and follows the rules of the network. There are different types of nodes, including full nodes that store the entire history of a blockchain and validate all rules of the network, and lightweight or 'SPV' nodes that only download a fraction of the blockchain. Running a node involves maintaining the hardware and network connection necessary to keep the node online, keeping the blockchain data up-to-date by synchronizing with the rest of the network, and validating and relaying transactions or blocks according to the rules of the blockchain protocol. Running nodes helps decentralize the network, contributing to its security and robustness.
+
+
 ## Wallet Ratio
 Your crypto wallet is everything, Trezor is your air gaped and cold storage to your vault.  Nova and Trust are good crypto wallets for mobile android, Nova has a large swath of coin/tokens it can hold, and EVM or Polkadot.  Trust can accomidate BTC.  A popular fiat gateway is the Cash APP, it is not without its problems, it is centralized, but it is good for the short term until a better fiat on/off ramp can be engineered.
 - 70% cold storage, Hardware, off-line (Trezor)
