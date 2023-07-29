@@ -21,10 +21,10 @@ To them, I say:
 
 
 ## First Principles
-- Code primitives and first principles in JavaScript, Python, and Rust.  
-- A clear understanding of the algorthm and code base.
-- Git fluency (all common  comands)
-- Linux fluency with administration of NixOS, Ubuntu, Kali
+- Code primitives and first principles in BASH, JavaScript(NPM), Python(PIP3), and Rust(CARGO).  
+- A clear understanding of primitives, `char`, `int`, etc. and the algorthms and code base.
+- Git fluency (all common  comands).  `git add .`,`git commit -m "message here"`,`git push`, `git pull`, 
+- Linux fluency with administration of NixOS, Ubuntu(Debian), Kali
 
 ## The Hard Stuff
 - Daily Driver (code named: Stormbringer / Darkstar): Legion Pro 5 (Windows/Linux)
