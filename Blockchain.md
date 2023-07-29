@@ -175,38 +175,29 @@ I would parse out 1%-20%, to invest, BTC which is digital gold, and mathamatical
 *To be apart of the big club.*
 
 ### Bitcoin Price
-It is important to realize that crypto currency does not have a price, it has an exchange rate.
-
-The price will fall inline from the spread of the exchange rate, the price spread is the diffrence between the ask and bid price. 
-
-The spot price is where the ask exchange price is inline with the bid exchange price, and the actual price is negotiated (finalized) and set upon.
+It is important to realize that crypto currency does not have a price, it has an exchange rate.  The price will fall inline from the spread of the exchange rate, the price spread is the diffrence between the ask and bid price. The spot price is where the ask exchange price is inline with the bid exchange price, and the actual price is negotiated (finalized) and set upon.
 
 Bisq illustrates this in its UI, with what is called an order book, that shows the selling bids and the buying offers.
 
-### Proof-of-Keys
-The Proof-of-Keys, is more a reminder to check your hot crypto wallets attached to your centralized crypto exchange accounts to make sure your funds can be liquidated and verified.
+### Proof-of-Keys (January 3rd)
+The Proof-of-Keys, is more a reminder to check your hot crypto wallets attached to your centralized crypto exchange accounts to make sure your funds can be liquidated and verified.  One should do this at least once a year.  If you run your own node and miner, you most certainly do not need to do this as if you are a 0 Class level user, you almost certainly got your ducks in their rows.
 
-If you run your own node and miner, you most certainly do not need to do this as if you are a 0 Class level user, you almost certainly got you ducks,
+***Remember everybody proof of keys is on January 3rd***.
 
-Remember everybody proof of keys is on January 3rd.
-
-Liquidate your hot wallets from your cryptocurrency exchanges and make sure the funds are there.
+Liquidate your hot wallets from your cryptocurrency exchanges and make sure access to the funds are available.
 
 This is mostly a safety measure to keep crypto exchanges on their toes as hot crypto wallets directly attached to crypto exchanges are a vulnerable vector to 3rd party hacks.
 
 If everything checks out, you can reassert and repurchase your crypto. It would be also a great time to recalibrate your crypto holdings in the appropriate cold, warm, or hot crypto wallets.
 
 And always remember,
-"Not your keys not your coins." 
-
-
+***"Not your keys not your coins."*** 
 
 
 ## Polkadot (DOT)
-66% HODL/Stake
-Not much to say, I am pot commited here.  Staking, earning intrest ~20% through staking rewards provided through the Polkadot.
+Not much to say, I am pot commited here, a large swath is in DOT and Polkadot Para-Chains.  Staking, earning intrest ~20% through staking rewards provided through the Polkadot, -10% inflation brings a positive yield of +10%.
 
-Hypothetically Produces ($8-$10 USD), in DOT, need to scale this, a sample of 408 DOTs, leads to 1 DOT per week.  Modest, gains, all gains are compounded back into STASH, to maximize returns and to increase working capital for the Mother Ship.
+Hypothetically the yields produce ($18-$30 USD/day), in DOT, which is around 2.2 DOT daily, need to scale this, a sample of 408 DOTs, leads to 1 DOT per week.  Modest, gains, all gains are compounded back into STASH, to maximize returns and to increase working capital for the Mother Ship.
 
 Acala, is one to back, at least 50%, of DOT, as staking is a 2 year lock, but yields LDOT, and capital access, to leverage with, until the end of the 2 year lease, your staked DOT, is realesed back in full and, hopefully, in flush.
 
