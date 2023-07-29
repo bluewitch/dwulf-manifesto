@@ -214,11 +214,13 @@ And always remember,
 
 
 ## Polkadot (DOT)
-Not much to say, I am pot commited here, a large swath is in DOT and Polkadot Para-Chains.  Staking, earning intrest ~20% through staking rewards provided through the Polkadot, -10% inflation brings a positive yield of +10%.
-
-Hypothetically the yields produce ($18-$30 USD/day), in DOT, which is around 2.2 DOT daily, need to scale this, a sample of 408 DOTs, leads to 1 DOT per week.  Modest, gains, all gains are compounded back into STASH, to maximize returns and to increase working capital for the Mother Ship.
+Not much to say, I am pot commited here, a large swath is in DOT and Polkadot Para-Chains.  Staking, earning intrest ~20% through staking rewards provided through the Polkadot, -10% inflation brings a positive yield of +10%.  Hypothetically the yields produce ($18-$30 USD/day), in DOT, which is around 2.2 DOT daily, need to scale this, a sample of 408 DOTs, leads to 1 DOT per week.  Modest, gains, all gains are compounded back into STASH, to maximize returns and to increase working capital for the Mother Ship.
 
 Acala, is one to back, at least 50%, of DOT, as staking is a 2 year lock, but yields LDOT, and capital access, to leverage with, until the end of the 2 year lease, your staked DOT, is realesed back in full and, hopefully, in flush.
+
+On the whole, DOT accumilation is key, the DOT coin/token has massive utility attached to it, in voting and governance, in paying for core time, and in seeding DEX, with a DOT trading pair to the native coin/token of the DAO.  Polkadot para-chains will sort themselves out, and fine their specilizations.  Astar for smart contracts, Acala for exchanges, Nodle for IoT systems, Kilt for Decentralized ID, etc.  DOT is a main token in all para-chain ecosystems.
+
+
 
 
 ## Ethereum (ETH)
