@@ -179,6 +179,10 @@ The one that started it all. Stack sats, 24/7 until you have one*.
 Do a Dollar Cost Average and 1% of all income and just HODL.  Buy actual BTC, not that ETF horse shit, actual BTC is good, but you might want to get it wrapped to interoperate with liquidity services.
 Think of it as having a key a bank safe in a vault, the difference is only you have the key to your safe and the bank has the keys to the vault which houses all the saves but not the key to your individual safe!
 
+* Just Dollar Cost Average, but a few satoshis at a time with any "change" you may have after putting your main bets in place.
+* BTC runs on registers and is not turing complete, like ETH or DOT, thus cannot (on its own), be configured for staking, yield farming through liquidity, flash loans, etc.  It requires a "wrapper" and a exchange for a token price tethered facsimile of the original BTC.
+* BTC should grow in value as it becomes more scarce, unlike newer chains pre-mining for proof-of-stake clones, creating infinite coin/tokens.
+
 The one that started it all. Stack sats, 24/7 until you have one*.
 * 1 BTC
 
