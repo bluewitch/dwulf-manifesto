@@ -30,7 +30,8 @@ To them, I say:
 - Daily Driver (code named: Stormbringer / Darkstar): Legion Pro 5 (Windows/Linux)
 - Mobile (code named: Shadow Caster): Samsung s23 Ultra (Android)
 - Hardware devices(Microprocessors): Raspberry Pi MyNode (code named: Demeter).
-- Drone devices: DJI Pro
+- Hardware Hacking Tools (BadUSB, WiFi, Network): RubberDucky (BadUSB), Malduino, Pineapple
+- Drone devices: DJI Pro (thought and memory)
 
 ## Meta Machines
 - Optimized configurations (aliases, BASH)
