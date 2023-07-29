@@ -101,7 +101,7 @@ At worst, provide yet another permanent vector of attack for your identity.
 
 # Bisq: A Comprehensive Overview
 
-Bisq represents an authentic non-custodial, decentralized cryptocurrency exchange. It allows users to control the entire process, a role typically undertaken by centralized, custodial cryptocurrency exchanges.
+<img align="left" src="/images/Bisq_Title.png" width=333px  alt="Bisq">Bisq represents an authentic non-custodial, decentralized cryptocurrency exchange. It allows users to control the entire process, a role typically undertaken by centralized, custodial cryptocurrency exchanges.
 
 The primary practical advantage of using Bisq lies in its ability to protect user-sensitive information. For example, personal identification that is typically mandated by regulated, centralized crypto exchanges or the private key of your hot crypto wallet, which is necessary for all types of exchange trades, are kept exclusively under the user's control.
 
