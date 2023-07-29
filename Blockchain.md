@@ -21,6 +21,21 @@ The essence of the cryptocurrency ecosystem and the principles that underline bl
 
 In conclusion, these five pillars are not just the guiding principles of the cryptocurrency ecosystem; they are its very foundation. They foster a space that is inclusive, transparent, and decentralized, providing a more equitable financial framework for the global community. Any deviation from these principles would disrupt the very essence of the cryptocurrency ecosystem, thereby undermining the advantages it provides over traditional financial systems. Therefore, adherence to these pillars is imperative for the interoperability and the future success of the cryptocurrency ecosystem.
 
+## Blockchain/Cold Wallet (Trezor)
+You will require a crypto wallet, it must be air gaped, it must be on a hardware wallet, code must be open sourced, and crypto steel recovery etchings are highly recomended for your private key words.  Once this hardware wallet has been obtained and christened with a off-line mnemonic, you have your official Vault also know as your Stash.
+
+## Blockchain/Warm Wallet (browser modules, Metamask, etc.)
+Once you have a cold wallet, you can dispurse your cypto to "online" wallets, that you own and run through a hardened OS and Browser, Metamask (For Ethereum networks) is a good example, Keplr (for Cosmos networks), etc.
+
+### Mobile/Warm Wallet (Nova, Trust, CashApp, etc.)
+Mobile wallets are another type of warm wallet, still "online" and run through a hardened Andriod device and its own application, but theoretically can be run through the browser of the Andriod device.
+
+## Hot Wallets (all centralized exchanges by default, decentralized exchanges by implementation)
+Hot Wallets are the worst, on centralized exchanges the centralized exchange nessesarily requires knowledge of your secret key to sign
+ for trading transactions; you are trusting that the exchange (and its employees), are on the level, you are trusting that they have encrypted your KYC records and they are under top grade protection, you are trusting the actual exchanges security to protect the integrity of your trades and exchanges.
+
+With Decentralized exchanges, you are trusting the code of the contract.  Rust bugs are rare and non-existant for memory errors and glitches.  You still own your keys and only the smart contract code has access to it to implement its functions.
+
 ## Blockchain/Crypto (Avado Metal)
 The Blockchain is the capital resource for all operations and projects.  While it is true grants and sponcerships are available
 for Blockchain projects, the pourpose of having a Avado unit is to house one's own "bank".   When connected with an appropriate 
