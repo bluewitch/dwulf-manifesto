@@ -78,7 +78,7 @@ Running nodes is fundamental to the operation and security of a blockchain netwo
 
 
 ## Wallet Ratio
-<img align="left" src="/images/Trezor.png" width=333px  alt="Trezor Device">
+<img align="left" src="/images/Tezor.png" width=333px  alt="Trezor Device">
 Your crypto wallet is everything, Trezor is your air gaped and cold storage to your vault.  Nova and Trust are good crypto wallets for mobile android, Nova has a large swath of coin/tokens it can hold, and EVM or Polkadot.  Trust can accomidate BTC.  A popular fiat gateway is the Cash APP, it is not without its problems, it is centralized, but it is good for the short term until a better fiat on/off ramp can be engineered.
 - 70% cold storage, Hardware, off-line (Trezor)
 - 20% warm storage, software, online (runing through personal browser extention, main driver)
