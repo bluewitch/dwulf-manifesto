@@ -57,7 +57,7 @@ of transfers for goods and services.
 <br>
 
 ***Self-custody Crypto Wallets:***
-
+<img align="left" src="/images/Trezor.png" width=333px  alt="Trezor Device">
 A self-custody crypto wallet is a type of cryptocurrency wallet where you have full control over the private keys and, consequently, your digital assets. In other words, you 'custodize' or maintain custody of your own funds. This is in contrast to custodial wallets, where a third party, such as an exchange or a wallet service, keeps the keys for you. The key advantage of a self-custody wallet is that you have full control over your funds, reducing the risk of third-party breaches. However, it also means you're responsible for the security and backup of your wallet keys.
 
 ***Running DeFi Exchanges:***
