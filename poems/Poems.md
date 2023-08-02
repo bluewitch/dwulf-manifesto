@@ -44,7 +44,7 @@ To give Binance their beatings.
 Keeping off their radar,  
 Is really half the fun.  
 We play them like a guitar,  
-As we ready later one.  
+As we ready layer one.  
 
 We engineer the blockchain,  
 To decouple from banks.  
