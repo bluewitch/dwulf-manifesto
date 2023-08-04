@@ -7,7 +7,7 @@ _Code is the Law_, founded on Binary,
 <br>Creating worlds, in lines of array.
 
 In the dawn of machines, with gears and steam,
-<br>We dreamt a dream, a silicon dream.
+<br>We dreamt a theme, of a silicon dream.
 <br>Of electric minds, in metal encased,
 <br>And so began, this relentless chase.
 
