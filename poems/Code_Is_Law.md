@@ -27,12 +27,12 @@ Through ethernet jungles, and server domain,
 <br>Resides our decree - _Code is the Law_.
 
 When dawn breaks over the silicon vale,
-<br>New lines of code set sail.
+<br>New lines of code about to set sail.
 <br>Inventing, refining, without a pause,
 <br>In this realm, you see, _Code is the Law_.
 
 And as the sun sets, LEDs glow bright,
-<br>Coders conjure magic in the night.
+<br>Coders conjure magic in moonlit night.
 <br>In the dance of keys, they find no flaw,
 <br>In the rhythm of code, as _Code is the Law_.
 
