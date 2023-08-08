@@ -1,5 +1,5 @@
 # Blockchain and Crypto Currencies
-![MainTitle](/images/blockchain1.png)
+![MainTitle](images/blockchain1.png)
 # 5 Pillars of Crypto
 - ***Open (Permissionless)***
 - ***Public (Available to Everybody)***
@@ -42,7 +42,7 @@ for Blockchain projects, the pourpose of having a Avado unit is to house one's o
 fiat bridge (peer-to-peer, ATM, or Bisq), it will have the power of fiat distribution as nessecary, but it is important to understand,
 that any and all fiat bridges need to be engineered in such a way where they become obsolete and are not required for the majority
 of transfers for goods and services.
-<img align="left" src="/images/avado.jpg" width="333px"  alt="Avado Device">
+<img align="left" src="images/avado.jpg" width="333px"  alt="Avado Device">
 
 - Self-custody Crypto Wallets:
 - Running DeFi Exchanges:
@@ -102,7 +102,7 @@ At worst, provide yet another permanent vector of attack for your identity.
 
 # Bisq: A Comprehensive Overview
 
-<img align="left" src="/images/Bisq_Title.png" width=333px  alt="Bisq">Bisq represents an authentic non-custodial, decentralized cryptocurrency exchange. It allows users to control the entire process, a role typically undertaken by centralized, custodial cryptocurrency exchanges.
+<img align="left" src="images/Bisq_Title.png" width=333px  alt="Bisq">Bisq represents an authentic non-custodial, decentralized cryptocurrency exchange. It allows users to control the entire process, a role typically undertaken by centralized, custodial cryptocurrency exchanges.
 
 The primary practical advantage of using Bisq lies in its ability to protect user-sensitive information. For example, personal identification that is typically mandated by regulated, centralized crypto exchanges or the private key of your hot crypto wallet, which is necessary for all types of exchange trades, are kept exclusively under the user's control.
 
