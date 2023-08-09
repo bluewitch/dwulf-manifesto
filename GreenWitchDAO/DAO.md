@@ -1,6 +1,6 @@
 # The GreenWitchDAO
 
-The GreenWitchDAO is a self funding, self income generation system of finance.  Built specifically to create high yield returns with automated A.I. guidance (specifically through SARA and BIANA).  Flashloans, staking, liquidity pools, yield farming, and other methods are analysed through FARA, the oracle to impliment all strategies.
+The GreenWitchDAO is a self funding, self income generation system of finance embodied in the GreenWitchDAO system.  Built specifically to create optimum yield returns with automated A.I. guidance (specifically through SARA and BIANA).  Flashloans, staking, liquidity pools, yield farming, and other chain revenue generation methods are analysed through FARA, the oracle to impliment all strategies.
 
 This is the core of the DAO proper, the GreenWitchDAO, is simply the core of Substrate, with Ink! smart contracts to fill the gaps that the Substrate Pallets do not account for.
 
