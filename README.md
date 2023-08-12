@@ -47,7 +47,7 @@ To them, I say:
 - Running Collators:
 - Running Nodes:
 
-
+<br><br><br>
 ## Health
 - Diet, exercise, and sleep.
 
