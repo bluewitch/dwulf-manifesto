@@ -1,4 +1,6 @@
 # Frequently Asked Questions
+### Projects, Particulars, Payment
+FAQ centers around the 3 "P"s, Projects, Particulars, Payment.  Before any roles or contracts will be considered 3 "P"s must be agreed to, the type of projects that are being worked on, the paticulars of what is required to work on them and the payment (renumeeration) for working on the projects with the correct particulars.
 
 ## Engagement Guidelines:
 
