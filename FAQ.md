@@ -16,4 +16,8 @@
 ### Other wallets are available:
 - Monero (XMR)
 - Polkadot (DOT)
-- Cosmos (ATOM) or a suitable stablecoin USDC, USDT, etc.
+- Cosmos (ATOM)
+### Suitable stablecoin 
+- USDC
+- USDT
+- eSeed
