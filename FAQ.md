@@ -9,7 +9,7 @@
 3. ***Compensation:*** Without specific knowledge of the project or its particulars, it's not feasible to determine an appropriate compensation level. We prefer to engage in compensation negotiations once a budget has been outlined, project details are fully disclosed, and an offer has been extended. Until such time, local market rates can be employed as a preliminary reference point.
 
 ## Payment Gateway
-In BTC, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Prefered.
+***BTC***, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Always Prefered.
 <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=300px alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
 
 
