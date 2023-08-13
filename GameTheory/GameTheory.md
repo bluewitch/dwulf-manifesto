@@ -10,9 +10,16 @@ RPGs are my favorite, but I also enjoy the first person adventure shooter also.
 - Starfield
 - - Just out, to be released in Sept 2023, can't wait, and yes I did pre order, the premium edition, mostly for the DLC Shatered Space, I am looking forward to this one, single player, very modable, and a Bethesda game to boot, the same Todd that brought us SKyrim, and Fallout.
 
-dwulf
+# dwulf
 Male
-Thief/Smuggler
+- Pistol Certification
+- Security
+- Persuasion
+
+
+- Cyber Runner
+- Thief/Smuggler
+
 
 Triats
 Terra Firma
@@ -35,3 +42,21 @@ From there he has been trying to adapt to the new space faring world.
 - - What can I say, this is the D&D simulator the way the Gods meant it to be, with Mods you can turn this into a perfect setting for mini-movies and media.
 
 ## Tarot
+Show the scary Tarot cards,
+or throw them to the wind.
+
+Your fate is tied to the song of bards,
+and to every mortal sin.
+
+Both high and low arcana magick,
+will weave your tale of fate.
+how love could be so tradgic,
+and the truth cannot relate.
+
+The cards they have no meaning,
+once they tell their story.
+from a vision you are weaning,
+a hint of fortune and glory.
+
+You still must know your craft,
+your tools sharpened and oiled.
