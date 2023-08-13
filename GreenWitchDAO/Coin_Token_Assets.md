@@ -1,6 +1,21 @@
 # Coin Token Assets
 Assets on the chain, can be in the form of Coin/Token assets.  The term Coin and the term Token are often used...
 
+
+## GreenWitch DAO Token (GDT)
+A native coin/token for the GreenWitchDAO, for voting and Governanace.
+42,000,000
+- TESS holds 22,000,000
+- Escrow holds 2,000,000
+- dwulf holds 10,000,000
+- ewulf holds 8,000,000
+
+TESS holds majority vote with Escrow, both are software A.I. agents that work for the DAO.
+
+dwulf and ewulf hold minority voting shares, are humans, but they are required to sign off on the treasury (3 of 4 keys are required)
+
+
+
 ## Bitcoin (BTC)
 The one that started it all. Stack sats, 24/7 until you have one*.
 * 1 BTC
