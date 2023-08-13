@@ -4,6 +4,10 @@ Analysis of what I consider the core languages JavaScript, Python, Go, and Rust.
 
 ## JavaScript ECMA
 
+Probably the first divergent language that plays well with browsers and the DOM, keep to ECMA standards and sprinkle in some TypeScript, and you have the makings of a fairly solid language.  JavaScript can be abused, as its logic can be questionable when defining Objects, but over all is a good language to dig into.  It can be simple, can prototype fast, and be a glue for piecing together front ends.
+
+NPM, the Node Packet Manager, Node.js lets JavaScript be a full front and back end language.
+
 
 ES 5 supported by all browsers
 
@@ -378,7 +382,7 @@ npm install cors
 
 DB from mlab.com
 
-## Python
+# Python
 function (parameters)
 
 Python
