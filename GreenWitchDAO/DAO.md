@@ -68,16 +68,20 @@ The DAOs Parts (AccountTokens)
 
 
  # Treasury and Vault
-<img align="left" src="images/TreasuryVault.png" width=500px alt="TreasuryVault"> 
+<img align="left" src="images/TreasuryVault.png" width=500px alt="TreasuryVault"> The Tersury and Vault are apart of one another, but serve 2 distinct functions.  The Teasury holds all dynamic assets and absorbs the transaction fees on its own exchange, while staking, yield farming, liqidity pools, and implimenting flash loans to genertate Layer 0 revenue.
+
+## Teasury
 - Treasury, cultivates exchange pairs
 - All exchange fees paid are fed into the Treasury
 - - GDT-BTC
   - GDT-ETH
   - GDT-DOT
   - GDT-ATOM
- 
-- Vault, earmarks static value of assets,
-- - mixes any asset braought in the Vault,
-  - obtains stablecoins
-  - sets in Vault (store of value)
- 
+
+ ## Vault
+- Vault, earmarks the static value of assets, over averaged high end fiat benchmarks
+- - mixes, through a crypto mixing service, any asset braought in the Vault,
+  - obtains stablecoins or other tethered valued coin/tokens
+  - Locks in Vault (store of value retained earnings)
+
+ The Treasury is set to default to compounding all generated assets unless a 3 of 4 vote calls to shift all or partial earnings to the Vault, where assets will be processed (mixed, buy/sell-sell/buy BTC/XMR, and settled for stable coin USDC, USDT, eSEED.
