@@ -65,7 +65,10 @@ The DAOs Parts (AccountTokens)
   - ETH
   - DOT
   - ATOM
- 
+
+
+ # Treasury and Vault
+<img align="left" src="images/TreasuryVault.png" width=500px alt="TreasuryVault"> 
 - Treasury, cultivates exchange pairs
 - All exchange fees paid are fed into the Treasury
 - - GDT-BTC
