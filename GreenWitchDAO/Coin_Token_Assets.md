@@ -15,7 +15,7 @@ TESS holds majority vote with Escrow, both are software A.I. agents that work fo
 dwulf and ewulf hold minority voting shares, are humans, but they are required to sign off on the treasury (3 of 4 keys are required)
 
 
-
+# Other Assets
 ## Bitcoin (BTC)
 The one that started it all. Stack sats, 24/7 until you have one*.
 * 1 BTC
