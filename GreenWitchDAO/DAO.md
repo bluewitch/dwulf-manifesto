@@ -54,12 +54,12 @@ Decision-making in DAOs typically relies on consensus among its members.
 
 # What is The GreenWitchDAO?
 <img align="left" src="images/RevenueLevelsSub0.png" width=500px alt="Sub0">
-The GreenWitchDAO is a self funding, self income generation system of finance embodied in the GreenWitchDAO system.  Built specifically to create optimum yield returns with automated A.I. guidance (specifically through SARA and BIANA).  Flashloans, staking, liquidity pools, yield farming, and other chain revenue generation methods are analysed through FARA, the oracle to impliment all strategies.
+The GreenWitchDAO is a self funding, self income generation system of finance embodied in the GreenWitchDAO system.  Built specifically to create optimum yield returns with automated A.I. guidance (specifically through SARA and BIANA), to assist the DAO to facilitate the transactions.  Flashloans, staking, liquidity pools, yield farming, and other chain revenue generation methods are analysed through FARA, the oracle to actually impliment all strategies.
 
-This is the core of the DAO proper, the GreenWitchDAO, is simply the core of Substrate, with Ink! smart contracts to fill the gaps that the Substrate Pallets do not account for.
+This is the core of the DAO proper, of the GreenWitchDAO, is simply the core of Substrate with software pallets that create a distinction of systems embedded into the GreenWitchDAO proper, along with Ink! smart contracts to fill the gaps that the Substrate Pallets do not account for to create a nimble DAO.
 
-The DAOs Parts
-- Coin/Tokens, GDT, 42 million of them (premined)
+The DAOs Parts (AccountTokens)
+- Coin/Tokens, ***GDT***, 42,000,000 (million) of them (premined)
 - Treasury, Holds activly generating, revenue for an assortment of coin/token assets
 - - BTC
   - ETH
