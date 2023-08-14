@@ -11,6 +11,7 @@ RPGs are my favorite, but I also enjoy the first person adventure shooter also.
 - - Just out, to be released in Sept 2023, can't wait, and yes I did pre order, the premium edition, mostly for the DLC Shatered Space, I am looking forward to this one, single player, very modable, and a Bethesda game to boot, the same Todd that brought us SKyrim, and Fallout.
 
 # dwulf
+Human
 Male
 ### Cyber Runner
 - Pistol Certification
@@ -18,12 +19,13 @@ Male
 - Persuasion
 
 
-- 
 - Thief/Smuggler
 
 
 Triats
 Terra Firma
+
+
 
 Story:
 dwulf is a Time Traveler from acient Earth, he came to the future from a top secret FTL star craft that was being constructed being trasported to be tested, but he escaped with the ship.  Due to a misconfiguration of the FTL computers, dwulf, time-dialated through space-time to the current future present.
