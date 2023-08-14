@@ -3,7 +3,7 @@
 
 
 minor_arcana = {
-    # Wands
+    # Wands (fire)
     "Ace of Wands": "Inspiration, new opportunities, growth",
     "Two of Wands": "Future planning, progress, decisions",
     "Three of Wands": "Preparation, foresight, enterprise",
@@ -19,7 +19,7 @@ minor_arcana = {
     "Queen of Wands": "Confidence, courage, determination",
     "King of Wands": "Natural leader, vision, entrepreneur",
 
-    # Cups
+    # Cups (water)
     "Ace of Cups": "New love, compassion, creativity",
     "Two of Cups": "Unified love, partnership, mutual attraction",
     "Three of Cups": "Celebration, friendship, creativity",
@@ -35,7 +35,7 @@ minor_arcana = {
     "Queen of Cups": "Emotional balance, compassion, intuition",
     "King of Cups": "Emotional balance, diplomacy, calm",
 
-    # Swords
+    # Swords (air)
     "Ace of Swords": "Breakthrough, clarity, sharp mind",
     "Two of Swords": "Difficult decisions, weighing up options, an uneasy truce",
     "Three of Swords": "Heartbreak, emotional pain, sorrow",
@@ -51,7 +51,7 @@ minor_arcana = {
     "Queen of Swords": "Complexity, clear mindedness, direct communication",
     "King of Swords": "Clear thinking, intellectual power, authority",
 
-    # Pentacles
+    # Pentacles (earth)
     "Ace of Pentacles": "New financial or career opportunity, manifestation, abundance",
     "Two of Pentacles": "Multiple priorities, time management, prioritisation",
     "Three of Pentacles": "Teamwork, initial fulfilment, collaboration",
