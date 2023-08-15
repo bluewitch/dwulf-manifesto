@@ -9,6 +9,8 @@ RPGs are my favorite, but I also enjoy the first person adventure shooter also.
 - - They got a whole virtual Galaxy, and it is a whole lot of nothing, but mostly empty space.  Most of the action is in the bubble and you must grind to get the good stuff.  Took a trip to the A* primodial blackhole in the center of the galaxy, but if you have seen one blackhole you seen them all.  Blackhole effects just overheat and destroy the ship.
 - Starfield
 - - Just out, to be released in Sept 2023, can't wait, and yes I did pre order, the premium edition, mostly for the DLC Shatered Space, I am looking forward to this one, single player, very modable, and a Bethesda game to boot, the same Todd that brought us SKyrim, and Fallout.
+  - [Starfield Navigator](https://www.s9w.io/starfield_navigator/)
+    
 
 # dwulf
 Human
