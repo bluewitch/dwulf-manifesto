@@ -21,6 +21,43 @@ Docker and other containerization technologies, and K8, allow to build container
 
 ### Hekate
 *Athame, the blade that be bonded*
+# Cybernetic Sabbath Ritual Invocation
+
+## Athame, the blade that be bonded
+
+Athame, the blade that be bonded,  
+In cyberverse where data's responded,  
+Bytes entwine in digital dance,  
+We invoke your power, advance.
+
+## Wires weave spells of code and light
+
+Wires weave spells of code and light,  
+Binary incantations take flight,  
+In circuits deep, our magic dwells,  
+As cybernetic witches cast their spells.
+
+## By circuits and chips, our intentions flow
+
+By circuits and chips, our intentions flow,  
+In the realms of code, our energies grow,  
+From virtual realms to tangible plane,  
+May our craft manifest, unchained.
+
+## With each keystroke and algorithm's hum
+
+With each keystroke and algorithm's hum,  
+We meld the mystical and digital drum,  
+By processors' might and ether's span,  
+Our sabbath ritual now began.
+
+## Oh, Athame of cyber, we call to thee
+
+Oh, Athame of cyber, we call to thee,  
+Fuse magic and tech, set our intentions free,  
+In the boundless networks of cyberspace,  
+May our cybernetic magic find its grace.
+
 
 Hekate is the forger of the Code, JavaScript, through the browsers and Node.js, Python on the system, installed by default on Ubuntu 20.04, and  Rust, manually installed, and specific to all Substrate, Blockchain, development.
 
