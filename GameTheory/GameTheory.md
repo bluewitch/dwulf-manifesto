@@ -13,19 +13,17 @@ RPGs are my favorite, but I also enjoy the first person adventure shooter also.
     
 
 # dwulf
-Human
+Human, Thief/Smuggler
 Male
 ### Cyber Runner
-- Pistol Certification
-- Security
-- Persuasion
-
-
-- Thief/Smuggler
+- Combat/Pistol Certification
+- Tech/Security
+- Social/Persuasion
 
 
 Triats
-Terra Firma
+- Terra Firma
+- Freestar Collective
 
 
 
