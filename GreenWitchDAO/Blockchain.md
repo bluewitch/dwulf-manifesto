@@ -45,10 +45,19 @@ of transfers for goods and services.
 <img align="left" src="images/avado.jpg" width="333px"  alt="Avado Device">
 
 - Self-custody Crypto Wallets:
+- - MyNode (BTC, LTC)
+  - Nova (DOT, KSM)
+  - Trust (BTC, BNB)
 - Running DeFi Exchanges:
+- - HydraDX
+  - Acala
+  - Others...
 - Running Validators:
+- - Kusama
 - Running Collators:
+- - Astar
 - Running Nodes:
+- - ETH
 
 <br>
 <br>
