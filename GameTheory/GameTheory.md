@@ -2,6 +2,9 @@
 I play games, it sharpens the creative mind and helps me think on how to solve real-world problems.
 RPGs are my favorite, but I also enjoy the first person adventure shooter also.
 
+# My Tech
+<img align="left" src="images/myNeoFetch.png" width=500px alt="My Neofetch">
+
 ## Space
 - Star Citizen
 - - The first and most expesive first date dissapointment, perpetually in Beta and always under construction, (but isn't all software that way?).  I think I bled about $600 on my ships, but haven't been too involved as moding is not all there.  Jokes aside...It's getting better
