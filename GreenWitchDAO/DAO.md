@@ -55,7 +55,7 @@ Decision-making in DAOs typically relies on consensus among its members.
 <img align="left" src="images/DAO_Corpus.png" width=200px alt="Substrate Corpus">So on a technical level the totality of the GreenWitchDAO's source-code is embodied in a Substrate Corpus, like any other para-chain.  Core Substrate Pallets (within a FRAME), make up the rudiments of the GreenWitchDAO proper.   What the core Substrate pallet lacks, GreenWitchDAO pulles into play other Substrate para-chains, such as, Acala, Astar, and Nodle, for Exchanges, Smart Contract, and IoT operations respectively.
 
 Smart Contracts get involved through a Contract Pallet on the GreenWitchDAO, for more nimble operations that do not require a specific Substrate Pallet to perform a function or if that function is a one-time operation.  The GreenWitchDAO, primarily holds digital assets for its operations (through the Treasury and the Vault which are their own Substrate Pallets within GreenWitchDAO).  
-
+<br><br><br>
 
 # What is The GreenWitchDAO?
 <img align="left" src="images/InvertedRevenue.png" width=500px alt="Sub0">
