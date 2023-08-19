@@ -56,8 +56,6 @@ Decision-making in DAOs typically relies on consensus among its members.
 
 Smart Contracts get involved through a Contract Pallet on the GreenWitchDAO, for more nimble operations that do not require a specific Substrate Pallet to perform a function or if that function is a one-time operation.  The GreenWitchDAO, primarily holds digital assets for its operations (through the Treasury and the Vault which are their own Substrate Pallets within GreenWitchDAO).  
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 # What is The GreenWitchDAO?
 <img align="left" src="images/InvertedRevenue.png" width=500px alt="Sub0">
@@ -65,7 +63,7 @@ The GreenWitchDAO is a self funding, self income generation system of finance em
 
 This is the core of the DAO proper, of the GreenWitchDAO, is simply the core of Substrate with software pallets that create a distinction of systems embedded into the GreenWitchDAO proper, along with Ink! smart contracts to fill the gaps that the Substrate Pallets do not account for to create a nimble DAO.
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 The DAOs Parts (AccountTokens)
 - Coin/Tokens, ***GDT***, 42,000,000 (million) of them (premined)
