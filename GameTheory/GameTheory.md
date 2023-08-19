@@ -3,7 +3,7 @@ I play games, it sharpens the creative mind and helps me think on how to solve r
 RPGs are my favorite, but I also enjoy the first person adventure shooter also.
 
 # My Tech
-<img align="left" src="images/myNeoFetch.png" width=500px alt="My Neofetch">
+<img align="left" src="images/myNeoFetch_Specs.png" width=500px alt="My Neofetch">
 
 ## Space
 - Star Citizen
