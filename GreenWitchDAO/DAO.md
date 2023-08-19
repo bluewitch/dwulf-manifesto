@@ -56,6 +56,7 @@ Decision-making in DAOs typically relies on consensus among its members.
 The GreenWitchDAO is a self funding, self income generation system of finance embodied in the GreenWitchDAO system.  Built specifically to create optimum yield returns with automated A.I. guidance (specifically through SARA and BIANA), to assist the DAO to facilitate the transactions.  Flash Loans, staking, liquidity pools, yield farming, and other chain revenue generation methods are analyzed through FARA, the oracle to actually implement all strategies.
 
 This is the core of the DAO proper, of the GreenWitchDAO, is simply the core of Substrate with software pallets that create a distinction of systems embedded into the GreenWitchDAO proper, along with Ink! smart contracts to fill the gaps that the Substrate Pallets do not account for to create a nimble DAO.
+
 ---
 # GreenWitchDAO Corpus
 <img align="left" src="images/DAO_Corpus.png" width=200px alt="Substrate Corpus">So on a technical level the totality of the GreenWitchDAO's source-code is embodied in a Substrate Corpus, like any other para-chain.  Core Substrate Pallets (within a FRAME), make up the rudiments of the GreenWitchDAO proper.   What the core Substrate pallet lacks, GreenWitchDAO pulles into play other Substrate para-chains, such as, Acala, Astar, and Nodle, for Exchanges, Smart Contract, and IoT operations respectively.
@@ -65,7 +66,7 @@ Smart Contracts get involved through a Contract Pallet on the GreenWitchDAO, for
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-The DAOs Parts (AccountTokens)
+# The DAOs Parts (AccountTokens)
 - Coin/Tokens, ***GDT***, 42,000,000 (million) of them (premined)
 - Treasury, Holds activly generating, revenue for an assortment of coin/token assets
 - - BTC
@@ -74,7 +75,7 @@ The DAOs Parts (AccountTokens)
   - ATOM
 
 
- # Treasury and Vault
+# Treasury and Vault
 <img align="left" src="images/TreasuryVault.png" width=500px alt="TreasuryVault"> The Treasury and Vault are a part of one another, but serve 2 distinct functions.  The Treasury holds all dynamic assets and absorbs the transaction fees on its own exchange, while staking, yield farming, liquidity pools, and implementing flash loans to generate Layer 0 revenue.
 
 ## Treasury
