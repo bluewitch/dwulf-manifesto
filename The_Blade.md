@@ -4,6 +4,27 @@ Legion 5 Pro, daily driver
 - Stormbringer, Windoze 11, Pure Gaming and Media
 - Darkstar, Ubuntu, DevOps and Blockchain Development
 
+# Harden Linux
+- Create a `sudo` user
+- Use Secure Shell Protocol
+- Setup a basic firewall
+- Disable Unwanted Linux Services
+- Disable ICMP
+- Enable SELinux
+- Install and configure `fail2ban` firewall
+- Keep Kernel and Packages Updated
+- Disable USB and Thunderbolt Devices
+- Enforce strong password policies
+- Restrict use of previous passwords
+- Set up password aging
+- Purge unnecessary packages to minimize vulnerabilitites
+- Disable unwanted `SUID` and `SGID` Binaries
+- Logging and Auditing
+- Perform regular backups
+- Monitor listening of network ports
+- Seperate disk partitions for Linux system
+
+
 Samsung s23 Ultra, Mobile
 - Shadow Caster, portable NODL miner, recon
 
