@@ -20,4 +20,3 @@ FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is requi
 ### Suitable stablecoin 
 - USDC
 - USDT
-- eSeed
