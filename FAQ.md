@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 ### Projects, Particulars, Payment
-FAQ centers around the 3 "P"s, Projects, Particulars, Payment.  Before any roles or contracts will be considered 3 "P"s must be agreed to, the type of projects that are being worked on, the paticulars of what is required to work on them and the payment (renumeeration) for working on the projects with the correct particulars.
+FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is required for it), Payment (payment channels to do it).  Before any roles or contracts will be considered 3 "P"s must be agreed to, the type of projects that are being worked on, the paticulars of what is required to work on them and the payment (renumeeration) for working on the projects with the correct particulars.
 
 ## Engagement Guidelines:
 
@@ -13,8 +13,6 @@ FAQ centers around the 3 "P"s, Projects, Particulars, Payment.  Before any roles
 ## Payment Gateway
 ***BTC***, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Always Prefered.
 <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=300px alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
-
-
 ### Other wallets are available:
 - Monero (XMR)
 - Polkadot (DOT)
