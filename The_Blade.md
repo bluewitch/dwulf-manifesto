@@ -4,8 +4,10 @@ Legion 5 Pro, daily driver
 - Stormbringer, Windoze 11, Pure Gaming and Media
 - Darkstar, Ubuntu, DevOps and Blockchain Development
 
-# Harden Linux
-- Create a `sudo` user
+# Harden Ubuntu Linux
+## Create a `sudo` user
+
+
 - Use Secure Shell Protocol
 - Setup a basic firewall
 - Disable Unwanted Linux Services
