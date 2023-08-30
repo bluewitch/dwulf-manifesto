@@ -213,3 +213,4 @@ https://1stminingrig.com/how-to-mine-monero-randomx-with-cpu-gpu/
 - CryptoPanic
 - Messari
 - TradingView
+- [Bitcoin Fees to include in block](https://bitcoinfees.info)
