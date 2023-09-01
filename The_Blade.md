@@ -2,7 +2,11 @@
 
 Legion 5 Pro, daily driver
 - Stormbringer, Windoze 11, Pure Gaming and Media
+Original OS, used mostly for gaming and media projects.  No serious development on this platform, no crypto.
+  
 - Darkstar, Ubuntu, DevOps and Blockchain Development
+The herald of the voice, whose words invoke the code, through Rust and her "Book of Shadows"
+  
 
 # Harden Ubuntu Linux
 ## Create a `sudo` user
