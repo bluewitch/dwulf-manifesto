@@ -4,11 +4,13 @@ FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is requi
 
 ## Engagement Guidelines:
 
-1. ***Remote Work Policy:*** Must have a provision of remote work options for all roles. In the event that a role is mandated to be on-site and does not permit any degree of remote work flexibility, the contractual agreement must henceforth include comprehensive relocation and housing subsidies.
+1. ***Remote Work Policy:*** We require the availability of remote work options for all positions. In situations where a role necessitates on-site presence without any remote work flexibility, the contractual arrangement must encompass extensive provisions for relocation assistance and housing subsidies.
 
-2. ***Preferred Employment Type:*** Preference is to engage via a ***Decentralized Autonomous Organization (DAO)*** employment structure to the GreenWitchDAO. Open to consider a 1099 contract role based on the specific project (i.e., Blockchain and A.I. related) requirements. However, we do not typically prefer or consider W2 employment positions as this does not fit in with our business model.
+2. ***Preferred Employment Type:*** Our preference is to establish an engagement structure through a ***Decentralized Autonomous Organization (DAO)*** within GreenWitchDAO. We are also open to exploring 1099 contract roles, depending on the specific project's requirements, particularly those related to Blockchain and A.I. However, it's important to note that we generally do not favor or entertain W2 employment positions, as they do not align with our established business model.
 
-3. ***Compensation:*** Without specific knowledge of the Project or its Particulars, it's not feasible to determine an appropriate compensation level. Compensation negotiations will only be enacted after a budget has been outlined, project details are fully disclosed and understood, and an offer has been extended. Until such time, local market rates can be employed as a preliminary reference point to guage compensation.
+3. ***Price Points:*** Determining an appropriate compensation level without precise knowledge of the project or its specific details is challenging. Compensation negotiations will be initiated once a budget has been established, comprehensive project details have been disclosed and thoroughly understood, and a formal offer has been extended. Until these crucial steps are completed, it is reasonable to consider local market rates as an initial reference point for assessing compensation.
+
+4. ***Compensation:*** All remuneration for services must be in cryptocurrency, perferably in BTC.
 
 ## Payment Gateway
 ***BTC***, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Always Prefered.
