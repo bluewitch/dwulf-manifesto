@@ -1,0 +1,8 @@
+
+
+
+``ollama run llama2
+
+
+
+

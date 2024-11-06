@@ -1,0 +1,2 @@
+- [Alliance Academy](https://alliance-academy.origintrail.io/)
+- 

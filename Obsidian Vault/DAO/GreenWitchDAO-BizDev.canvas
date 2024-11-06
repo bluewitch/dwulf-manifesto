@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3e844253151a3d7e","type":"text","text":"GreenWitchDAO","x":-1080,"y":-1200,"width":1040,"height":80},
+		{"id":"ec2704251b6048b1","type":"text","text":"Software Corpus (Substrate)","x":-1000,"y":-980,"width":880,"height":80}
+	],
+	"edges":[
+		{"id":"85a38f99dddec9ef","fromNode":"3e844253151a3d7e","fromSide":"bottom","toNode":"ec2704251b6048b1","toSide":"top"}
+	]
+}

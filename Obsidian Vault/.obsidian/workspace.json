@@ -1,0 +1,736 @@
+{
+  "main": {
+    "id": "bb42cf8dd0069248",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4668948f9bdf1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e852f3a4a07fd4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Afloat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Afloat"
+            }
+          },
+          {
+            "id": "6624a4c8253787b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Crypto Swap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crypto Swap"
+            }
+          },
+          {
+            "id": "cd0e4a1d9972007d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Tribe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Tribe"
+            }
+          },
+          {
+            "id": "a49ad9a45e950c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
+          },
+          {
+            "id": "b8771008c2328b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Tanssi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tanssi"
+            }
+          },
+          {
+            "id": "f262ac98cb5da04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Tanssi RAW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tanssi RAW"
+            }
+          },
+          {
+            "id": "afaddb438473e2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Taxes and Insurance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taxes and Insurance"
+            }
+          },
+          {
+            "id": "49534ccd96b1b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media_Images/dwe_DAO_SelfFunding.png"
+              },
+              "icon": "lucide-image",
+              "title": "dwe_DAO_SelfFunding"
+            }
+          },
+          {
+            "id": "e3140ddbdcacc5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Origin Trail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Origin Trail"
+            }
+          },
+          {
+            "id": "81d2ec2541c79a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/KYC_DOT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KYC_DOT"
+            }
+          },
+          {
+            "id": "50116767467f0b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic_Intelligence/A.I. URLs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A.I. URLs"
+            }
+          },
+          {
+            "id": "8c4efd8c9be350bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Hard Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hard Stuff"
+            }
+          },
+          {
+            "id": "5bfb688068305565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/4 Pillars of the Manifesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 Pillars of the Manifesto"
+            }
+          },
+          {
+            "id": "ec0d14d8a397fc81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Crypto Swap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crypto Swap"
+            }
+          },
+          {
+            "id": "16b76b2890f6c15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Decentralized EXchanges (DEX).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decentralized EXchanges (DEX)"
+            }
+          },
+          {
+            "id": "69cf460689caf9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Hardware Wallets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware Wallets"
+            }
+          },
+          {
+            "id": "6700a6009b86dee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "J0, J1, J2, J3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "J0, J1, J2, J3"
+            }
+          },
+          {
+            "id": "2c9d5766cae9ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quotes"
+            }
+          },
+          {
+            "id": "ec4b91ed9a2711a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Base of Operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base of Operations"
+            }
+          },
+          {
+            "id": "ae07b1900863e884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Metal Songs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metal Songs"
+            }
+          },
+          {
+            "id": "3556c5b2bad7f81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Origin Trail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Origin Trail"
+            }
+          },
+          {
+            "id": "ba1d24a52c9e4b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
+            }
+          },
+          {
+            "id": "192030a09872baf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "eaee8e2846950ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People of Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People of Note"
+            }
+          },
+          {
+            "id": "d7d6e227866e31a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "0827f060474f6d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Smart Contracts (EVM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Contracts (EVM)"
+            }
+          },
+          {
+            "id": "74ced56885428b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fungi/Mycology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mycology"
+            }
+          },
+          {
+            "id": "e19317d79cc60227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Smart Contracts (EVM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Contracts (EVM)"
+            }
+          },
+          {
+            "id": "bb4cdc1e09f7c633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Smart Contracts (Ink!).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Contracts (Ink!)"
+            }
+          },
+          {
+            "id": "5225c86e7f8c2039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quotes"
+            }
+          },
+          {
+            "id": "7584a08b1c33685f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Poetry (not Vogon).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poetry (not Vogon)"
+            }
+          },
+          {
+            "id": "1a24ffde752d5bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quotes"
+            }
+          },
+          {
+            "id": "f3ea03af94493b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/Rust Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust Development"
+            }
+          },
+          {
+            "id": "ccd56c54a2b410bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Video.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video"
+            }
+          },
+          {
+            "id": "b08c1f0beae1ae37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Editors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Editors"
+            }
+          },
+          {
+            "id": "5122433d1296e6e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic_Intelligence/Cursor A.I..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cursor A.I."
+            }
+          },
+          {
+            "id": "96a8738a65d85b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/Nostr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nostr"
+            }
+          },
+          {
+            "id": "3e4b383c85b42bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XXX/XXX Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XXX Text"
+            }
+          }
+        ],
+        "currentTab": 37
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7d545540c03376e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ea355ce6083c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69af9874c4303c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b1f1861743437c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65bd7e02dce8cf4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "16128fb057ddc7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ccba7573b07f591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f15d5897a81178cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "XXX/XXX_Images-Witchcraft/ks_witch_tits.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ks_witch_tits"
+            }
+          },
+          {
+            "id": "1a2c807c47684ece",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "XXX/XXX_Images-Witchcraft/ks_witch_tits.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ks_witch_tits"
+            }
+          },
+          {
+            "id": "e18b0c31202d704e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0813de0ae9493b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "XXX/XXX_Images-Witchcraft/ks_witch_tits.jpg"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ks_witch_tits"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "3e4b383c85b42bb8",
+  "lastOpenFiles": [
+    "Media_Images/mem_spice_must_flow.png",
+    "Media_Images/meme_immigration.png",
+    "Media_Images/mem_canyou.png",
+    "Media_Images/mem_broken_system.png",
+    "Media_Images/mem_3000_years_ago.png",
+    "Media_Images/craft_Beltane.png",
+    "Media_Images/Web2_Architecture.jpg",
+    "Media_Images/shemovedthroughthefair.jpg",
+    "Media_Images/mem_SR_Hadden.jpg",
+    "Media_Images/mem_PenguinsSmileandWave.jpg",
+    "Media_Images/ID_dougs_head.jpg",
+    "My Tribe.md",
+    "Synthetic_Intelligence/Artificial Intelligence.md",
+    "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
+    "PDF(Portable Document Format)/tennessee-standard-residential-lease-agreement-form-pdf.pdf",
+    "PDF(Portable Document Format)/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
+    "PDF(Portable Document Format)/Linux Interview Notes.pdf",
+    "PDF(Portable Document Format)/Mother_Earth_Constitution_One_page_Summary2_240918_074812.pdf",
+    "PDF(Portable Document Format)/Neural-Networks-from-Scratch-in-Python-techprofree.pdf",
+    "PDF(Portable Document Format)/ProfileNewest.pdf",
+    "PDF(Portable Document Format)/Proof_of_tax.pdf",
+    "PDF(Portable Document Format)/proof_of_income.pdf",
+    "PDF(Portable Document Format)/Startale_Cover.pdf",
+    "Synthetic_Intelligence/A.I. URLs.md",
+    "Synthetic_Intelligence/A.I. Avatars.md",
+    "Synthetic_Intelligence/A.I. Agents.md",
+    "Synthetic_Intelligence/SARA.md",
+    "Fund Raising/Contributions.md",
+    "Fund Raising/Web3 Grants.md",
+    "Fund Raising/Web3 Foundation.md",
+    "Bitness/Warchest.md",
+    "Media/DarkWulf.md",
+    "Media/Bio of Derrick Black.md",
+    "Media/Avatar.md",
+    "Media/Audio.md",
+    "Media/Video.md",
+    "Quotes.md",
+    "Media/Playwrights.md",
+    "Media/NINA Story.md",
+    "Media/News.md",
+    "Tarot JSON.md",
+    "People of Note.md",
+    "XXX/XXX Text.md",
+    "DAO/Web3 Foundation.md",
+    "Blockchain/Source Code.md",
+    "Media/Socials.md",
+    "Untitled.canvas",
+    "DAO/GreenWitchDAO-BizDev.canvas",
+    "Engineering_Software/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

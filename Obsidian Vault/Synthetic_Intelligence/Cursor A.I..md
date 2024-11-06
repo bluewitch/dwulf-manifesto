@@ -1,0 +1,3 @@
+- [Intro to Cursor](https://playbooks.com/course/introduction-to-cursor)
+- [Cursor Forums](https://forum.cursor.com/latest)
+- 

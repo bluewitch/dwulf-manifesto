@@ -1,0 +1,2 @@
+- [JAM Gray Paper PDF](https://graypaper.com/graypaper.pdf)
+- [JAM Gray Paper In-versed](https://drive.google.com/file/d/1rvrWrnJgG2V57FKutxufG0L26PgxUAxe/view)
