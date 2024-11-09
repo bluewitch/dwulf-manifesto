@@ -541,12 +541,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Dark Merchants.md",
+                "file": "Bitness/Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Merchants"
+              "title": "Operations"
             }
           }
         ],
@@ -694,6 +694,9 @@
   },
   "active": "ed257964b736e70c",
   "lastOpenFiles": [
+    "Bitness/J0, J1, J2, J3.md",
+    "Bitness/Economics.md",
+    "Hacking/Dark Merchants.md",
     "Media_Images/mem_ashes.jpg",
     "Hacking/CS50.md",
     "Hacking/Browsers.md",
@@ -723,8 +726,6 @@
     "Media_Audio/HHG_NectorFields.mp3",
     "Media_Audio/HHG_DCT.mp3",
     "Media/HHG.md",
-    "Media/Audio.md",
-    "Media/Avatar.md",
     "Media_Images/mem_spice_must_flow.png",
     "Media_Images/meme_immigration.png",
     "Media_Images/mem_canyou.png",
@@ -732,7 +733,6 @@
     "Media_Images/mem_3000_years_ago.png",
     "Media_Images/craft_Beltane.png",
     "Media_Images/Web2_Architecture.jpg",
-    "Media_Images/shemovedthroughthefair.jpg",
     "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
     "PDF(Portable Document Format)/tennessee-standard-residential-lease-agreement-form-pdf.pdf",
     "PDF(Portable Document Format)/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
