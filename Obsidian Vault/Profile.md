@@ -1,7 +1,7 @@
 
 ![doug](ID-Paypal.jpg)
 Douglas Kuhn
-A.I. Architect, Afloat
+A.I. Architect
 
 dwulf, smart, astute and a first class engineer.   He spent his life as a freelancer and entrepreneur.  Now investor in the GreenWitchDAO.
 

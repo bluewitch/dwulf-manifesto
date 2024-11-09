@@ -527,18 +527,30 @@
             "id": "3e4b383c85b42bb8",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Media_Images/dwe_ink_v_solidity.png"
+              },
+              "icon": "lucide-image",
+              "title": "dwe_ink_v_solidity"
+            }
+          },
+          {
+            "id": "ed257964b736e70c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "XXX/XXX Text.md",
+                "file": "Hacking/Dark Merchants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XXX Text"
+              "title": "Dark Merchants"
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -680,8 +692,39 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3e4b383c85b42bb8",
+  "active": "ed257964b736e70c",
   "lastOpenFiles": [
+    "Media_Images/mem_ashes.jpg",
+    "Hacking/CS50.md",
+    "Hacking/Browsers.md",
+    "Hacking/Base of Operations.md",
+    "Hacking/Bank Hacks.md",
+    "Hacking/Anarchist Way.md",
+    "Fund Raising/Web3 Grants.md",
+    "Fund Raising/Web3 Foundation.md",
+    "Fund Raising/Phala Ambassador.md",
+    "Fund Raising/Contributions.md",
+    "Quotes.md",
+    "Bitness/People of Note.md",
+    "DAO/MetaMask.md",
+    "God.md",
+    "Profile.md",
+    "Hacking/ALPHV.md",
+    "Hacking/4 Pillars of the Manifesto.md",
+    "Media_Audio/HHG_Mycotoxia.mp3",
+    "Media_Images/dwe_ink_v_solidity.png",
+    "Media_Images/dwe_WASM.png",
+    "Metal/RISC-V.md",
+    "Tarot JSON.md",
+    "Mom.md",
+    "Engineering_Software/AWS.md",
+    "Engineering_Software/Ansible.md",
+    "Fungi/Mycology.md",
+    "Media_Audio/HHG_NectorFields.mp3",
+    "Media_Audio/HHG_DCT.mp3",
+    "Media/HHG.md",
+    "Media/Audio.md",
+    "Media/Avatar.md",
     "Media_Images/mem_spice_must_flow.png",
     "Media_Images/meme_immigration.png",
     "Media_Images/mem_canyou.png",
@@ -690,11 +733,6 @@
     "Media_Images/craft_Beltane.png",
     "Media_Images/Web2_Architecture.jpg",
     "Media_Images/shemovedthroughthefair.jpg",
-    "Media_Images/mem_SR_Hadden.jpg",
-    "Media_Images/mem_PenguinsSmileandWave.jpg",
-    "Media_Images/ID_dougs_head.jpg",
-    "My Tribe.md",
-    "Synthetic_Intelligence/Artificial Intelligence.md",
     "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
     "PDF(Portable Document Format)/tennessee-standard-residential-lease-agreement-form-pdf.pdf",
     "PDF(Portable Document Format)/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
@@ -702,32 +740,6 @@
     "PDF(Portable Document Format)/Mother_Earth_Constitution_One_page_Summary2_240918_074812.pdf",
     "PDF(Portable Document Format)/Neural-Networks-from-Scratch-in-Python-techprofree.pdf",
     "PDF(Portable Document Format)/ProfileNewest.pdf",
-    "PDF(Portable Document Format)/Proof_of_tax.pdf",
-    "PDF(Portable Document Format)/proof_of_income.pdf",
-    "PDF(Portable Document Format)/Startale_Cover.pdf",
-    "Synthetic_Intelligence/A.I. URLs.md",
-    "Synthetic_Intelligence/A.I. Avatars.md",
-    "Synthetic_Intelligence/A.I. Agents.md",
-    "Synthetic_Intelligence/SARA.md",
-    "Fund Raising/Contributions.md",
-    "Fund Raising/Web3 Grants.md",
-    "Fund Raising/Web3 Foundation.md",
-    "Bitness/Warchest.md",
-    "Media/DarkWulf.md",
-    "Media/Bio of Derrick Black.md",
-    "Media/Avatar.md",
-    "Media/Audio.md",
-    "Media/Video.md",
-    "Quotes.md",
-    "Media/Playwrights.md",
-    "Media/NINA Story.md",
-    "Media/News.md",
-    "Tarot JSON.md",
-    "People of Note.md",
-    "XXX/XXX Text.md",
-    "DAO/Web3 Foundation.md",
-    "Blockchain/Source Code.md",
-    "Media/Socials.md",
     "Untitled.canvas",
     "DAO/GreenWitchDAO-BizDev.canvas",
     "Engineering_Software/Untitled.canvas",
