@@ -1,5 +1,8 @@
 Rob Habermeier
 
+![](dwe_NOMT_Trie.png)
+
+
 NOMT is a state database, a criticle component of blockchain node.
 - High Throughput Commits
 - Low latency lookups
@@ -36,6 +39,37 @@ Authenticated State Trees
 
 Incredibly important for interoperability, light clients, bridging, co-processors, etc.
 
+Typical high-end SSD specs (Q4 2024)
+- 4TB capacity, how much it holds
+- 40 microsecond latency
+- 1M IOPS (I/Os per Second)
+$300-$400-$600
+
+What is an I/O?
+
+A 4KB (single page) read or write operation on the disk
+
+SSDs only work in data of exactly one page.
+
+
+More RAM with units or more units with RAM
+
+- SuperMicro 12TB motherboard + 12TB of compatible RAM would cost over $40k (for DDR4, not DDR5 RAM)
+- A 4TB RAM configuration would cost $5k USD
+- 3 4TB SSDs would cost $1500
+- SSD reads can be faster than RAM copies due to Direct Memory Access
+- PCI is crazy fast
+
+The SSD caveat: Parallelism
+- You need a parallel VM to take advantage of SSD IOPS
+- Theoretical max sequential throughput at 40us latency is only ~6K TPS
+
+Engineering Decisions
+- Targets Linux as first-class (needed for io-uring)
+- Targets generic Unix/macOS as functional (for development)
+- Direct I/O for max IOPS
+- Single-state DB, stores only finalized state.  unfinalized state must live in-memory.
+- Rust
 
 
 
