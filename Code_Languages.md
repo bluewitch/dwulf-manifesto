@@ -549,17 +549,17 @@ Amethist
 "I know PHP,  I just refuse to program in it."
 ~dwulf
 
-The Hypertext Preprocessor (aka, Personal Home Page, PHP) is a general-purpose web development programming language. Created by Rasmus Lerdorf in 1994.
+- The Hypertext Preprocessor (aka, Personal Home Page, PHP) is a general-purpose web development programming language. Created by Rasmus Lerdorf in 1994.
 
-PHP is my terciary language, held on to because of its original early intimate relationship to Web development.  But some issues make PHP not in my top 2
+- PHP is my terciary language, held on to because of its original early intimate relationship to Web development.  But some issues make PHP not in my top 2
 
 PHP Arrays:
-Arrays are not numerically indexed, like normal Arrays, but instead a crossbreed of pretty much everything and can be treated as an array, list, hash table, dictionary, collection, stack, queue, and probably more.
+- Arrays are not numerically indexed, like normal Arrays, but instead a crossbreed of pretty much everything and can be treated as an array, list, hash table, dictionary, collection, stack, queue, and probably more.
 
 Before classes were added to PHP 4, there were no other data structures.
 
 Type System:
-There a way to declare variables. Variables are created and initialized whenever they are used for the first time, which is just bound to result in errors that are caused by typos.
+- There a way to declare variables. Variables are created and initialized whenever they are used for the first time, which is just bound to result in errors that are caused by typos.
 
 
 
@@ -575,7 +575,7 @@ Of course I still know PHP and Perl and am exploring the framework that is larav
 
 Magic Quotes, disable
 
-phpinfo()
+`phpinfo()`
 
 
 # ELM Language
@@ -603,7 +603,7 @@ Yes, it was a head scratcher, and was one for me for many years.   I moved on to
 
 
 
-Tools
+### Tools
 - `malloc` (memory_tools) C function in `stdlib.h`, allocates memory from heap
 - `realloc` (memory_tools) Reallocates memory into heap
 - `free` (memory_tools) Deallocates (returns) memory back to heap
