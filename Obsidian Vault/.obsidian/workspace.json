@@ -555,16 +555,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOMT.md",
+                "file": "Profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOMT"
+              "title": "Profile"
+            }
+          },
+          {
+            "id": "9c350b8ca87d84f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAO/Emerald Onion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emerald Onion"
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -706,13 +720,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fbb7db706abd4afa",
+  "active": "a69af9874c4303c0",
   "lastOpenFiles": [
+    "Profile.md",
+    "DAO/Emerald Onion.md",
+    "DAO/NOMT.md",
+    "Media_Images/dwe_NOMT_Architecture.png",
+    "Media_Images/co_rob_habermeier.png",
     "Media_Images/Windoze11_Legion.png",
     "Media_Images/poping_shells.png",
     "Media_Images/dwe_NOMT_Trie.png",
     "Bitness/Operations.md",
-    "NOMT.md",
     "Bitness/J0, J1, J2, J3.md",
     "Bitness/Economics.md",
     "Hacking/Dark Merchants.md",
@@ -730,7 +748,6 @@
     "Bitness/People of Note.md",
     "DAO/MetaMask.md",
     "God.md",
-    "Profile.md",
     "Hacking/ALPHV.md",
     "Hacking/4 Pillars of the Manifesto.md",
     "Media_Audio/HHG_Mycotoxia.mp3",
@@ -744,9 +761,6 @@
     "Media_Audio/HHG_DCT.mp3",
     "Media_Images/mem_spice_must_flow.png",
     "Media_Images/meme_immigration.png",
-    "Media_Images/mem_canyou.png",
-    "Media_Images/mem_broken_system.png",
-    "Media_Images/mem_3000_years_ago.png",
     "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
     "PDF(Portable Document Format)/tennessee-standard-residential-lease-agreement-form-pdf.pdf",
     "PDF(Portable Document Format)/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",

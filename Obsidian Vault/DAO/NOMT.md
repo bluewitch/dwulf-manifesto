@@ -71,5 +71,19 @@ Engineering Decisions
 - Single-state DB, stores only finalized state.  unfinalized state must live in-memory.
 - Rust
 
+Space Usage
+- 1 billion items estimated at 150GB on-disk
+- Large occasional jumps in space usage in bitbox every time the number of items increases by ~64
+- - We are working to make this gradual
+- Aiming to support tens of billions of items per 4TB of storage
+
+Node Requirements
+
+- RAM/Disk size scale with DB size. 4GB RAM and 256GB SSD for 1B items
+- Disk: >500k IOPS
+- CPU: 8 cores
 
 
+JAM is in RAM
+
+![](dwe_NOMT_Architecture.png)
