@@ -621,14 +621,12 @@
             "id": "11d9f8d2839e90c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DAO/PAPI Console.md",
-                "mode": "source",
-                "source": false
+                "file": "Media_Images/DAO_OriginTrail_EdgeNode.png"
               },
-              "icon": "lucide-file",
-              "title": "PAPI Console"
+              "icon": "lucide-image",
+              "title": "DAO_OriginTrail_EdgeNode"
             }
           }
         ],
@@ -776,8 +774,20 @@
   },
   "active": "11d9f8d2839e90c8",
   "lastOpenFiles": [
-    "Quotes.md",
+    "Media_Images/DAO_Midnight_Roadmap.png",
+    "Media_Images/DAO_Midnight_Polkadot-SDK.png",
+    "Media_Images/DAO_Midnight_Partnerchain.png",
+    "DAO/Midnight Cardano.md",
+    "Docs.md",
+    "DAO/Robonomics.md",
+    "Media_Images/ocDónal_Murray.png",
+    "Media_Images/oc_Justin_Frevert.png",
+    "Media_Images/oc_Alessandro_Decarli.png",
+    "Media_Images/DAO_OriginTrail_EdgeNode.png",
+    "Media_Images/oc_Sergei_Lonshakov.png",
+    "Media_Images/oc_Carlo_Sala.png",
     "DAO/PAPI Console.md",
+    "Quotes.md",
     "Profile.md",
     "Blockchain/Polkadot.md",
     "Socials/Resume CV.md",
@@ -797,22 +807,9 @@
     "Fund Raising/Phala Ambassador.md",
     "Fund Raising/Web3 Grants.md",
     "Fund Raising/Web3 Foundation.md",
-    "DAO/Robonomics.md",
     "DAO/Polkadot Referendum, The Eagle JAM.md",
-    "DAO/Polkadot pre-images.md",
-    "DAO/Origin Trail.md",
-    "DAO/Origin Trails.md",
     "Divine_Media",
     "Media_Images/JAM_Flow.png",
-    "Media_Images/JAM_devop_workflow.png",
-    "Media_Images/JAM_DAO.jpeg",
-    "Media_Images/JAM_Cycle.png",
-    "Media_Images/JAM_BTC_to_iBTC.png",
-    "Media_Images/JAM_ARPNET2.jpg",
-    "Media_Images/JAM_ARPANET.jpg",
-    "Media_Images/dwn_NO_KYC.png",
-    "Media_Images/dwn_no-kyc.png",
-    "Media_Images/dwn_logo_tribal_wolf.jpg",
     "Media_Audio/HHG_Mycotoxia.mp3",
     "Media_Audio/HHG_NectorFields.mp3",
     "Media_Audio/HHG_DCT.mp3",
