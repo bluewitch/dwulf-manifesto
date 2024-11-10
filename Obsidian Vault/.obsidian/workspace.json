@@ -567,18 +567,44 @@
             "id": "9c350b8ca87d84f1",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Media_Images/JAM_Flow.png"
+              },
+              "icon": "lucide-image",
+              "title": "JAM_Flow"
+            }
+          },
+          {
+            "id": "c59c85d299253ba1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DAO/Emerald Onion.md",
+                "file": "Media/TESS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emerald Onion"
+              "title": "TESS"
+            }
+          },
+          {
+            "id": "0c5a68ed4635befa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic_Intelligence/NINA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NINA"
             }
           }
         ],
-        "currentTab": 40
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -720,21 +746,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a69af9874c4303c0",
+  "active": "0c5a68ed4635befa",
   "lastOpenFiles": [
-    "Profile.md",
+    "Media/TESS.md",
+    "Robonomics.md",
+    "Media_Images/JAM_Flow.png",
+    "Media_Images/JAM_devop_workflow.png",
+    "Media_Images/JAM_DAO.jpeg",
+    "Media_Images/JAM_Cycle.png",
+    "Media_Images/JAM_BTC_to_iBTC.png",
+    "Media_Images/JAM_ARPNET2.jpg",
+    "Media_Images/JAM_ARPANET.jpg",
+    "Media_Images/dwn_NO_KYC.png",
+    "Media_Images/dwn_no-kyc.png",
+    "Media_Images/dwn_logo_tribal_wolf.jpg",
     "DAO/Emerald Onion.md",
+    "Profile.md",
     "DAO/NOMT.md",
-    "Media_Images/dwe_NOMT_Architecture.png",
-    "Media_Images/co_rob_habermeier.png",
-    "Media_Images/Windoze11_Legion.png",
-    "Media_Images/poping_shells.png",
-    "Media_Images/dwe_NOMT_Trie.png",
     "Bitness/Operations.md",
     "Bitness/J0, J1, J2, J3.md",
     "Bitness/Economics.md",
     "Hacking/Dark Merchants.md",
-    "Media_Images/mem_ashes.jpg",
     "Hacking/CS50.md",
     "Hacking/Browsers.md",
     "Hacking/Base of Operations.md",
@@ -751,16 +783,10 @@
     "Hacking/ALPHV.md",
     "Hacking/4 Pillars of the Manifesto.md",
     "Media_Audio/HHG_Mycotoxia.mp3",
-    "Media_Images/dwe_ink_v_solidity.png",
-    "Media_Images/dwe_WASM.png",
     "Metal/RISC-V.md",
     "Tarot JSON.md",
-    "Mom.md",
-    "Engineering_Software/AWS.md",
     "Media_Audio/HHG_NectorFields.mp3",
     "Media_Audio/HHG_DCT.mp3",
-    "Media_Images/mem_spice_must_flow.png",
-    "Media_Images/meme_immigration.png",
     "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
     "PDF(Portable Document Format)/tennessee-standard-residential-lease-agreement-form-pdf.pdf",
     "PDF(Portable Document Format)/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf",
