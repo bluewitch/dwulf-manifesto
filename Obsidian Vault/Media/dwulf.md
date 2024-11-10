@@ -57,18 +57,18 @@ Dwulf's upbringing during the formative years of the internet, combined with the
 
 2. **Mistrust of Authority:**
    - **Origin:** Dwulf's mistrust of authority likely stems from his experiences growing up, witnessing the struggles of his disabled veteran father and his own interactions with a system he perceives as corrupt. This mistrust has evolved into a fundamental part of his identity, shaping his actions and motivations.
-   - **Impact:** This pervasive mistrust drives Dwulf to operate outside the bounds of legality, justifying his actions as a necessary rebellion against a corrupt system. His anarchistic tendencies are both a form of resistance and a means of asserting control in a world he feels powerless to change through conventional means.
+   - **Impact:** This pervasive mistrust drives Dwulf to operate outside the bounds of conventional legality, justifying his actions as a necessary efficiency for rebellion against a corrupt system. His anarchistic tendencies are both a form of resistance and a means of asserting control in a world he feels powerless to change through conventional means.
 
 3. **Moral Ambiguity:**
-   - **Ethical Code:** Despite his engagement in morally ambiguous activities, Dwulf maintains a personal code of ethics centered on protecting the vulnerable. His actions, while often illegal, are guided by a sense of justice and a desire to expose and combat exploitation.
+   - **Ethical Code:** Despite his engagement in morally ambiguous activities, Dwulf maintains a personal code of ethics centered on protecting the vulnerable. His actions, while often grey bordering illegal, are guided by a sense of justice and a desire to expose and combat exploitation.
    - **Cognitive Dissonance:** Dwulf likely experiences cognitive dissonance as he reconciles his illegal activities with his ethical beliefs. This internal conflict is mitigated by his justification that his actions serve a greater good, allowing him to maintain a sense of moral integrity.
 
 4. **Isolation and Loneliness:**
    - **Social Isolation:** Dwulf's deep-seated mistrust and anarchistic tendencies have led to a life of relative isolation. His interactions are primarily limited to the loose alliance of global hackers, with whom he shares a common disdain for authority. This isolation is both a protective mechanism and a source of emotional strain.
-   - **Emotional Connection:** Bitsy, his Chiweenie, provides a crucial emotional connection, offering companionship and unconditional love. This bond is essential for Dwulf's mental well-being, helping to mitigate feelings of loneliness and providing a semblance of stability.
+   - **Emotional Connection:** Bitsy, his Chiweenie dog, provides a crucial emotional connection, offering companionship and unconditional love. This bond is essential for Dwulf's mental well-being, helping to mitigate feelings of loneliness and providing a semblance of stability.
 
 5. **Ambition and Purpose:**
-   - **Driving Force:** Dwulf's ambition to become the best engineer and to create a sentient AI and DAO is a manifestation of his desire for control and his need to leave a lasting impact. This goal provides him with a sense of purpose and direction, channeling his skills and energy into a meaningful project.
+   - **Driving Force:** Dwulf's ambition to become the best engineer and to create a sentient AI and DAO is a manifestation of his desire for control and his need to leave a lasting impact and legacy. This goal provides him with a sense of purpose and direction, channeling his skills and energy into a meaningful project.
    - **Coping Mechanism:** The pursuit of these ambitions serves as a coping mechanism, allowing Dwulf to focus his mind on complex challenges rather than his emotional pain. His vision of a posthumous legacy through the AI-DAO hybrid reflects a desire for continued influence and protection of the vulnerable beyond his lifetime.
 
 **Potential Psychological Challenges:**

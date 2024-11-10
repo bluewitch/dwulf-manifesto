@@ -595,16 +595,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic_Intelligence/NINA.md",
+                "file": "Media/Lyra and Alex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NINA"
+              "title": "Lyra and Alex"
+            }
+          },
+          {
+            "id": "cb20c6e99d37fbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Lyra and Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lyra and Alex"
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -746,10 +760,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0c5a68ed4635befa",
+  "active": "cb20c6e99d37fbe4",
   "lastOpenFiles": [
-    "Media/TESS.md",
-    "Robonomics.md",
+    "Media/Rap Nerd.md",
+    "Media/Playwrights.md",
+    "Media/NINA Story.md",
+    "Media/Media.md",
+    "Media/HHG.md",
+    "Media/Episodes.md",
+    "Media/Editors.md",
+    "Media/Avatar.md",
+    "Media/Audio.md",
+    "Media/Articles.md",
+    "Metal/RISC-V.md",
+    "Fund Raising/Contributions.md",
+    "Fund Raising/Phala Ambassador.md",
+    "Fund Raising/Web3 Grants.md",
+    "Fund Raising/Web3 Foundation.md",
+    "DAO/Robonomics.md",
+    "DAO/Polkadot Referendum, The Eagle JAM.md",
+    "DAO/Polkadot pre-images.md",
+    "DAO/Origin Trail.md",
+    "DAO/Origin Trails.md",
+    "Socials/BizDev-Consulting.md",
+    "Socials/BizDev.md",
+    "Socials/Polkadot Caravan.md",
+    "Socials/Interviews.md",
+    "Socials/Cover Letters.md",
+    "Socials/Resume CV.md",
+    "Divine_Media",
     "Media_Images/JAM_Flow.png",
     "Media_Images/JAM_devop_workflow.png",
     "Media_Images/JAM_DAO.jpeg",
@@ -760,31 +799,7 @@
     "Media_Images/dwn_NO_KYC.png",
     "Media_Images/dwn_no-kyc.png",
     "Media_Images/dwn_logo_tribal_wolf.jpg",
-    "DAO/Emerald Onion.md",
-    "Profile.md",
-    "DAO/NOMT.md",
-    "Bitness/Operations.md",
-    "Bitness/J0, J1, J2, J3.md",
-    "Bitness/Economics.md",
-    "Hacking/Dark Merchants.md",
-    "Hacking/CS50.md",
-    "Hacking/Browsers.md",
-    "Hacking/Base of Operations.md",
-    "Hacking/Bank Hacks.md",
-    "Hacking/Anarchist Way.md",
-    "Fund Raising/Web3 Grants.md",
-    "Fund Raising/Web3 Foundation.md",
-    "Fund Raising/Phala Ambassador.md",
-    "Fund Raising/Contributions.md",
-    "Quotes.md",
-    "Bitness/People of Note.md",
-    "DAO/MetaMask.md",
-    "God.md",
-    "Hacking/ALPHV.md",
-    "Hacking/4 Pillars of the Manifesto.md",
     "Media_Audio/HHG_Mycotoxia.mp3",
-    "Metal/RISC-V.md",
-    "Tarot JSON.md",
     "Media_Audio/HHG_NectorFields.mp3",
     "Media_Audio/HHG_DCT.mp3",
     "PDF(Portable Document Format)/signed_Battery_Coin_Tardee_Coin_Agreement_Douglas_Kuhn.pdf",
@@ -793,7 +808,6 @@
     "PDF(Portable Document Format)/Linux Interview Notes.pdf",
     "PDF(Portable Document Format)/Mother_Earth_Constitution_One_page_Summary2_240918_074812.pdf",
     "PDF(Portable Document Format)/Neural-Networks-from-Scratch-in-Python-techprofree.pdf",
-    "PDF(Portable Document Format)/ProfileNewest.pdf",
     "Untitled.canvas",
     "DAO/GreenWitchDAO-BizDev.canvas",
     "Engineering_Software/Untitled.canvas",
