@@ -7,3 +7,16 @@ In a terminal write
 ```bash
 sudo apt update && sudo apt upgrade
 ```
+
+# Rust install
+```bash
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+```
+
+# Install NPM (Node Packet Manager)
+
+
+# Install Python 3
+```bash
+Always draw your curves, then plot your reading.
+```
