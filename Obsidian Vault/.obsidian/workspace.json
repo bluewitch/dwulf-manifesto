@@ -621,12 +621,14 @@
             "id": "11d9f8d2839e90c8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media_Images/DAO_OriginTrail_EdgeNode.png"
+                "file": "Software_Engineering/Rust.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DAO_OriginTrail_EdgeNode"
+              "icon": "lucide-file",
+              "title": "Rust"
             }
           }
         ],
@@ -774,18 +776,20 @@
   },
   "active": "11d9f8d2839e90c8",
   "lastOpenFiles": [
-    "Media_Images/DAO_Midnight_Roadmap.png",
-    "Media_Images/DAO_Midnight_Polkadot-SDK.png",
-    "Media_Images/DAO_Midnight_Partnerchain.png",
+    "Media_Images/JAM_ARPANET.jpg",
+    "Media_Images/dws_EvilOrb.png",
+    "Media_Images/dws_eye_on_skyline.png",
+    "Media_Images/dws_FungiHuman.jpeg",
+    "Media_Images/dws_genres.jpg",
+    "Media_Images/dws_hacker_meditating.jpeg",
+    "Media_Images/dws_I_AM_FIRE.jpeg",
+    "Media_Images/dws_journey_2023.png",
+    "Media_Images/dws_maiden_madness.jpg",
+    "Media_Images/dws_maidens_fair.jpg",
+    "Media_Images/dws_pink_fembot.png",
     "DAO/Midnight Cardano.md",
     "Docs.md",
     "DAO/Robonomics.md",
-    "Media_Images/ocDónal_Murray.png",
-    "Media_Images/oc_Justin_Frevert.png",
-    "Media_Images/oc_Alessandro_Decarli.png",
-    "Media_Images/DAO_OriginTrail_EdgeNode.png",
-    "Media_Images/oc_Sergei_Lonshakov.png",
-    "Media_Images/oc_Carlo_Sala.png",
     "DAO/PAPI Console.md",
     "Quotes.md",
     "Profile.md",
@@ -809,7 +813,6 @@
     "Fund Raising/Web3 Foundation.md",
     "DAO/Polkadot Referendum, The Eagle JAM.md",
     "Divine_Media",
-    "Media_Images/JAM_Flow.png",
     "Media_Audio/HHG_Mycotoxia.mp3",
     "Media_Audio/HHG_NectorFields.mp3",
     "Media_Audio/HHG_DCT.mp3",

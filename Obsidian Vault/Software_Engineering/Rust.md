@@ -1,3 +1,5 @@
+[Rust Install](https://www.rust-lang.org/tools/install)
+
 Our main programming language, virtually memory bug free since there is no garbage collection or dangling pointers since every memory piece is accounted for either by being owned or borrowed by some Rust component.
 
 # **Introduction to Rust:**
