@@ -14,4 +14,11 @@ And the best part? The JAM Implementer's Prize! With 10 million DOTs up for grab
 
   
 
-So, there you have it, folks! The JAM Protocol in a nutshell. It's a technological jam session that promises to revolutionize the blockchain world, one smart contract at a time! 
+# JAM 
+
+- Q4 2024 Parity Rust JAMSDK 
+- Q1 2025 Core Boot
+- Q2 2025 CoreVM
+- Q2+Q3 2025: CoreChains
+- Q4 2025: CorePlay
+

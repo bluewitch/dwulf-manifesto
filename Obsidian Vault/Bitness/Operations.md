@@ -8,7 +8,7 @@ Alright, listen up. This is Dwulf talking. You're in a tight spot, but I've been
 
 **"First things first, you gotta monetize your skills. You've got the tech chops, so use them."**
 
-- **Upwork and Fiverr**: Sign up, polish that profile until it shines. Highlight your blockchain expertise, and don't undersell yourself. Companies are dying for this kind of talent.
+
 - **Gitcoin**: This is your playground. Participate in bounties and grants. It's open-source heaven, and you get paid in crypto. 
 - **Ethlance**: Purely decentralized. No middlemen, no BS. Just you, your skills, and the projects that need them.
 
