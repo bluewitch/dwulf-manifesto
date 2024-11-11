@@ -2,6 +2,12 @@
 ### Projects, Particulars, Payment
 FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is required for it), Payment (payment channels to do it).  Before any roles or contracts will be considered 3 "P"s must be agreed to, the type of projects that are being worked on, the paticulars of what is required to work on them and the payment (renumeeration) for working on the projects with the correct particulars.
 
+- Project: What it is, what is the end game for the project
+- Particulars:  What specifically is required of me
+- Payment: Sync up payment channels and digital asset wallets
+
+
+
 ## Engagement Guidelines:
 
 1. ***Remote Work Policy:*** We require the availability of remote work options for all positions. In situations where a role necessitates on-site presence without any remote work flexibility, the contractual arrangement must encompass extensive provisions for relocation assistance and housing subsidies.
@@ -16,9 +22,10 @@ FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is requi
 ***BTC***, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Always Prefered.
 <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=300px alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
 ### Other wallets are available:
+- Polkadot ($DOT) 12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs
+- To be set up
 - Monero (XMR)
-- Polkadot (DOT)
 - Cosmos (ATOM)
 ### Suitable stablecoin 
-- USDC
+- USDC 
 - USDT
