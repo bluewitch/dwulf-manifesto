@@ -88,7 +88,8 @@ quotes = [
     "A complex system that works is invariably found to have evolved from a simple system that works.",
     "Simplicity does not precede complexity, but follows it.",
     "Maybe Computer Science should be in the College of Theology. -- R. S. Barton",
-    "There is very little future in being right when your boss is wrong."
+    "There is very little future in being right when your boss is wrong.",
+    "The person who can smile when something goes wrong has thought of someone to blame it on."
     
 
 

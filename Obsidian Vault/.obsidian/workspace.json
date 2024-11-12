@@ -630,9 +630,23 @@
               "icon": "lucide-file",
               "title": "JAM"
             }
+          },
+          {
+            "id": "a1a4a94ec0006515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quotes"
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -774,10 +788,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "11d9f8d2839e90c8",
+  "active": "a1a4a94ec0006515",
   "lastOpenFiles": [
-    "Software_Engineering/Rust.md",
+    "test.md",
     "Blockchain/JAM.md",
+    "Media_Images/dwe_TechTime.jpg",
+    "Software_Engineering/Rust.md",
     "Bitness/Operations.md",
     "Quotes.md",
     "Media_Images/JAM_ARPANET.jpg",
@@ -789,7 +805,6 @@
     "Media_Images/dws_I_AM_FIRE.jpeg",
     "Media_Images/dws_journey_2023.png",
     "Media_Images/dws_maiden_madness.jpg",
-    "Media_Images/dws_maidens_fair.jpg",
     "DAO/Midnight Cardano.md",
     "Docs.md",
     "DAO/Robonomics.md",
@@ -811,7 +826,6 @@
     "Metal/RISC-V.md",
     "Fund Raising/Contributions.md",
     "Fund Raising/Phala Ambassador.md",
-    "Fund Raising/Web3 Grants.md",
     "Divine_Media",
     "Media_Audio/HHG_Mycotoxia.mp3",
     "Media_Audio/HHG_NectorFields.mp3",
