@@ -19,13 +19,14 @@ FAQ centers around the 3 "P"s, Projects (what it is), Particulars (what is requi
 4. ***Compensation:*** All remuneration for services must be in cryptocurrency, perferably in BTC.
 
 ## Payment Gateway
-***BTC***, Bitcoin (***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***).  Always Prefered.
+**$BTC**, Bitcoin ***bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3***  Always Prefered.
 <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=300px alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
 ### Other wallets are available:
-- Polkadot ($DOT) 12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs
+- **$DOT** Polkadot 12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs
 - To be set up
-- Monero (XMR)
-- Cosmos (ATOM)
-### Suitable stablecoin 
-- USDC 
-- USDT
+- **$XMR** Monero
+- **$ATOM** Cosmos
+### Suitable ERC-20 stablecoin 
+- **$ETH** Ethereum 0x375e7Bb3c062eB5564a47420AAA7C330bb0e1D6E
+- **$USDC** 
+- **$USDT**
