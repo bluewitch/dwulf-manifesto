@@ -16,10 +16,6 @@ To them, I say:
 <br><br><br>
 
 
-
-
-
-
 ## First Principles
 - Code primitives and first principles in BASH, JavaScript(NPM), Python(PIP3), and Rust(CARGO).  
 - A clear understanding of primitives, `char`, `int`, etc. and the algorthms and code base.
@@ -47,14 +43,3 @@ To them, I say:
 - Running Collators:
 - Running Nodes:
 
-<br><br><br><br>
-## Health
-- Diet, exercise, and sleep.
-
-The pure essence of hacking, reformatted, refined, and distilled.
-
-Had to unlearn, and then relearn; the brutal truth is never a lie.
-
-BASH scripting `.sh`, need to own and make executable.
-
-`CODE HERE`
