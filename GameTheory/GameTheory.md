@@ -47,22 +47,4 @@ From there he has been trying to adapt to the new space faring world.
 - Skyrim
 - - What can I say, this is the D&D simulator the way the Gods meant it to be, with Mods you can turn this into a perfect setting for mini-movies and media.
 
-## Tarot
-Show the scary Tarot cards,
-or throw them to the wind.
 
-Your fate is tied to the song of bards,
-and to every mortal sin.
-
-Both high and low arcana magick,
-will weave your tale of fate.
-how love could be so tradgic,
-and the truth cannot relate.
-
-The cards they have no meaning,
-once they tell their story.
-from a vision you are weaning,
-a hint of fortune and glory.
-
-You still must know your craft,
-your tools sharpened and oiled.
