@@ -637,16 +637,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software_Engineering/Rust (Cheat Sheet).md",
+                "file": "Synthetic_Intelligence/A.I. URLs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust (Cheat Sheet)"
+              "title": "A.I. URLs"
+            }
+          },
+          {
+            "id": "19236f5ce75d407a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering_Software/DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps"
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -788,19 +802,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a69af9874c4303c0",
+  "active": "19236f5ce75d407a",
   "lastOpenFiles": [
-    "Media_Images/mem_ani_money.gif",
-    "Media_Images/mem_ani_Matrix.gif",
-    "Media_Images/mem_ani_logging.gif",
-    "Media_Images/mem_ani_cosmic_dive.gif",
-    "Media_Images/mem_ani_lock.gif",
-    "Media_Images/mem_ani_goagainstyourprogramming.gif",
-    "Media_Images/mem_ani_One_Ring.gif",
-    "Media_Images/mem_ani_bladerunner_gif.gif",
-    "Media_Images/mem_ani_DuneNavigation.gif",
-    "Media_Images/mem_ani_video_loading.gif",
-    "Media_Images/mem_ani_Numberflow.gif",
+    "Synthetic_Intelligence/MLOPS.md",
+    "Synthetic_Intelligence/A.I. URLs.md",
+    "Media_Images/oc_kian_paimani.png",
+    "Media_Images/dwn_black-hat-virus.png",
+    "Media_Images/dwn_systemfail.jpg",
+    "Media_Images/mem_404.jpg",
+    "Software_Engineering/Rust (Cheat Sheet).md",
+    "Media_Images/mem_You_Are_Here.jpg",
+    "Media_Images/AI_Therory.jpg",
+    "Media_Images/dws_TowelDoug.jpg",
+    "Media_Images/dws_towelday.jpg",
+    "Media_Images/dws_towel_wrap.jpg",
+    "Media_Images/dws_dontpanic.jpg",
     "Media_Images/mem_ani_Rising Full Moon Timelapse.mp4",
     "Software_Engineering/Rust.md",
     "test.md",
@@ -825,8 +841,6 @@
     "Media/Editors.md",
     "Media/Avatar.md",
     "Media/Audio.md",
-    "Media/Articles.md",
-    "Metal/RISC-V.md",
     "Divine_Media",
     "Media_Audio/HHG_Mycotoxia.mp3",
     "Media_Audio/HHG_NectorFields.mp3",

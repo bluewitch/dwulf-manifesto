@@ -455,62 +455,200 @@ println!("{}", s1);
 
 Ownership and functions
 
-|   |
-|---|
-|fn main() {<br><br>  let x = 5;<br><br>  takes_copy(x); // x is copied by value<br><br>  <br><br>  let s = String::from("Let’s Get Rusty!");<br><br>  // s is moved into the function<br><br>  takes_ownership(s);<br><br>  // return value is moved into s1<br><br>  let s1 = gives_ownership();<br><br>  let s2 = String::from("LGR");<br><br>  let s3 = takes_and_gives_back(s2);<br><br>}<br><br>  <br><br>fn takes_copy(some_integer: i32) {<br><br>  println!("{}", some_integer);<br><br>}<br><br>  <br><br>fn takes_ownership(some_string: String) {<br><br>  println!("{}", some_string);<br><br>} // some_string goes out of scope and drop is called. The backing memory is freed.<br><br>  <br><br>fn gives_ownership() -> String {<br><br>  let some_string = String::from("LGR");<br><br>  some_string<br><br>}<br><br>  <br><br>fn takes_and_gives_back(some_string: String) -> String {<br><br>  some_string<br><br>}|
+```rust
+fn main() {
+
+  let x = 5;
+
+  takes_copy(x); // x is copied by value
 
   
+
+  let s = String::from("Black Rust");
+
+  // s is moved into the function
+
+  takes_ownership(s);
+
+  // return value is moved into s1
+
+  let s1 = gives_ownership();
+
+  let s2 = String::from("DAK");
+
+  let s3 = takes_and_gives_back(s2);
+
+}
+
   
+
+fn takes_copy(some_integer: i32) {
+
+  println!("{}", some_integer);
+
+}
+
+  
+
+fn takes_ownership(some_string: String) {
+
+  println!("{}", some_string);
+
+} // some_string goes out of scope and drop is called. The backing memory is freed.
+
+  
+
+fn gives_ownership() -> String {
+
+  let some_string = String::from("DAK");
+
+  some_string
+
+}
+
+  
+
+fn takes_and_gives_back(some_string: String) -> String {
+
+  some_string
+
+}
+```
+
+
+---
 
 ## Pattern Matching
 
 Basics
 
-|   |
-|---|
-|let x = 5;<br><br>match x {<br><br>  // matching literals<br><br>  1 => println!("one"),<br><br>  // matching multiple patterns<br><br>  2 \| 3 => println!("two or three"),<br><br>  // matching ranges<br><br>  4..=9 => println!("within range"),<br><br>  // matching named variables<br><br>  x => println!("{}", x),<br><br>  // default case (ignores value)<br><br>  _ => println!("default Case")<br><br>}|
+```rust
+let x = 5;
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+match x {
+
+  // matching literals
+
+  1 => println!("one"),
+
+  // matching multiple patterns
+
+  2 | 3 => println!("two or three"),
+
+  // matching ranges
+
+  4..=9 => println!("within range"),
+
+  // matching named variables
+
+  x => println!("{}", x),
+
+  // default case (ignores value)
+
+  _ => println!("default Case")
+
+}
+```
+
+
+
 
 Destructuring
 
-|   |
-|---|
-|struct Point {<br><br>  x: i32,<br><br>  y: i32,<br><br>}<br><br>  <br><br>let p = Point { x: 0, y: 7 };<br><br>  <br><br>match p {<br><br>  Point { x, y: 0 } => {<br><br>    println!("{}" , x);<br><br>  },<br><br>  Point { x, y } => {<br><br>    println!("{} {}" , x, y);<br><br>  },<br><br>}<br><br>  <br><br>enum Shape {<br><br>  Rectangle { width: i32, height: i32 },<br><br>  Circle(i32),<br><br>}<br><br>  <br><br>let shape = Shape::Circle(10);<br><br>  <br><br>match shape {<br><br>  Shape::Rectangle { x, y } => //...<br><br>  Shape::Circle(radius) => //...<br><br>}|
+```rust
+struct Point {
+
+  x: i32,
+
+  y: i32,
+
+}
+
+let p = Point { x: 0, y: 7 };
 
   
+
+match p {
+
+  Point { x, y: 0 } => {
+
+    println!("{}" , x);
+
+  },
+
+  Point { x, y } => {
+
+    println!("{} {}" , x, y);
+
+  },
+
+}
+
+enum Shape {
+
+  Rectangle { width: i32, height: i32 },
+
+  Circle(i32),
+
+}
+
   
+
+let shape = Shape::Circle(10);
+
   
-  
-  
-  
-  
-  
-  
+
+match shape {
+
+  Shape::Rectangle { x, y } => //...
+
+  Shape::Circle(radius) => //...
+
+}
+
+```
+
+
 
 Ignoring values
 
-|   |
-|---|
-|struct SemVer(i32, i32, i32);<br><br>  <br><br>let version = SemVer(1, 32, 2);<br><br>  <br><br>match version {<br><br>  SemVer(major, _, _) => {<br><br>    println!("{}", major);<br><br>  }<br><br>}<br><br>  <br><br>let numbers = (2, 4, 8, 16, 32);<br><br>  <br><br>match numbers {<br><br>  (first, .., last) => {<br><br>    println!("{}, {}", first, last);<br><br>  }<br><br>}|
+```rust
+struct SemVer(i32, i32, i32);
+
+  
+
+let version = SemVer(1, 32, 2);
+
+  
+
+match version {
+
+  SemVer(major, _, _) => {
+
+    println!("{}", major);
+
+  }
+
+}
+
+  
+
+let numbers = (2, 4, 8, 16, 32);
+
+  
+
+match numbers {
+
+  (first, .., last) => {
+
+    println!("{}, {}", first, last);
+
+  }
+
+}
+```
+
+
 
   
 
@@ -537,6 +675,7 @@ Match guards
   
   
   
+ ---
   
   
   
@@ -588,6 +727,8 @@ Implementing the Iterator trait
   
   
   
+---
+
   
   
   
@@ -635,7 +776,8 @@ Result enum
   
   
   
-  
+---
+
   
   
 

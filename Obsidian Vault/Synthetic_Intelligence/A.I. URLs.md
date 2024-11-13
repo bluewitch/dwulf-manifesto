@@ -26,7 +26,9 @@ Incognito mode for AI
 
 
 
+# Machines of Love and Grace
 
+- [Dario Amodei, Machines of love and Grace](https://darioamodei.com/machines-of-loving-grace)
 
 
 
