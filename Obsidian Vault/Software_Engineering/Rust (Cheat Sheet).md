@@ -94,136 +94,283 @@ subs.entry("GolangDojo".to_owned()).or_insert(3);
 
 Struct
 
-|   |
-|---|
-|// Definition<br><br>struct User {<br><br>  username: String,<br><br>  active: bool,<br><br>}<br><br>  <br><br>// Instantiation<br><br>let user1 = User {<br><br>  username: String::from("bogdan"),<br><br>  active: true,<br><br>};<br><br>  <br><br>// Tuple struct<br><br>struct Color(i32, i32, i32);<br><br>let black = Color(0, 0, 0);|
+```rust
+// Definition
+
+struct User {
+
+  username: String,
+
+  active: bool,
+
+}
+
+  
+
+// Instantiation
+
+let user1 = User {
+
+  username: String::from("Adams"),
+
+  active: true,
+
+};
+
+  
+
+// Tuple struct
+
+struct Color(i32, i32, i32);
+
+let black = Color(0, 0, 0);
+```
+
+
 
   
 
 Enum
 
-|   |
-|---|
-|// Definition<br><br>enum Command {<br><br>  Quit,<br><br>  Move { x: i32, y: i32 },<br><br>  Speak(String),<br><br>  ChangeBGColor(i32, i32, i32),<br><br>}<br><br>  <br><br>// Instantiation<br><br>let msg1 = Command::Quit;<br><br>let msg2 = Command::Move{ x: 1, y: 2 };<br><br>let msg3 = Command::Speak("Hi".to_owned());<br><br>let msg4 = Command::ChangeBGColor(0, 0, 0);|
+```rust
+// Definition
+
+enum Command {
+
+  Quit,
+
+  Move { x: i32, y: i32 },
+
+  Speak(String),
+
+  ChangeBGColor(i32, i32, i32),
+
+}
+
+  
+
+// Instantiation
+
+let msg1 = Command::Quit;
+
+let msg2 = Command::Move{ x: 1, y: 2 };
+
+let msg3 = Command::Speak("Hi".to_owned());
+
+let msg4 = Command::ChangeBGColor(0, 0, 0);
+```
 
   
 
 Constant
 
-|   |
-|---|
-|const MAX_POINTS: u32 = 100_000;|
+```rust
+const MAX_POINTS: u32 = 100_000;
+```
 
-  
+
 
 Static variable
 
-|   |
-|---|
-|// Unlike constants static variables are<br><br>// stored in a dedicated memory location<br><br>// and can be mutated.<br><br>static MAJOR_VERSION: u32 = 1;<br><br>static mut COUNTER: u32 = 0;|
+```rust
+// Unlike constants static variables are
+
+// stored in a dedicated memory location
+
+// and can be mutated.
+
+static MAJOR_VERSION: u32 = 1;
+
+static mut COUNTER: u32 = 0;
+```
 
   
 
 Mutability
 
-|   |
-|---|
-|let mut x = 5;<br><br>x = 6;|
+```rust
+let mut x = 5;
 
-  
+x = 6;
+```
+
+
 
 Shadowing
 
-|   |
-|---|
-|let x = 5;<br><br>let x = x * 2;|
+```rust
+let x = 5;
 
-  
+let x = x * 2;
+```
+
+
 
 Type alias
 
-|   |
-|---|
-|// `NanoSecond` is a new name for `u64`.<br><br>type NanoSecond = u64;|
+```rust
+// `NanoSecond` is a new name for `u64`.
+
+type NanoSecond = u64;
+```
+
+
 
 ## Control Flow
 
 if and if let
 
-|   |
-|---|
-|let num = Some(22);<br><br>  <br><br>if num.is_some() {<br><br>  println!("number is: {}", num.unwrap());<br><br>}<br><br>  <br><br>// match pattern and assign variable<br><br>if let Some(i) = num {<br><br>  println!("number is: {}", i);<br><br>}|
+```rust
+let num = Some(22);
 
   
+
+if num.is_some() {
+
+  println!("number is: {}", num.unwrap());
+
+}
+
+  
+
+// match pattern and assign variable
+
+if let Some(i) = num {
+
+  println!("number is: {}", i);
+
+}
+```
+
 
 loop
 
-|   |
-|---|
-|let mut count = 0;<br><br>loop {<br><br>  count += 1;<br><br>  if count == 5 {<br><br>    break; // Exit loop<br><br>  }<br><br>}|
+```rust
+let mut count = 0;
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+loop {
+
+  count += 1;
+
+  if count == 5 {
+
+    break; // Exit loop
+
+  }
+
+}
+```
+
+
 
 Nested loops & labels
 
-|   |
-|---|
-|'outer: loop {<br><br>  'inner: loop {<br><br>    // This breaks the inner loop<br><br>    break;<br><br>    // This breaks the outer loop<br><br>    break 'outer;<br><br>  }<br><br>}|
+```rust
+'outer: loop {
+
+  'inner: loop {
+
+    // This breaks the inner loop
+
+    break;
+
+    // This breaks the outer loop
+
+    break 'outer;
+
+  }
+
+}
+```
+
+
 
 Returning from loops
 
-|   |
-|---|
-|let mut counter = 0;<br><br>  <br><br>let result = loop {<br><br>  counter += 1;<br><br>  <br><br>  if counter == 10 {<br><br>    break counter;<br><br>  }<br><br>};|
+```rust
+let mut counter = 0;
+
+  
+
+let result = loop {
+
+  counter += 1;
+
+  
+
+  if counter == 10 {
+
+    break counter;
+
+  }
+
+};
+```
 
   
 
 while and while let
 
-|   |
-|---|
-|while n < 101 {<br><br>  n += 1;<br><br>}<br><br>  <br><br>let mut optional = Some(0);<br><br>  <br><br>while let Some(i) = optional {<br><br>  print!("{}", i);<br><br>}|
+```rust
+while n < 101 {
+
+  n += 1;
+
+}
 
   
+
+let mut optional = Some(0);
+
   
-  
-  
-  
-  
+
+while let Some(i) = optional {
+
+  print!("{}", i);
+
+}
+```
+
 
 for loop
 
-|   |
-|---|
-|for n in 1..101 {<br><br>  println!("{}", n);<br><br>}<br><br>  <br><br>let names = vec!["Bogdan", "Wallace"];<br><br>  <br><br>for name in names.iter() {<br><br>  println!("{}", name);<br><br>}|
+```rust
+for n in 1..101 {
+
+  println!("{}", n);
+
+}
 
   
+
+let names = vec!["Douglas", "Adams"];
+
+  
+
+for name in names.iter() {
+
+  println!("{}", name);
+}
+```
+
 
 match
 
-|   |
-|---|
-|let optional = Some(0);<br><br>  <br><br>match optional {<br><br>  Some(i) => println!("{}", i),<br><br>  None => println!("No value.")<br><br>}|
+```rust
+let optional = Some(0);
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+match optional {
+
+  Some(i) => println!("{}", i),
+
+  None => println!("No value.")
+
+}
+```
+
+---
 
 ## References, Ownership, and Borrowing
 
@@ -249,50 +396,61 @@ Borrowing rules
 
 Creating references
 
-|   |
-|---|
-|let s1 = String::from("hello world!");<br><br>let s1_ref = &s1; // immutable reference<br><br>  <br><br>let mut s2 = String::from("hello");<br><br>let s2_ref = &mut s2; // mutable reference<br><br>  <br><br>s2_ref.push_str(" world!");|
+```rust
+let s1 = String::from("hello world!");
+
+let s1_ref = &s1; // immutable reference
 
   
+
+let mut s2 = String::from("hello");
+
+let s2_ref = &mut s2; // mutable reference
+
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+s2_ref.push_str(" world!");
+```
+
+ 
 
 Copy, Move, and Clone
 
-|   |
-|---|
-|// Simple values which implement the Copy trait are copied by value<br><br>let x = 5;<br><br>let y = x;<br><br>  <br><br>println!("{}", x); // x is still valid<br><br>  <br><br>// The string is moved to s2 and s1 is invalidated<br><br>let s1 = String::from("Let's Get Rusty!");<br><br>let s2 = s1; // Shallow copy a.k.a move<br><br>  <br><br>println!("{}", s1); // Error: s1 is invalid<br><br>  <br><br>let s1 = String::from("Let's Get Rusty!");<br><br>let s2 = s1.clone(); // Deep copy<br><br>  <br><br>// Valid because s1 isn't moved<br><br>println!("{}", s1);|
+```rust
+// Simple values which implement the Copy trait are copied by value
+
+let x = 5;
+
+let y = x;
 
   
+
+println!("{}", x); // x is still valid
+
   
+
+// The string is moved to s2 and s1 is invalidated
+
+let s1 = String::from("Black Rust");
+
+let s2 = s1; // Shallow copy a.k.a move
+
   
+
+println!("{}", s1); // Error: s1 is invalid
+
   
+
+let s1 = String::from("Black Rust");
+
+let s2 = s1.clone(); // Deep copy
+
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+// Valid because s1 isn't moved
+
+println!("{}", s1);
+```
   
 
 Ownership and functions
