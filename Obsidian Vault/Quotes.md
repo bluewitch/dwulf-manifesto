@@ -89,7 +89,9 @@ quotes = [
     "Simplicity does not precede complexity, but follows it.",
     "Maybe Computer Science should be in the College of Theology. -- R. S. Barton",
     "There is very little future in being right when your boss is wrong.",
-    "The person who can smile when something goes wrong has thought of someone to blame it on."
+    "The person who can smile when something goes wrong has thought of someone to blame it on.",
+    "Were there fewer fools, knaves would starve. - Anonymous",
+    "If you have to ask how much it is, you can't afford it."
     
 
 
