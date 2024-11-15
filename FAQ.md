@@ -32,7 +32,7 @@ All payments are to be made in cryptocurrency, with a strong preference for **BT
 
 ## Q: How can I assess your skills and qualifications?  
 **A:** You can review my professional expertise and project contributions through the following:  
-- **[LinkedIn](https://www.linkedin.com/in/your-profile/)**: A detailed overview of my professional roles, accomplishments, and endorsements.  
+- **[LinkedIn]([[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/dkuhn/)](https://www.linkedin.com/in/dkuhn/))**: A detailed overview of my professional roles, accomplishments, and endorsements.  
 - **[GitHub](https://github.com/bluewitch)**: A showcase of my coding projects, technical expertise, and contributions to various repositories.  
 
 ## Q: Why don’t you participate in assessment tests?  
