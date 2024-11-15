@@ -25,6 +25,24 @@ All payments are to be made in cryptocurrency, with a strong preference for **BT
 
 ---
 
+# Frequently Asked Questions (FAQ)
+
+## Q: Do you participate in assessment tests or technical demos?  
+**A:** No, I do not engage in assessment tests or technical demos as part of the hiring or project onboarding process. My extensive experience and proven track record in blockchain and software development make such tests unnecessary.  
+
+## Q: How can I assess your skills and qualifications?  
+**A:** You can review my professional expertise and project contributions through the following:  
+- **[LinkedIn](https://www.linkedin.com/in/your-profile/)**: A detailed overview of my professional roles, accomplishments, and endorsements.  
+- **[GitHub](https://github.com/bluewitch)**: A showcase of my coding projects, technical expertise, and contributions to various repositories.  
+
+## Q: Why don’t you participate in assessment tests?  
+**A:** As a highly experienced professional, my focus is on delivering value and results for projects. My time is dedicated to active engagements and ongoing responsibilities. Reviewing my portfolio and professional profiles will provide sufficient evidence of my skills and suitability for your needs.  
+
+For further discussions or to inquire about project collaboration, feel free to reach out directly.
+
+
+---
+
 ## Payment Gateway  
 
 The following wallet addresses are preferred for payment, each offering a secure channel for compensation:
