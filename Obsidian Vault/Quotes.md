@@ -91,7 +91,8 @@ quotes = [
     "There is very little future in being right when your boss is wrong.",
     "The person who can smile when something goes wrong has thought of someone to blame it on.",
     "Were there fewer fools, knaves would starve. - Anonymous",
-    "If you have to ask how much it is, you can't afford it."
+    "If you have to ask how much it is, you can't afford it.",
+    "If money can't buy happiness, I guess you'll just have to rent it."
     
 
 
