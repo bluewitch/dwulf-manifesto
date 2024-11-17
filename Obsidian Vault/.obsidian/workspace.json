@@ -686,9 +686,21 @@
               "icon": "lucide-file",
               "title": "Quotes"
             }
+          },
+          {
+            "id": "5a87bcd0280d4a09",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media_Images/dwe_astar_interops.png"
+              },
+              "icon": "lucide-image",
+              "title": "dwe_astar_interops"
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -830,19 +842,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "737dc00261474052",
+  "active": "5a87bcd0280d4a09",
   "lastOpenFiles": [
-    "Media_Images/dws_Screenshot-a.png",
-    "Media_Images/dws_Screenshot-1.png",
-    "Media_Images/dws_Redwitch-Screenshot.png",
-    "Media_Images/dws_Alice-Screenshot2.png",
-    "Media_Images/dwe_net_nmap.png",
-    "Media_Images/mem_winmaclin.png",
-    "Media_Images/dwn_Ubuntu.jpg",
-    "Media_Images/dwn_hackintosh-linux.jpg",
-    "Media_Images/dwn_hackintosh.jpg",
-    "Media_Images/dwe_linux_Kernel.png",
-    "Media_Images/dws_black_spade.jpg",
+    "Media_Images/dws_invaders.jpg",
+    "Media_Images/dws_game_break.jpg",
+    "Media_Images/honda_78800257.gif",
+    "Media_Images/honda_2008-03-19_190908_2008-03-19_190009.png",
+    "Media_Images/dwn_Tesla-pickup-truck-12-e1559514729373.jpg",
+    "Media_Images/dwn_blue_binary_code_1024_768.jpg",
+    "Media_Images/dwe_ArrayMagick.png",
+    "Media_Images/dwe_Algorithms.jpg",
+    "Media_Images/dwe_algo_WHERE_THE_GO_MOD.png",
+    "Media_Images/DazeOfTheWolf_Title.jpg",
+    "Media_Images/dayinthelife_meme.jpg",
     "Media_Images/ai_mit_artificial_intelligence_online_short_program_brochure.pdf",
     "Media_Images/AI_Brain.jfif",
     "Tarot JSON.md",
