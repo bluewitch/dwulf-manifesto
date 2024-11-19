@@ -97,6 +97,12 @@ The following wallet addresses are preferred for payment, each offering a secure
   **Address**: `bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3`  
   <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=300px alt="Bitcoin Wallet QR Code">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Additional Wallets  
 For flexibility, I also accept the following currencies:
 - **Polkadot ($DOT)**  
