@@ -698,9 +698,35 @@
               "icon": "lucide-image",
               "title": "dwe_astar_interops"
             }
+          },
+          {
+            "id": "e3a8991f1d19653f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "7edc0496e1db53ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetalGods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MetalGods"
+            }
           }
         ],
-        "currentTab": 49
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -842,19 +868,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5a87bcd0280d4a09",
+  "active": "7edc0496e1db53ff",
   "lastOpenFiles": [
-    "Media_Images/vet_Zippo.jpg",
-    "Media_Images/vet_masterlie.png",
-    "Media_Images/poem_mama.jpg",
-    "Media_Images/poem_IceHeart.png",
-    "Media_Images/mem_TheLaw.png",
-    "Media_Images/mem_taxes_taxexempt.jpg",
-    "Media_Images/mem_taxes_FedFiat.jpg",
-    "Media_Images/mem_robotlaws.jpg",
-    "Media_Images/mem_niska_code.jpg",
-    "Media_Images/mem_meditations_wolfpack.jpg",
-    "Media_Images/mem_meditations_wolf_opinions.jpg",
+    "Media_Images/craft_seasons_400px-Five_elements_and_pentagram.png",
+    "Media_Images/craft_seasons_400px-Five_elements_and_pentagram.jpg",
+    "Media_Images/craft_pentacle-1.jpg",
+    "Media_Images/craft_1461122_612240808835037_1214018549_n.jpg",
+    "Media_Images/craft_581412_364924890258911_980411238_n.jpg",
+    "Media_Images/craft_560697_10151040951866319_264864513_n.jpg",
+    "Media_Images/craft_390453_478006025556462_413135209_n.jpg",
+    "Media_Images/craft_seasons_winter_goddess_by_crowbbit.png",
+    "Media_Images/craft_seasons_midsumers_eve.jpg",
+    "Media_Images/craft_linux.png",
+    "Media_Images/craft_seasons_mabon.jpg",
+    "MetalGods.md",
     "Media_Images/mem_taxes_memaw.jfif",
     "Media_Images/mem_ani_chicken_road.mp4",
     "Media_Images/ai_mit_artificial_intelligence_online_short_program_brochure.pdf",
@@ -885,7 +912,6 @@
     "Media_Images/mem_ani_Rising Full Moon Timelapse.mp4",
     "Software_Engineering/Rust.md",
     "test.md",
-    "My Tribe.md",
     "Divine_Media",
     "Media_Audio/HHG_Mycotoxia.mp3",
     "Media_Audio/HHG_NectorFields.mp3",
