@@ -126,3 +126,246 @@ For flexibility, I also accept the following currencies:
 Additional wallet addresses for **Monero ($XMR)**, **Cosmos ($ATOM)**, and other relevant tokens will be provided as needed.
 
 
+
+# JavaScript Developer FAQ
+
+### 1. **Explain Event Delegation**
+**Q: What is event delegation, and why is it useful?**
+
+**A:** Event delegation is a technique in the DOM where you add an event listener to a parent element rather than directly to its child elements. It works due to event bubbling (or propagation), where an event triggered on a child element propagates up to its parent elements.
+
+**How it works:** When an event occurs on a target element, it bubbles up to its ancestors in the DOM tree. By attaching a single event listener to a common ancestor, you can handle events on dynamically created child elements without needing to re-bind event listeners.
+
+**Example:**
+```javascript
+const parent = document.getElementById('parent');
+parent.addEventListener('click', (event) => {
+  if (event.target && event.target.tagName === 'LI') {
+    console.log(`Clicked on item: ${event.target.textContent}`);
+  }
+});
+
+// Dynamically add a new child
+const newItem = document.createElement('li');
+newItem.textContent = 'New Item';
+parent.appendChild(newItem);
+```
+
+**Benefits:**
+- Reduces memory usage by attaching fewer listeners.
+- Automatically handles dynamically added elements.
+- Simplifies code for managing multiple child elements.
+
+---
+
+### 2. **How Does `this` Work in JavaScript?**
+**Q: What is `this` in JavaScript, and how does it differ from other languages?**
+
+**A:** In JavaScript, `this` refers to the context in which a function is executed, and its value is determined by how the function is called, not where it is defined. This behavior differs from many object-oriented languages where `this` always refers to the instance of a class.
+
+#### Common Scenarios:
+1. **Global Context:**
+   ```javascript
+   console.log(this); // In a browser: Window object
+   ```
+
+2. **Object Method:**
+   ```javascript
+   const obj = {
+     name: 'Alice',
+     greet() {
+       console.log(this.name); // 'Alice'
+     }
+   };
+   obj.greet();
+   ```
+
+3. **Arrow Functions:**
+   Arrow functions do not have their own `this`. Instead, they inherit `this` from their surrounding context.
+   ```javascript
+   const obj = {
+     name: 'Alice',
+     greet: () => {
+       console.log(this.name); // undefined in most cases
+     }
+   };
+   obj.greet();
+   ```
+
+4. **Explicit Binding:** Using `call`, `apply`, or `bind` to set `this`:
+   ```javascript
+   function greet() {
+     console.log(this.name);
+   }
+   const obj = { name: 'Alice' };
+   greet.call(obj); // 'Alice'
+   ```
+
+---
+
+### 3. **How Prototypal Inheritance Works**
+**Q: What is prototypal inheritance, and how does it compare to class inheritance?**
+
+**A:** Prototypal inheritance allows objects to inherit properties and methods directly from other objects. In JavaScript, every object has an internal link to its prototype (`[[Prototype]]`), which is accessed via `Object.getPrototypeOf()` or `__proto__`.
+
+**Example:**
+```javascript
+const parent = {
+  greet() {
+    console.log('Hello');
+  }
+};
+
+const child = Object.create(parent);
+child.greet(); // 'Hello'
+```
+
+**Comparison with Class Inheritance:**
+- **Prototypal Inheritance:** Flexible, objects inherit directly from other objects.
+- **Class Inheritance:** Involves defining classes and creating instances.
+
+---
+
+### 4. **What is the Difference Between `null` and `undefined`?**
+**Q: How do `null` and `undefined` differ, and how can you check for them?**
+
+**A:**
+- **`undefined`:** Indicates a variable has been declared but not assigned a value, or a property does not exist.
+- **`null`:** Represents an intentional absence of value.
+
+**Example:**
+```javascript
+let a;
+console.log(a); // undefined
+
+let b = null;
+console.log(b); // null
+```
+
+**Checking for `null` and `undefined`:**
+```javascript
+if (value === null) {
+  console.log('Value is null');
+}
+if (value === undefined) {
+  console.log('Value is undefined');
+}
+```
+
+---
+
+### 5. **What is a Closure?**
+**Q: What is a closure, and how do you use it?**
+
+**A:** A closure is a function that retains access to its lexical scope, even when the function is executed outside that scope.
+
+**Example:**
+```javascript
+function outerFunction(outerVariable) {
+  return function innerFunction(innerVariable) {
+    console.log(`Outer: ${outerVariable}, Inner: ${innerVariable}`);
+  };
+}
+
+const closure = outerFunction('outside');
+closure('inside'); // Outer: outside, Inner: inside
+```
+
+**Use Cases:**
+- Encapsulation and private variables.
+- Creating function factories.
+- Implementing memoization.
+
+---
+
+### 6. **Difference Between `forEach` and `map`**
+**Q: What is the difference between `Array.forEach()` and `Array.map()`?**
+
+**A:**
+- **`forEach`:** Executes a provided function for each array element but does not return a new array.
+- **`map`:** Executes a provided function for each array element and returns a new array with the results.
+
+**Example:**
+```javascript
+const numbers = [1, 2, 3];
+
+numbers.forEach(num => console.log(num * 2)); // Logs 2, 4, 6
+
+const doubled = numbers.map(num => num * 2);
+console.log(doubled); // [2, 4, 6]
+```
+
+Use `forEach` for side effects and `map` when you need a transformed array.
+
+---
+
+### 7. **What is the Event Loop?**
+**Q: Can you explain the event loop and its role in JavaScript?**
+
+**A:** The event loop is a mechanism in JavaScript that manages asynchronous operations. It ensures that the call stack is empty before executing tasks from the task queue or microtask queue.
+
+**How it Works:**
+1. JavaScript executes code in the call stack.
+2. When an asynchronous operation completes, its callback is added to the task queue.
+3. The event loop moves tasks from the task queue to the call stack when the stack is empty.
+
+**Example:**
+```javascript
+console.log('Start');
+
+setTimeout(() => {
+  console.log('Timeout');
+}, 0);
+
+console.log('End');
+
+// Output:
+// Start
+// End
+// Timeout
+```
+
+---
+
+### 8. **Differences Between `var`, `let`, and `const`**
+**Q: What are the differences between `var`, `let`, and `const`?**
+
+**A:**
+- **`var`:**
+  - Function-scoped.
+  - Can be redeclared.
+  - Hoisted with `undefined`.
+
+- **`let`:**
+  - Block-scoped.
+  - Cannot be redeclared in the same scope.
+  - Hoisted but not initialized.
+
+- **`const`:**
+  - Block-scoped.
+  - Must be initialized at declaration.
+  - Immutable binding (value can change, reference cannot).
+
+**Example:**
+```javascript
+var a = 10; // Function-scoped
+let b = 20; // Block-scoped
+const c = 30; // Immutable binding
+```
+
+---
+
+### 9. **What is the Difference Between `==` and `===`?**
+**Q: How do `==` and `===` differ?**
+
+**A:**
+- **`==`:** Compares values for equality after type coercion.
+- **`===`:** Compares values and types for strict equality.
+
+**Example:**
+```javascript
+console.log(5 == '5'); // true (type coercion)
+console.log(5 === '5'); // false (different types)
+```
+
+
