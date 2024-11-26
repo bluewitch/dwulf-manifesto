@@ -738,9 +738,23 @@
               "icon": "lucide-file",
               "title": "Polkadot API (PAPI)"
             }
+          },
+          {
+            "id": "cade92fabec84aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POPcli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POPcli"
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -882,8 +896,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ca72d250dcd7e386",
+  "active": "cade92fabec84aad",
   "lastOpenFiles": [
+    "DAO/Polkadot API (PAPI).md",
+    "POPcli.md",
     "PDF(Portable Document Format)/the-theory-of-the-dom-090322120106-phpapp02.pdf",
     "PDF(Portable Document Format)/Eloquent_JavaScript.pdf",
     "PDF(Portable Document Format)/rust_cheat_sheet.pdf",
@@ -898,7 +914,6 @@
     "Media_Images/gt_SpaceSim_Freelancer-cutview.png",
     "Media_Images/gt_SpaceSim_CryEngine-Hacking.png",
     "WASM.md",
-    "DAO/Polkadot API (PAPI).md",
     "MetalGods.md",
     "Media_Images/mem_taxes_memaw.jfif",
     "Media_Images/mem_ani_chicken_road.mp4",
@@ -929,7 +944,6 @@
     "Media_Images/mem_ani_Rising Full Moon Timelapse.mp4",
     "Software_Engineering/Rust.md",
     "Divine_Media",
-    "Media_Audio/HHG_Mycotoxia.mp3",
     "Untitled.canvas",
     "DAO/GreenWitchDAO-BizDev.canvas",
     "Engineering_Software/Untitled.canvas",
