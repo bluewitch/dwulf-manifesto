@@ -125,7 +125,11 @@ For flexibility, I also accept the following currencies:
 
 Additional wallet addresses for **Monero ($XMR)**, **Cosmos ($ATOM)**, and other relevant tokens will be provided as needed.
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # JavaScript Developer FAQ
 
