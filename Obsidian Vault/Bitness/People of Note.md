@@ -16,7 +16,7 @@ The one and only, creator of Ethereum's Solidity and Polkadot's Substrate.  Woul
 # Dónal Murray
 Agile Coretime on Polkadot
 
-![[Dónal_Murray.png]]
+![](oc_Dónal_Murray.png)
 
 Alessandro De Carli
 @Acurast
