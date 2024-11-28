@@ -759,16 +759,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profile.md",
+                "file": "MetalGods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Profile"
+              "title": "MetalGods"
+            }
+          },
+          {
+            "id": "d3370f236cbc05d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merchants Dilema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merchants Dilema"
+            }
+          },
+          {
+            "id": "d47cc7e7188fbc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merchants Dilema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merchants Dilema"
             }
           }
         ],
-        "currentTab": 54
+        "currentTab": 56
       }
     ],
     "direction": "vertical"
@@ -910,14 +938,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a27e912f10040b4b",
+  "active": "d47cc7e7188fbc7b",
   "lastOpenFiles": [
+    "Media/SciFi Science.md",
+    "Merchants Dilema.md",
+    "MetalGods.md",
+    "Hyperbridge.md",
+    "Profile.md",
     "Media_Images/dwe_testing_frameworks.jpg",
     "Media_Images/cosmos_7_sisters.jpg",
     "Media_Images/dwe_gRPC.jpg",
-    "Hyperbridge.md",
     "Quotes.md",
-    "MetalGods.md",
     "Blockchain/Crypto Swap.md",
     "Blockchain/Crypto Purchasing.md",
     "Blockchain/Crypto Mixer.md",
@@ -939,8 +970,6 @@
     "Media_Images/oc_Dónal_Murray.png",
     "Bitness/Warchest.md",
     "WASM.md",
-    "DAO/POPcli.md",
-    "test.md",
     "PDF(Portable Document Format)/the-theory-of-the-dom-090322120106-phpapp02.pdf",
     "PDF(Portable Document Format)/Eloquent_JavaScript.pdf",
     "PDF(Portable Document Format)/rust_cheat_sheet.pdf",
@@ -950,7 +979,6 @@
     "Media_Images/gt_SpaceSim_Mercinary.png",
     "Media_Images/gt_SpaceSim_maxresdefault.jpg",
     "Media_Images/gt_SpaceSim_EvochronMercenary2012-12-0811-46-20-19.jpg",
-    "Media_Images/gt_SpaceSim_MISC-Freelancer-Package.png",
     "Media_Images/mem_taxes_memaw.jfif",
     "Media_Images/mem_ani_chicken_road.mp4",
     "Media_Images/ai_mit_artificial_intelligence_online_short_program_brochure.pdf",
