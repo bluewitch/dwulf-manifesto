@@ -109,12 +109,24 @@ The following wallet addresses are preferred for payment, each offering a secure
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Additional Wallets  
 For flexibility, I also accept the following currencies:
 - **Polkadot ($DOT)**  
   **Address**: `12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs`
 <img align="left" src="images/12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs.png" width=300px alt="12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs">
   
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <br>
 <br>
