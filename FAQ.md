@@ -122,6 +122,12 @@ For flexibility, I also accept the following currencies:
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 - **Ethereum ($ETH)**  
   **Address**: `0x375e7Bb3c062eB5564a47420AAA7C330bb0e1D6E`
   
