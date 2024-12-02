@@ -48,3 +48,25 @@ To dive into JAM SDK, here's what you do:
 ### **Conclusion**
 
 JAM SDK is like the magic wand for those transitioning from Web2 to Web3. It's an early-stage technology, meaning you're among the pioneers. While it requires a bit of learning, the potential to build more secure, scalable, and privacy-focused applications is immense. So, if you're a Web2 developer with a Linux system and an adventurous spirit, JAM SDK might just be your next big step into the decentralized future. Welcome to Web3, where your code doesn't just run; it revolutionizes.
+
+---
+
+### **What You Can Do with the JAM Verifier Once Installed**
+
+The **JAM Verifier** is a security and compliance tool integrated into decentralized systems like Polkadot. Here's what you can do with it:
+
+1. **Validate and Verify Software**:
+    
+    - Ensure that software packages or applications adhere to pre-set integrity and authenticity standards. JAM Verifier checks the binaries or code for tampering, ensuring compliance with DAO or protocol standards.
+2. **Governance Audits**:
+    
+    - It can audit DAO operations or decentralized organizations for policy compliance, validating proposals and ensuring all operations are within predefined governance rules.
+3. **Ensure Runtime Integrity**:
+    
+    - For blockchain environments, the JAM Verifier ensures that runtime environments (e.g., the Substrate runtime in Polkadot) operate with unaltered codebases, preventing exploits or malicious updates.
+4. **Support JAM Campaigns**:
+    
+    - In BizDev and DevRel contexts (such as the U.S. JAM Campaign), the verifier serves as a trust-building tool. It ensures that tools and technologies being distributed or adopted by developers and organizations are cryptographically validated and meet open-source community standards.
+5. **Enhanced Security for Developers**:
+    
+    - Developers leveraging JAMSDK can run the Verifier to confirm that SDK components haven't been tampered with or backdoored, offering additional assurance during application development.
