@@ -57,7 +57,7 @@ The Blockchain, itself, is the ledger, and also has layers/levels that indicate 
 ---
 
 
-By understanding all three layers – Layer 0, Layer 1, and Layer 2 – we can appreciate the full spectrum of blockchain architecture, which collectively drives forward the vision of a decentralized and interconnected digital economy. Each layer has a critical role, whether it's establishing a solid foundation, enhancing performance, or bridging networks to work cohesively.
+By understanding all three layers – Layer 0, Layer 1, and Layer 2 – we can appreciate the full spectrum of blockchain architecture, which collectively drives forward the vision of a decentralized and interconnected digital economy. Each layer has a critical role, whether it's establishing a solid foundation with the Polkadot's Layer 0 PVM, enhancing performance with JAM services, or bridging networks to work cohesively with Polkadot's Hyperbridge.
 
 ---
 #blockchain 
