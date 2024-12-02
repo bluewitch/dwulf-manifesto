@@ -69,7 +69,7 @@ minor_arcana = {
 }
 
 
-
+# Cards and their meaning
 major_arcana = {
     "The Fool": "Launching a new software without testing",
     "The Magician": "Master programmer with high versatility in coding languages",
