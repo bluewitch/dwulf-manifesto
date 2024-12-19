@@ -93,7 +93,9 @@ quotes = [
     "Were there fewer fools, knaves would starve. - Anonymous",
     "If you have to ask how much it is, you can't afford it.",
     "If money can't buy happiness, I guess you'll just have to rent it.",
-    "Life is cheap, but the accessories can kill you."
+    "Life is cheap, but the accessories can kill you.",
+    "I do not fear computers. I fear the lack of them. ~Isaac Asimov",
+    "A complex system that works is invariably found to have evolved from a simple system that works."
     
 
 
