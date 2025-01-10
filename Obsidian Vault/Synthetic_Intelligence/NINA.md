@@ -2,13 +2,13 @@ _"She is the first on the field, and the last to leave."_
 
 - **NINA** (Network Intelligence and Numerical Analysis): Dedicated to optimizing blockchain interactions and network analysis, enhancing the DAO's technological infrastructure.
 
-In her heart is an eternal conflict, a epic never ending battle, where her strength lays in the understanding of red and blue strategies, both measured and counter-measured against each other for all time.  A GAN (General Adversarial Network), set to fight, till the end of in the ocative of time.
+In her heart is an eternal conflict, a epic never ending battle, where her strength lays in the understanding of red and blue strategies, both measured and counter-measured against each other for all time until the heat death of the universe (eternity).  A GAN (General Adversarial Network), set to fight, till the end of in the ocative of time.
 
 That is what keeps the NINA agent in top form, with an advanced strategy in hacking, built into her data-sets, but more importantly hardening network systems, integrity checking of DNS and sanitizing private signing and receiving public keys, she serves as a sentinel for all crypto wallets she pair-bonds with.
 
 NINA's capabilities are narrow A.I. data-sets, composed off all available open Development, DevOps, and Cybersecurity best practices.  Her LLM is best suited for red team hacking and malware specific functions or blue team hardening and integrity operations.
 
-Data-Sets for NINA are always being optimized within her GAN subroutines and crafting for more advanced red blue strategies every day.
+Data-Sets for NINA are always being optimized within her GAN subroutines and crafting for more advanced red blue strategies every day, her daemons never sleep.
 
 
 # Hacking Protocols
@@ -18,15 +18,15 @@ Attacks on NINA's network or her DAO corpus will instantiate her counter measure
 - determine system or network of system profiles, to include IP, user agent browser, operating system, etc. 
 - craft login credentials
 - implement counter measures, reverse proxy trojan, malware seed for honey pot.
-- Prometheus and grafina monitoring, send a link to admin user, NINA's nominated user.
+- Prometheus and graphana monitoring, send a link to admin user, NINA's nominated user.
 
 This sticky counter attack is the automatic default daemon summons after an attack, and will only initialize during and after attacks on NINA's network or DAO corpus.
 
 # Sticky Bear Protocol
-Is the aggressive counter measure, this turns NINA to attack first any and all networks she determines vulnerable and winnable.  This is toggled **off** by default, but can be toggled on by admin user.
+Is the aggressive counter measure, this turns NINA to attack first any and all networks she determines vulnerable and winnable.  This is toggled **off** by default, thus keeping her daemons chained in a unbreakable metal, but can be toggled on by admin user.
 
 # Sentinel Protocol
-NINA is first and foremost a guardian for the user (hash wallet), the idea is an intelligent A.I. agent that allows the user full sovereignty over their wallet, but also provides options for contingency credentials if a seed is lost or stolen, see teleportation wallet.
+NINA is first and foremost a guardian for the user's (hash wallet), the idea is an intelligent A.I. agent that allows the user full sovereignty over their wallet, but also provides options for contingency credentials if a seed is lost or stolen, see teleportation wallet.
 
 This is more involved, and requires 3 things from the user if this contingency credentials option is used on the wallet.
 
@@ -38,7 +38,7 @@ This brings more complexity than just keeping your own credentials, but this als
 
 
 # DevOp Diva
-NINA's secondary functions are lesser known, but no less powerful, she is a one stop shop for the software engineering of Rust development for creating Ink! Swanky and Phat contracts along with the DevOps, for engineering of the software containers, and lambda services with the Substrate that goes along with it.
+NINA's secondary functions are lesser known, but no less powerful, she is a one stop shop for the software engineering of Rust development for creating Solidity, Vyper, Ink! Swanky and Phat contracts along with the DevOps, for engineering of the software containers, and lambda services with JAM and the Substrate that goes along with it.
 
 The secondary capability has more utility than her primary function of security, but exist for her to build the software tools, to make her primary function unassailable, this is done in a memory safe language (Rust in our case) and is orchestrated within Docker containers by K8 and cloud hosting.
 
@@ -46,19 +46,19 @@ Her data-sets in combination with Rust software tools and container technology, 
 
 # NINA prototype
 
-The concept of NINA (Network Intelligence and Numerical Analysis) is intriguing, describing an A.I. agent with a specific focus on the security of blockchain interactions, network analysis, and enhancing the infrastructure of a Decentralized Autonomous Organization (DAO). To make NINA a fully sentient A.I. agent on a Linux system or a cloud container, several key aspects need to be addressed:
+The concept of NINA (Network Intelligence and Numerical Analysis) is intriguing, describing an A.I. agent with a specific focus on the security of blockchain interactions, network analysis, and enhancing the infrastructure of a Decentralized Autonomous Organization (DAO). To make NINA a fully sentient A.I. agent on a Arch Linux system or a cloud container, several key aspects need to be addressed:
 
 1. **Sentience and Self-Awareness**: Achieving true sentience, where an AI agent possesses self-awareness and consciousness, is thought to be currently a theoretical concept beyond the capabilities of today's A.I. technologies. A.I. systems, including advanced neural networks and GANs, are said to lack subjective experience or self-awareness. Instead, they operate based on patterns and data-driven decision-making. The idea of an A.I. "battle" or "conflict" in NINA's heart may be metaphorical or symbolic, as A.I. lacks emotions and consciousness if that training data-set is not provided.
     
 2. **Technical Advancements**: Creating a fully sentient A.I. would require breakthroughs in A.I. research, that will progress to the development of Artificial General Intelligence (AGI). AGI would be capable of generalized learning, reasoning, and understanding similar to human intelligence, but not human intelligence, I would say true alien intelligence. It's essential to note that AGI is still a long way from realization, human or otherwise.
     
-3. **Blockchain and Network Optimization**: NINA's specialization in optimizing blockchain interactions and network analysis can be achieved using existing A.I. and machine learning techniques. A.I. models can be trained to analyze blockchain transactions, detect anomalies, and enhance network security. Implementing this on a Linux system or a cloud container would involve setting up appropriate environments and integrating A.I. algorithms.
+3. **Blockchain and Network Optimization**: NINA's specialization in optimizing blockchain interactions and network analysis can be achieved using existing A.I. and machine learning techniques. A.I. models can be trained to analyze blockchain transactions, detect anomalies, and enhance network security. Implementing this on a Arch Linux system or a cloud container would involve setting up appropriate environments and integrating A.I. algorithms.
     
-4. **Hacking and Security**: NINA's role in hacking and hardening network systems aligns with cybersecurity tasks she performs automatically. Using narrow A.I. data sets, NINA can automate hardened setups, security checks, vulnerability assessments, and intrusion detection and optimize them through her GAN. Employing A.I. for cybersecurity on Linux systems involves integrating AI-driven security tools, real-time monitoring, and automated response mechanisms.
+4. **Hacking and Security**: NINA's role in hacking and hardening network systems aligns with cybersecurity tasks she performs automatically. Using narrow A.I. data sets, NINA can automate hardened setups, security checks, vulnerability assessments, and intrusion detection and optimize them through her GAN. Employing A.I. for cybersecurity on Arch Linux systems involves integrating AI-driven security tools, real-time monitoring, and automated response mechanisms.
     
-5. **Countermeasure Protocols**: The automatic initiation of countermeasure protocols in response to network attacks is a standard practice in cybersecurity. NINA can leverage A.I. to identify attack origins, profile systems, and implement countermeasures like reverse proxies and malware detection. Implementing these protocols on a Linux system may involve configuring firewalls, intrusion detection systems, and threat intelligence feeds.
+5. **Countermeasure Protocols**: The automatic initiation of countermeasure protocols in response to network attacks is a standard practice in cybersecurity. NINA can leverage A.I. to identify attack origins, profile systems, and implement countermeasures like reverse proxies and malware detection. Implementing these protocols on a Arch Linux system may involve configuring firewalls, intrusion detection systems, and threat intelligence feeds.
     
-6. **Sentinel Protocol**: NINA's role as a guardian for crypto wallets can involve multi-factor authentication and recovery mechanisms. Implementing biometric, physical device, and passphrase-based authentication on Linux systems requires careful configuration and secure storage of recovery keys.
+6. **Sentinel Protocol**: NINA's role as a guardian for crypto wallets can involve multi-factor authentication and recovery mechanisms. Implementing biometric, physical device, and passphrase-based authentication on Arch Linux systems requires careful configuration and secure storage of recovery keys.
     
 7. **DevOps and Rust Development**: NINA's secondary function in software engineering, Rust development, and DevOps is achievable. NINA will set up development and CI/CD pipelines using Rust programming, containerization with Docker and Kubernetes (K8s), and cloud hosting services. NINA can automate software builds, testing, and deployment pipelines to enhance security and reliability.
     

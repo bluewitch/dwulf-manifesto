@@ -909,16 +909,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab.md",
+                "file": "Hacking/Arch Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Lab"
+              "title": "Arch Linux"
+            }
+          },
+          {
+            "id": "ce4e73b95b7cd37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Arch Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux"
             }
           }
         ],
-        "currentTab": 65
+        "currentTab": 66
       }
     ],
     "direction": "vertical"
@@ -1060,21 +1074,33 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c06058d31e246b31",
+  "active": "a69af9874c4303c0",
   "lastOpenFiles": [
+    "Media_Images/lilith_i7.jpeg",
+    "Media_Images/mem_bday_roy.jpg",
+    "().md",
+    "Hacking/Arch Linux.md",
+    "Engineering_Software/Kubernetes.md",
+    "Engineering_Software/IAC.md",
+    "Engineering_Software/Grafana.md",
+    "Engineering_Software/Google Cloud.md",
+    "Engineering_Software/Git Repositories.md",
+    "Engineering_Software/Docker containers.md",
+    "Synthetic_Intelligence/NINA.md",
+    "Synthetic_Intelligence/MLOPS.md",
+    "Synthetic_Intelligence/A.I. Agents.md",
+    "Media/Metal Songs.md",
+    "Media_Images/ai_logic.jpg",
+    "Home Lab.md",
     "Media_Images/mem_1984.jpg",
     "Media_Images/ai_doug.jpeg",
     "HHG Chromatic.md",
-    "Home Lab.md",
     "Media_Images/newyear_2025.jpg",
     "Media_Images/fembot_tap.jpeg",
     "Media_Images/newyear_2017.jpg",
     "Media_Images/dws_hacker_newyear.jpeg",
     "Media_Images/mem_z_file.jpeg",
     "Media_Images/brady-nose.gif",
-    "Media_Images/tz_nightmare_at_20000_feet.jpeg",
-    "Media_Images/dwn_chains_broken.jpeg",
-    "Media_Images/dnd_players_handbook_v1.jpg",
     "Wish List.md",
     "NFC.md",
     "PARA.md",
@@ -1086,18 +1112,6 @@
     "My Tribe.md",
     "Mom.md",
     "MetalGods.md",
-    "MemX.md",
-    "Blockchain/Crypto Swap.md",
-    "X Algo.md",
-    "Blockchain/Hyperbridge.md",
-    "DAO/JAM SDK.md",
-    "DAO/GreenWitchDAO-Bitness.md",
-    "DAO/Decentralized EXchanges (DEX).md",
-    "DAO/DAO Profiles.md",
-    "DAO/DAO.md",
-    "DAO/GreenWitchDAO.md",
-    "Docs.md",
-    "Blockchain/Blockchain (Layers).md",
     "PDF(Portable Document Format)/the-theory-of-the-dom-090322120106-phpapp02.pdf",
     "PDF(Portable Document Format)/Eloquent_JavaScript.pdf",
     "PDF(Portable Document Format)/rust_cheat_sheet.pdf",

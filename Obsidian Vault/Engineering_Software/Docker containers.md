@@ -1,6 +1,6 @@
 **Docker Containers in DevOps: A Guide for Professional Rust Engineers**
 
-As a professional Rust engineer deeply involved in DevOps practices, understanding Docker containers is essential for streamlining your development workflow, ensuring consistent deployments, and maximizing code portability. Let's delve into what Docker containers are, how they are used, and their integration within a DevOps cycle from your perspective.
+As a professional engineer deeply involved in DevOps practices, understanding Docker containers is essential for streamlining your development workflow, ensuring consistent deployments, and maximizing code portability. Let's delve into what Docker containers are, how they are used, and their integration within a DevOps cycle from your perspective.
 
 **What Are Docker Containers?**
 
