@@ -923,12 +923,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Arch Linux.md",
+                "file": "Synthetic_Intelligence/DAO and A.I..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Linux"
+              "title": "DAO and A.I."
             }
           }
         ],
@@ -1074,12 +1074,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a69af9874c4303c0",
+  "active": "ce4e73b95b7cd37f",
   "lastOpenFiles": [
+    "Synthetic_Intelligence/Sentient A.I..md",
+    "Synthetic_Intelligence/A.I. Agents.md",
+    "Synthetic_Intelligence/SARA.md",
+    "Media_Images/cosmos_proxima_centauri_trip.jpg",
+    "Media_Images/code_bash_brackets.jpeg",
+    "Media_Images/mem_bad_news_tech.jpg",
+    "Media_Images/cosmos_2025events.jpg",
+    "Media_Images/meditations_happy.jpg",
+    "Synthetic_Intelligence/BIANA.md",
+    "Synthetic_Intelligence/Artificial Intelligence.md",
+    "Synthetic_Intelligence/A.I. Avatars.md",
+    "Hacking/Arch Linux.md",
+    "Media_Images/code_C_FFI.jpeg",
     "Media_Images/lilith_i7.jpeg",
     "Media_Images/mem_bday_roy.jpg",
     "().md",
-    "Hacking/Arch Linux.md",
     "Engineering_Software/Kubernetes.md",
     "Engineering_Software/IAC.md",
     "Engineering_Software/Grafana.md",
@@ -1088,19 +1100,11 @@
     "Engineering_Software/Docker containers.md",
     "Synthetic_Intelligence/NINA.md",
     "Synthetic_Intelligence/MLOPS.md",
-    "Synthetic_Intelligence/A.I. Agents.md",
     "Media/Metal Songs.md",
     "Media_Images/ai_logic.jpg",
     "Home Lab.md",
     "Media_Images/mem_1984.jpg",
-    "Media_Images/ai_doug.jpeg",
     "HHG Chromatic.md",
-    "Media_Images/newyear_2025.jpg",
-    "Media_Images/fembot_tap.jpeg",
-    "Media_Images/newyear_2017.jpg",
-    "Media_Images/dws_hacker_newyear.jpeg",
-    "Media_Images/mem_z_file.jpeg",
-    "Media_Images/brady-nose.gif",
     "Wish List.md",
     "NFC.md",
     "PARA.md",
@@ -1108,10 +1112,6 @@
     "Blockchain/Asset Transfer.md",
     "Tanssi Grant.md",
     "Quotes.md",
-    "Profile.md",
-    "My Tribe.md",
-    "Mom.md",
-    "MetalGods.md",
     "PDF(Portable Document Format)/the-theory-of-the-dom-090322120106-phpapp02.pdf",
     "PDF(Portable Document Format)/Eloquent_JavaScript.pdf",
     "PDF(Portable Document Format)/rust_cheat_sheet.pdf",
