@@ -24,4 +24,4 @@ Always accepted and honored. There can be no greater gift than one from the hear
 
 # 12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs
 
-<img align="left" src="images/12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs.jpg"  alt="12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs">
+<img align="left" src="images/12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs.png"  alt="12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs">
