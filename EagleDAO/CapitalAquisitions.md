@@ -30,4 +30,6 @@ $DOT and $BTC donations are always accepted and honored. There can be no greater
 
 
 ***for $BTC***
+# bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3
+
 <img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png" width=333px alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
