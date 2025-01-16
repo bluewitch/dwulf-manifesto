@@ -1,5 +1,5 @@
 # Capital Acquisitions
-<img align="left" src="images/dwn_Warchest.jpg" width=333px  alt="war chest">
+<img align="left" src="images/dwn_Warchest.jpg" alt="war chest">
 <br><br><br><br><br><br><br><br><br><br><br>
 
 Revenue generation for the Eagle DAO that is over and above what FARA yields internally, Capital Acquisitions is outside capital for the Eagle DAO treasury.  The Capital Aquired is held in a liquidity wallet and set to provide resources for Polkadot and Polkadot JAM projects (i.e., infra, dapps, NFC, payment channels, fiat gateways and credit debit cards).
