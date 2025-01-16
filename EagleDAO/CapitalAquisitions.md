@@ -20,8 +20,12 @@ Primarily sourced from Parity funding, but may also include grants from other ch
 
 ## Donations
 
-Always accepted and honored. There can be no greater gift than one from the heart.  Help the Eagle spread its wings.
+$DOT and $BTC donations are always accepted and honored. There can be no greater gift than one from the heart.  Help the Eagle spread its wings.
 
+***for $DOT***
 # 12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs
 
 <img align="left" src="images/12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs.png"  alt="12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs">
+
+***for $BTC***
+<img align="left" src="images/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png"  alt="bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3">
