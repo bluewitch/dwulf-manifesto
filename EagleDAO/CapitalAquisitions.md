@@ -1,5 +1,5 @@
 # Capital Acquisitions
-!(images/dwn_Warchest.jpg)
+<img align="left" src="/images/dwn_Warchest.jpg" width=333px  alt="war chest">
 Revenue generation for the DAO that is over and above what FARA yields, outside capital for Polkadot and Polkadot JAM projects (i.e., infra, dapps, NFC, payment channels, fiat gateways and credit debit cards)
 
 ## Polkadot Referendums
