@@ -9,7 +9,7 @@ This can pertain to either Kusama or Polkadot. Referendums are community appeals
 
 ### Referendums
 - Planet Caravan, build out network, establish DevRel with automotive
-- The Eagle JAM, discussion period, re caliborating.
+- [The Eagle JAM, discussion period, re caliborating.](https://docs.google.com/document/d/1iPqGpBnLxDALoVvdH5EU_BcW7UsIQZJT5pWijIBXBK4/edit?tab=t.0#heading=h.9fgrg85l3npp)
 - NFC engineering for tap to pay function for Polkadot App
 
 ## Web3 Grants
