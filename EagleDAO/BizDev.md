@@ -1,4 +1,6 @@
 # BizDev, Business Development
+![](images/dwn_merchant.jpg)
+
 This is the pure acquisition of business and enterprise clients. We are always looking for sales and contacts to conventional businesses that wish to adopt some mechanism of their business model to Polkadot.
 
 # A.I. Agent BIANA
