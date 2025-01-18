@@ -3,6 +3,18 @@ Building the foundation for developers on Polkadot. This dives into some very te
 
 The idea is to build your OS as your agent, a hardened system (preferably Linux-based), that has everything set up for Polkadot JAM development. We can package this in a Docker container, which would be the first option if the business client is already tech-savvy and has their own cloud. I will outline my bare-metal plan to demonstrate that this can be built more efficiently with your own device, thus reducing cloud costs. Ultimately, we are targeting the replication of Polkadot JAM servers (and services) for the Eagle DAO.
 
+The TL;DR layout is:
+- Browser: @brave
+- Email: @ProtonMail
+- Email Alias: @SimpleLogin
+- Search Engine: @brave
+- Messenger: @signalapp
+- Authenticator: @enteio auth
+- Notes: @notesnook
+- VPN: @mullvadnet
+- AI: @brave Leo, @AskVenice, @ollama
+ 
+
 # Trial By Steel
 
 - ***Legion Lenovo (Hekate)***
