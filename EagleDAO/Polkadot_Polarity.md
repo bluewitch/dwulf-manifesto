@@ -1,4 +1,5 @@
 # Polkadot Polarity
+![](images/DAO_Polkadot.jpeg)
 In order to become proficient with crypto and the blockchain ecosystems, on must start with a foundation
 
 ***Gold/Yellow (Wallet - Foundation):***
