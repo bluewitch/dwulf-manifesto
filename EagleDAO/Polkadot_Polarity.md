@@ -75,3 +75,62 @@ In order to become proficient with crypto and the blockchain ecosystems, on must
 
 
 This categorization helps in understanding the scope of activities within the Polkadot ecosystem, from basic wallet operations to advanced governance and engineering tasks.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polkadot Task Categories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+        }
+        .image-container {
+            margin-bottom: 20px;
+        }
+        .category {
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        .category span {
+            display: inline-block;
+            padding: 5px 10px;
+            margin-right: 5px;
+            border-radius: 5px;
+        }
+        .gold { background-color: gold; }
+        .blue { background-color: #87CEEB; }
+        .pink { background-color: pink; }
+        .grey { background-color: grey; }
+        .orange { background-color: orange; }
+        .purple { background-color: #DDA0DD; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image-container">
+            <img src="polkadot-tasks.jpg" alt="Polkadot Tasks Categorization" style="max-width: 100%; height: auto;">
+        </div>
+        <div class="categories">
+            <div class="category">Wallet (Foundation) <span class="gold">Gold/Yellow</span></div>
+            <div class="category">Code and Engineering <span class="blue">Blue</span></div>
+            <div class="category">Administration of Assets <span class="pink">Pink</span></div>
+            <div class="category">Governance <span class="grey">Grey</span></div>
+            <div class="category">Wallet Advanced Options <span class="orange">Orange</span></div>
+            <div class="category">General Interaction and Community <span class="purple">Purple</span></div>
+        </div>
+    </div>
+</body>
+</html>
+```
