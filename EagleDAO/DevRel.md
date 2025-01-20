@@ -22,7 +22,8 @@ The TL;DR layout is:
 - Notes: @notesnook
 - VPN: @mullvadnet
 - AI: @brave Leo, @AskVenice, @ollama
- 
+
+ ---
 
 # Trial By Steel
 
@@ -41,7 +42,7 @@ The TL;DR layout is:
 - Browser (Firefox)
 - Gnome Desktop
 
-# Building Bash Scripts
+# Building Bash Scripts (resources)
 ```bash
 #!/bin/bash
 # Basic setup script for Lilith
