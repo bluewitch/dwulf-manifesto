@@ -221,3 +221,133 @@ echo "- Jenkins and other services might require additional setup."
 echo "- Ensure Docker is running for Docker-related tools."
 echo "- Review the documentation for each tool for further configuration."
 ```
+
+# PVM_setup.sh
+```bash
+#!/bin/bash
+
+# Function to check if a command exists
+command_exists() {
+    command -v "$1" >/dev/null 2>&1
+}
+
+# Update system packages
+sudo pacman -Syu --noconfirm
+
+# Install Rust if not installed
+if ! command_exists rustc; then
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+    source $HOME/.cargo/env
+fi
+
+# Update Rust and add Wasm target if not present
+rustup update nightly
+if ! rustup target list | grep -q "wasm32-unknown-unknown (installed)"; then
+    rustup target add wasm32-unknown-unknown --toolchain nightly
+fi
+
+# Install necessary development packages if not installed
+packages=("git" "make" "gcc" "clang" "llvm" "protobuf")
+for package in "${packages[@]}"; do
+    if ! pacman -Q $package >/dev/null 2>&1; then
+        sudo pacman -S --noconfirm $package
+    fi
+done
+
+# Install cargo-contract if not installed
+if ! command_exists cargo-contract; then
+    cargo install --force --locked cargo-contract
+fi
+
+# Clone Substrate Node Template if not present
+if [ ! -d "substrate-node-template" ]; then
+    git clone https://github.com/substrate-developer-hub/substrate-node-template.git
+    cd substrate-node-template
+    if ! cargo build --release >/dev/null 2>&1; then
+        cargo build --release
+    fi
+    cd ..
+fi
+
+# Install Node.js and npm if not installed
+if ! command_exists node; then
+    curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+    sudo pacman -S --noconfirm nodejs npm
+    npm install -g @polkadot/api-cli
+fi
+
+# Ensure Rust environment variables are set
+echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+echo "PVM development tools setup complete or confirmed existing."
+```
+
+# EVM_setup.sh
+```bash
+#!/bin/bash
+
+# Function to check if a command exists
+command_exists() {
+    command -v "$1" >/dev/null 2>&1
+}
+
+# Update system packages
+sudo pacman -Syu --noconfirm
+
+# Install Node.js and npm if not installed
+if ! command_exists node; then
+    curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+    sudo pacman -S --noconfirm nodejs npm
+fi
+
+# Install Solidity compiler if not installed
+if ! command_exists solc; then
+    sudo npm install -g solc
+fi
+
+# Install Hardhat if not installed
+if ! command_exists npx && ! npx hardhat --version >/dev/null 2>&1; then
+    npm install --global hardhat
+fi
+
+# Install Foundry if not installed
+if ! command_exists forge; then
+    curl -L https://foundry.paradigm.xyz | bash
+    foundryup
+fi
+
+# Install necessary development packages if not installed
+packages=("git" "make" "gcc")
+for package in "${packages[@]}"; do
+    if ! pacman -Q $package >/dev/null 2>&1; then
+        sudo pacman -S --noconfirm $package
+    fi
+done
+
+# Install Remix-IDE CLI if not installed
+if ! command_exists remixd; then
+    npm install -g @remix-project/remixd
+fi
+
+# Install Truffle if not installed
+if ! command_exists truffle; then
+    npm install -g truffle
+fi
+
+# Install web3.js and ethers.js if not installed
+if ! npm list -g web3 | grep -q "web3@"; then
+    npm install -g web3
+fi
+if ! npm list -g ethers | grep -q "ethers@"; then
+    npm install -g ethers
+fi
+
+# Ensure Node.js and npm environment variables are set
+echo 'export PATH="$PATH:/usr/local/lib/node_modules"' >> ~/.bashrc
+
+# Source .bashrc to set new environment variables
+source ~/.bashrc
+
+echo "EVM development tools setup complete or confirmed existing."
+```
