@@ -951,12 +951,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Blockchain/Development for EVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Development for EVM"
             }
           }
         ],
@@ -1104,9 +1104,17 @@
   },
   "active": "ff1e495b64ed7c6f",
   "lastOpenFiles": [
+    "DAO/Web3 Foundation.md",
+    "DAO/Untitled.md",
+    "DAO/Tanssi RAW.md",
+    "DAO/Tanssi.md",
+    "DAO/JAM Substrate Interplay.md",
+    "DAO/JAM SDK.md",
+    "DAO/POPcli.md",
+    "Tanssi Grant.md",
+    "test.md",
     "Media_Images/meditations_6_rules.jpg",
     "Daze of the Wolf.md",
-    "test.md",
     "Synthetic_Intelligence/DAO and A.I..md",
     "Media_Images/GM_snowy_river.jpg",
     "Synthetic_Intelligence/Sentient A.I..md",
@@ -1132,14 +1140,6 @@
     "Engineering_Software/Git Repositories.md",
     "Engineering_Software/Docker containers.md",
     "Synthetic_Intelligence/NINA.md",
-    "Synthetic_Intelligence/MLOPS.md",
-    "Media/Metal Songs.md",
-    "Media_Images/ai_logic.jpg",
-    "Home Lab.md",
-    "HHG Chromatic.md",
-    "Wish List.md",
-    "NFC.md",
-    "PARA.md",
     "PDF(Portable Document Format)/the-theory-of-the-dom-090322120106-phpapp02.pdf",
     "PDF(Portable Document Format)/Eloquent_JavaScript.pdf",
     "PDF(Portable Document Format)/rust_cheat_sheet.pdf",
