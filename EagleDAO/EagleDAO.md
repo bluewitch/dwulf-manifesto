@@ -16,3 +16,28 @@ Environmental Consciousness: In a time where sustainability matters, Polkadot st
 Launching on Inauguration Day: Launching on a day of national significance like the U.S. Presidential Inauguration symbolizes a new beginning, not just for the country but for the blockchain landscape. It's a strategic move to align Polkadot's mission with the spirit of renewal and progress, inviting the U.S. to lead in the next wave of digital transformation.
 
 In essence, Polkadot's arrival in the U.S. market is not just about launching a blockchain; it's about igniting a revolution in how we perceive and utilize blockchain technology. It's an invitation to developers, investors, and visionaries to join a movement that's set to redefine the digital economy, all while being part of a community that values decentralization, innovation, and sustainability.
+
+# Scope of Activities for the EagleDAO
+![](images/JAM_Scope.jpeg)
+
+
+- Eagle DAO's Strategic Vision: Enhancing Business Through Innovation and Technology
+- Campaign Trail: Eagle DAO is pioneering a transformative approach to market expansion with our "Eagle JAM" initiative, specifically targeting the U.S. market to elevate Polkadot's presence. This campaign is built on strategic partnerships and resource allocation, driven by our dedicated Business Development (BizDev) and Developer Relations (DevRel) teams, known as "the Treasury" and "the Troops."
+- Business Development and Developer Relations: Our BizDev team focuses on establishing robust connections with American businesses, Web3 startups, and tech institutions, aiming to position Polkadot as the premier choice for interoperable blockchain solutions. Concurrently, DevRel engages directly with the developer community, offering technical support and fostering innovation to enhance our ecosystem's capabilities.
+- JAM Toasters Management: At the core of our technological infrastructure are the "JAM Toasters," specialized hardware that functions as blockchain validators and collators. These machines are crucial for maintaining the integrity and efficiency of our network, ensuring that our operations in the U.S. not only meet but exceed expectations in terms of performance and reliability.
+- Running Validators and Collators: Eagle DAO is at the forefront of managing validation and collation processes, which are pivotal for the smooth operation of blockchain networks. By running these nodes, we contribute to the security, scalability, and decentralization of Polkadot, turning technical operations into opportunities for fostering community growth and technological advancement.
+- Core-Time Management: We strategically manage "core-time" for blockchain operations, optimizing resource allocation to ensure profitability and efficiency. This involves sophisticated scheduling and management practices that allow maximum utility and performance from our blockchain infrastructure.
+- Staking the DAO Treasury: Our approach to treasury management includes staking assets to generate yields, thereby increasing the financial sustainability of our operations. This strategy not only supports our BizDev and DevRel initiatives but also ensures that our community benefits from the returns, strengthening the overall economic model of the DAO.
+
+
+
+
+
+
+
+
+
+
+
+Eagle DAO is committed to building businesses better, not just through innovative technology but through a vision that integrates business acumen with technological prowess, ensuring that every step we take is towards a more interconnected, efficient, and prosperous blockchain ecosystem.
+
