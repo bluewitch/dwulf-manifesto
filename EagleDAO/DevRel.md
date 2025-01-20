@@ -31,6 +31,7 @@ The TL;DR layout is:
 - ***ASUSPRO B43S i7/4GIG RAM, 500GB HDD (Lilith)***
 - ***Avado***
 
+---
 
 # Lilith, Born of Metal
 - EndeavourOS (Arch Linux), built from scratch and hardened
@@ -41,6 +42,8 @@ The TL;DR layout is:
 - Browser (Brave)
 - Browser (Firefox)
 - Gnome Desktop
+
+---
 
 # Building Bash Scripts (resources)
 ```bash
