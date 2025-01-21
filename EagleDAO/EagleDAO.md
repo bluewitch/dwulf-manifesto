@@ -53,3 +53,39 @@ In essence, Polkadot's arrival in the U.S. market is not just about launching a 
 
 Eagle DAO is committed to building businesses better, not just through innovative technology but through a vision that integrates business acumen with technological prowess, ensuring that every step we take is towards a more interconnected, efficient, and prosperous blockchain ecosystem.
 
+
+---
+# Blockchain History
+
+
+1991
+
+A cryptographically secured chain of blocks is described for the first time in "How to Time-Stamp a Digital Document" by Stuart Haber and W Scott Stornetta.
+
+1998
+
+Computer scientist Nick Szabo works on ‘bit gold’, a decentralised digital currency.
+
+2000
+
+Stefan Konst publishes his theory of cryptographic secured chains, plus ideas for implementation.
+
+2008
+
+Developer(s) working under the pseudonym Satoshi Nakamoto release a white paper establishing the model for a blockchain.
+
+2009
+
+Nakamoto implements the first blockchain as the public ledger for transactions made using bitcoin.
+
+Solved Double Spend Issue in a decentralized way!
+
+2014
+
+The Ethereum blockchain system introduces computer programs into the blocks known as smart contracts.
+
+2021
+
+Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.
+
+
