@@ -358,3 +358,9 @@ source ~/.bashrc
 
 echo "EVM development tools setup complete or confirmed existing."
 ```
+
+---
+
+# Cold Wallets, off-line, air-gaped, enshrined in hardware
+- [Ledger](https://shop.ledger.com/)
+- 
