@@ -363,4 +363,7 @@ echo "EVM development tools setup complete or confirmed existing."
 
 # Cold Wallets, off-line, air-gaped, enshrined in hardware
 - [Ledger](https://shop.ledger.com/)
+- [Kampela Parity Hardware Signer](https://www.kampe.la/)
+- [Kampela, Github](https://github.com/Kalapaja)
+- [Nano Ledger X](https://shop.ledger.com/products/ledger-nano-x?srsltid=AfmBOor0C9ca_OqF-W54GW-njZP3SPdSlp98JLeaOxRNlxWvGstB7UqH)
 - 
