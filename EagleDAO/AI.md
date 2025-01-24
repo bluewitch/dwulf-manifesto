@@ -21,3 +21,4 @@ The Eagle DAO chain, is on Tanssi (Substrate), and we are working on decentraliz
 
 # A.I. URLs
 - [Machines of Loving Grace1](https://darioamodei.com/machines-of-loving-grace)
+- [Hugging Face](https://huggingface.co/)
