@@ -14,6 +14,7 @@ The idea is to build your OS as your agent, a hardened system (preferably Linux-
 
 The TL;DR layout is:
 - Browser: @brave
+- TOR Browser: [Arti](https://gitlab.torproject.org/tpo/core/arti)
 - Email: @ProtonMail
 - Email Alias: @SimpleLogin
 - Search Engine: @brave
