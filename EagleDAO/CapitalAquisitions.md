@@ -38,5 +38,3 @@ $DOT and $BTC donations are always accepted and honored. There can be no greater
 
 
 
-# Wallet Hygeine
-- [Revoke Cash resets spending cap](https://revoke.cash/)
