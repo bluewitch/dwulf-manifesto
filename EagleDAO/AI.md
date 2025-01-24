@@ -17,3 +17,7 @@ The Eagle DAO chain, is on Tanssi (Substrate), and we are working on decentraliz
 
 - A robust inter-agent communication protocol to allow seamless data exchange and collaboration among NINA, FARA, SARA, BIANA, and TESS can be done through extrinsics and XCM,XCMP.  When Polkadot JAM sevices comes online they will just be `services`.
 - A data-set implementation for a system where these A.I. agents (or any agent) can request and share insights, forming a collaborative network that enhances overall decision-making.  This will be put on the PVM.
+
+
+# A.I. URLs
+- [Machines of Loving Grace1](https://darioamodei.com/machines-of-loving-grace)
