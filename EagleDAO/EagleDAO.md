@@ -89,3 +89,8 @@ The Ethereum blockchain system introduces computer programs into the blocks know
 Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.
 
 
+# Tanssi Info URLs
+- [Managing Your Network's Sudo Account](https://docs.tanssi.network/builders/manage/developer-portal/sudo/?utm_source=chatgpt.com#changing-the-sudo-account)
+- 
+
+
