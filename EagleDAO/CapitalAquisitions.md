@@ -15,7 +15,8 @@ This can pertain to either Kusama or Polkadot. Referendums are community appeals
 ## Web3 Grants
 Primarily sourced from Parity funding, but may also include grants from other chains and sister chains.
 - [Tanssi Sister-Chain](https://www.tanssi.foundation/tanssi-grants-program)
-- [Open Source Grants, Mother-Ship](https://github.com/PolkadotOpenSourceGrants/apply?tab=readme-ov-file)
+- [Polkadot Open Source Grants Bounty](https://github.com/PolkadotOpenSourceGrants/apply?tab=readme-ov-file)
+- 
 
 
 ## Donations
