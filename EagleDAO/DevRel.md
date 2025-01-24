@@ -369,3 +369,7 @@ echo "EVM development tools setup complete or confirmed existing."
 
 # PAPI Console
 - [Dev PAPI, Polkadot API](https://dev.papi.how/explorer)
+
+# Chain and dApp Tools
+- [POPcli](https://onpop.io/)
+- [Create Polkadot dApp, github](https://github.com/paritytech/create-polkadot-dapp)
