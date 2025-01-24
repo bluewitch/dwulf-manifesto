@@ -369,9 +369,15 @@ echo "EVM development tools setup complete or confirmed existing."
 - [Nano Ledger X](https://shop.ledger.com/products/ledger-nano-x?srsltid=AfmBOor0C9ca_OqF-W54GW-njZP3SPdSlp98JLeaOxRNlxWvGstB7UqH)
 
 # Warm Wallets, on-line (browser, web, mobile)
-- [Polkadot.js](https://polkadot.js.org/) Web
-- [Metamask](https://metamask.io/) Browser
-- [Monero]()
+- [Polkadot.js, PVM](https://polkadot.js.org/) Web
+- [Metamask, EVM](https://metamask.io/) Browser
+- [Monero](https://www.getmonero.org/) Web
+- ---
+
+- [Talisman, PVM/EVM](https://talisman.xyz/) Browser (chrome/brave)
+- [Nova](https://novawallet.io/) Mobile
+- ---
+
 - 
 
 # Wallet Hygeine (to set spending caps on Metamask)
