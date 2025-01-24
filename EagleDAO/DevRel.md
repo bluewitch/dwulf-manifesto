@@ -374,3 +374,6 @@ echo "EVM development tools setup complete or confirmed existing."
 - [Polkadot SDK](https://github.com/paritytech/polkadot-sdk)
 - [POPcli](https://onpop.io/)
 - [Create Polkadot dApp, github](https://github.com/paritytech/create-polkadot-dapp)
+
+# Gavin Wood
+- [Gav of York](https://github.com/gavofyork)
