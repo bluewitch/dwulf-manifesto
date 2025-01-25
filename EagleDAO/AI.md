@@ -23,7 +23,7 @@ The Eagle DAO chain, is on Tanssi (Substrate), and we are working on decentraliz
 
 # A.I. Agent NINA
 
-## Security
+## Security (Alpha Protocol)
 
 The NINA A.I. Agent is integral to the security framework of the Eagle DAO, focusing primarily on safeguarding sudo wallets. NINA's capabilities include:
 
@@ -33,7 +33,7 @@ The NINA A.I. Agent is integral to the security framework of the Eagle DAO, focu
 
 - **Wallet Mnemonic Reconstruction**: In case of data loss or corruption, NINA can automatically reconstruct the mnemonic seed used to create wallets, providing a robust backup solution. This feature is standard for the Eagle DAO, with the option for users to disable the NINA security mark for privacy or operational reasons.
 
-## DevOps
+## DevOps (Beta Protocol)
 
 NINA extends its utility into DevOps by:
 
@@ -51,10 +51,11 @@ The experimental nature of NINA's hacking capabilities under the Omega protocol 
 
 ## Conclusion
 
-The NINA A.I. Agent represents a triple-threat in security, DevOps efficiency, and offensive cybersecurity capabilities. Its integration within the Eagle DAO ecosystem not only fortifies the security posture but also enhances operational productivity and introduces a novel approach to cybersecurity with its experimental hacking features. Users leveraging NINA must be well-versed in cybersecurity laws and ethics due to the potential aggressive nature of its hacking protocols.
+The NINA A.I. Agent represents a triple-threat in security, DevOps efficiency, and offensive cybersecurity capabilities. Its integration within the Eagle DAO ecosystem not only fortifies the security posture of the EagleDAO, but also enhances operational productivity and introduces a novel approach to cybersecurity with its experimental hacking features. Users leveraging NINA must be well-versed in cybersecurity laws and ethics due to the potential aggressive nature of its hacking protocols.
 
+---
 
-# this prompt kills it on deepseek r1
+# this prompt kills it on deepseek r1 and Grok
 
 ```
 <context>
@@ -81,12 +82,7 @@ a helpful, concise style.
 ```
 
 
-
-
-
-
-
-
+---
 
 
 
