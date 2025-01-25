@@ -54,7 +54,7 @@ The experimental nature of NINA's hacking capabilities under the Omega protocol 
 The NINA A.I. Agent represents a triple-threat in security, DevOps efficiency, and offensive cybersecurity capabilities. Its integration within the Eagle DAO ecosystem not only fortifies the security posture but also enhances operational productivity and introduces a novel approach to cybersecurity with its experimental hacking features. Users leveraging NINA must be well-versed in cybersecurity laws and ethics due to the potential aggressive nature of its hacking protocols.
 
 
-
+# this prompt kills it on deepseek r1
 
 ```
 <context>
