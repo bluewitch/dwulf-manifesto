@@ -1,13 +1,16 @@
 # BizDev, Business Development
 ![](images/dwn_merchant.jpg)
 
-This is the pure acquisition of business and enterprise clients. We are always looking for sales and contacts to conventional businesses that wish to adopt some mechanism of their business model to Polkadot.
+This is the pure acquisition of business and enterprise clients, investors and partners.   BizDev is the front end to businesses that want to adopt to Web3, in full capacity.   Focus on user firiendly tools, with a strong UI and UX.  BizDev is also where contracts are bound to service agreements and consulting guidence. Sales and contacts to conventional businesses that wish to adopt some mechanism of their business model to Polkadot.
 
 # A.I. Agent BIANA
-- media
-- legal
+- Media
+- Legal
+BIANA is the A.I. agent for the Eagle DAO, a stage director and contract queen rolled into 1.  BIANA is all about entertainment, ettiqute and (legal) protocol.
 
-I have been active in BizDev, however, I lean more towards DevRel. Despite this, here is our list of clients for our Eagle DAO consulting division:
+---
+# Eagle DAO Business Clients
+Here is our list of clients for our Eagle DAO consulting division:
 
 # Wheel House (Construction)
 Our case study for Wheel House is to deploy a chain that will manage payroll and escrow systems that are interlaced with a scheduling system. 
@@ -23,9 +26,9 @@ Daze of the Wolf is a media system for the production of social media. A chain w
 - **30-minute "radio show" drama**, sci-fi series episodic
 
 It is revenue-driven by:
-- Subscription
-- NFT sales/mining
-- Social monetization
+- Subscriptions
+- NFT sales/mining/minting
+- Social X monetization, 
 - Retail selling (coffee, mushrooms, t-shirts, mugs, gadgets, etc.)
 
 - [Daze of the Wolf](https://www.dazeofthewolf.com), (under construction)
