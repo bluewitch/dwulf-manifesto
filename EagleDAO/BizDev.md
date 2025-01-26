@@ -6,6 +6,7 @@ This is the pure acquisition of business and enterprise clients, investors and p
 # A.I. Agent BIANA
 - Media
 - Legal
+
 BIANA is the A.I. agent for the Eagle DAO, a stage director and contract queen rolled into 1.  BIANA is all about entertainment, ettiqute and (legal) protocol.
 
 ---
@@ -13,8 +14,11 @@ BIANA is the A.I. agent for the Eagle DAO, a stage director and contract queen r
 Here is our list of clients for our Eagle DAO consulting division:
 
 # Wheel House (Construction)
-Our case study for Wheel House is to deploy a chain that will manage payroll and escrow systems that are interlaced with a scheduling system. 
-A base multi-sig wallet will be the foundational wallet for the Wheel House DAO.
+Wheelhouse Construction is a construction firm in South Carolina, that is top notch and cutting edge, building houses that dreams are made of, beautiful and practical works of engineering art.
+
+Our proper Polkadot case study for Wheel House is to deploy a chain on Tanssi, with a coin/token component, that will manage payroll and distribute directly to the wallets of employees/contractotrs, also a escrow system that, locks funds and distributes payments as milestones are met and are interlaced with a scheduling system (clickup).
+
+A base multi-sig wallet will serve as the foundational wallet for the Wheel House DAO.
 
 - [Wheelhouse](https://www.wheelhousesc.com/), Construction
 
@@ -32,3 +36,5 @@ It is revenue-driven by:
 - Retail selling (coffee, mushrooms, t-shirts, mugs, gadgets, etc.)
 
 - [Daze of the Wolf](https://www.dazeofthewolf.com), (under construction)
+
+---
