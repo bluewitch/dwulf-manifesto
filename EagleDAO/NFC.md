@@ -60,6 +60,63 @@ To address the issue of relying on barcodes and manual gift card number/PIN entr
 ### **Conclusion**  
 Integrating NFC into the Polkadot App would resolve edge cases like non-functional scanners by enabling tap-and-go transactions. By combining tokenization, existing partnerships (Raise), and NFC SDKs (TapNFCCardReaderKit, Halo Dot), the app could automate payments while maintaining security through Polkadot’s self-custodial framework. This aligns with Polkadot’s goal of bridging crypto and mainstream commerce .
 
+---
+
+Here’s a **Mermaid.js flowchart** illustrating the NFC integration workflow for the Polkadot App on Android, based on the technical details discussed earlier:
+
+```mermaid
+graph TD
+    A[User Initiates NFC Payment] --> B[Generate Tokenized Gift Card]
+    B --> C[Write Encrypted Data to NFC Tag]
+    C --> D[User Taps Phone on NFC Terminal]
+    D --> E[Android NFC Adapter Reads Tag]
+    E --> F[Parse URI/NDEF Data]
+    F --> G{Token Valid?}
+    G -->|Yes| H[Send Token to Polkadot Backend]
+    G -->|No| I[Display Error: Invalid Token]
+    H --> J[Backend Validates Token on Blockchain]
+    J --> K[Process Transaction: Burn $DOT/USDT]
+    K --> L[Send Confirmation to Merchant POS]
+    L --> M[Display Success: Payment Completed]
+    
+    subgraph Security Layer
+        C -.-> N[AES-256 Encryption]
+        J -.-> O[Self-Custodial Wallet Validation]
+    end
+
+    subgraph Key Technologies
+        E --> P[Android NFC SDK]
+        F --> Q[TapNFCCardReaderKit]
+        H --> R[Raise API Integration]
+    end
+
+    style A fill:#4CAF50,color:white
+    style M fill:#4CAF50,color:white
+    style I fill:#FF5722,color:white
+    style N,O fill:#2196F3,color:white
+```
+
+### **Graph Explanation**
+1. **User Flow** (Green Nodes):  
+   - Starts with the user initiating payment and ends with transaction success/failure.  
+   - Includes NFC tag interaction and error handling for invalid tokens.  
+
+2. **Technical Components** (Blue Subgraphs):  
+   - **Security Layer**: Highlights encryption and blockchain validation.  
+   - **Key Technologies**: Maps critical SDKs/APIs (Android NFC, TapNFCCardReaderKit, Raise).  
+
+3. **Workflow Logic**:  
+   - Tokenized gift cards are generated dynamically and encrypted.  
+   - The app reads NFC tags, validates tokens on-chain, and settles payments automatically.  
+
+### **Android-Specific Details**  
+- **NFC Adapter**: Uses `NfcAdapter` and `PendingIntent` for foreground scanning.  
+- **Token Parsing**: Leverages `android.nfc.tech.Ndef` to extract URI/NDEF data.  
+- **Error Handling**: Invalid tokens trigger warnings without exposing blockchain details.  
+
+This workflow aligns with Polkadot’s goal of frictionless crypto payments while addressing edge cases like broken scanners at retailers (e.g., Taco Bell).
+
+---
 
 
 # Overcoming NFC-Polkadot Integration Hurdles for Retail POS Systems: Technical Solutions and Code Examples  
