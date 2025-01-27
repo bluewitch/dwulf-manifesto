@@ -13,14 +13,14 @@ This can pertain to either Kusama or Polkadot. Referendums are community appeals
 - NFC engineering for tap to pay function for Polkadot App
 
 ## Web3 Grants
-Primarily sourced from Parity funding, but may also include grants from other chains and sister chains.
+Primarily sourced from Parity funding, but may also include grants from other chains and sister chains.  Tanssi infra is favored for business chains,
+Polkadot open-sourced granst will favor out NFC system for Polkadot App.
 - [Tanssi Sister-Chain](https://www.tanssi.foundation/tanssi-grants-program)
 - [Polkadot Open Source Grants Bounty](https://github.com/PolkadotOpenSourceGrants/apply?tab=readme-ov-file)
 - 
 
 
 ## Donations
-
 $DOT and $BTC donations are always accepted and honored. There can be no greater gift than one from the heart.  Help the Eagle spread its wings.
 
 ***for $DOT***
