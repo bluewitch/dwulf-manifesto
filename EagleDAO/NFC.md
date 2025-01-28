@@ -539,3 +539,7 @@ Challenges and Considerations:
   
 
 This roadmap should help your team setup, develop, and deploy an NFC payment solution integrated with Polkadot, keeping in mind the complexities of both technologies. Remember, each component might require significant development and testing to ensure robustness and security.
+
+
+# URL links
+- [iPhone NFC](https://developer.apple.com/design/human-interface-guidelines/nfc)
