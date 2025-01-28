@@ -17,7 +17,7 @@ Primarily sourced from Parity funding, but may also include grants from other ch
 Polkadot open-sourced granst will favor out NFC system for Polkadot App.
 - [Tanssi Sister-Chain](https://www.tanssi.foundation/tanssi-grants-program)
 - [Polkadot Open Source Grants Bounty](https://github.com/PolkadotOpenSourceGrants/apply?tab=readme-ov-file)
-- 
+- [Technical Support Bounty](https://woolen-homburg-a80.notion.site/Technical-Support-Bounty-Guide-d8b8940275e5425194b00c1739ac88a2)
 
 
 ## Donations
