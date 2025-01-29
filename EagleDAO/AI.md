@@ -55,6 +55,37 @@ The NINA A.I. Agent represents a triple-threat in security, DevOps efficiency, a
 
 ---
 
+# Ollama and Deepseek
+
+### **1. Web Interface (e.g., Using Flask)**
+You can create a simple web interface using Python and Flask to make interacting with me more 
+user-friendly.
+
+**Steps:**
+1. Install Flask:
+   ```bash
+   pip install flask
+   ```
+
+2. Create a basic Flask application that serves "Hello, DeepSeek!" when accessed through your browser:
+   ```python
+   from flask import Flask
+
+   app = Flask(__name__)
+
+  @app.route('/')
+  def home():
+       return "Hello, DeepSeek! 🤖"
+   ```
+
+3. Save this code in a file (e.g., `index.py`) and run it using the command line:
+   ```bash
+   python index.py
+   ```
+
+4. Open your web browser to `http://localhost:5000` to see "Hello, DeepSeek!" displayed.
+
+
 # this prompt kills it on deepseek r1 and Grok
 
 ```
