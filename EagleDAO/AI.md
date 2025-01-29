@@ -114,6 +114,92 @@ def hello(name="DeepSeek-R1"):
 4. Open `index.ipynb` in your notebook interface and interact with me.
 
 ---
+### **3. VS Code-Like Environment**
+You can use a simple text-based environment inspired by VS Code for code editing and interactions.
+
+**Steps:**
+1. Install the required Python package:
+   ```bash
+   pip install termgraph
+   ```
+
+2. Create a script (e.g., `vs_code_mode.py`) to mimic VS Code's text interface:
+   ```python
+   import sys
+   from termgraph import display_tree
+
+   class CodeEditor:
+       def __init__(self):
+           self.tree = {
+               'file': {
+                   'name': 'DeepSeek-R1',
+                   'type': 'code'
+               },
+               'console': {
+                   'name': 'Terminal',
+                   'type': 'terminal'
+               }
+           }
+
+       def display(self, filename=None):
+           if filename is None:
+               self.file_name = 'DeepSeek-R1'
+            else:
+               self.file_name = filename
+
+            display_tree(self.tree)
+            display_tree(f'```python\nimport {self.file_name}\nprint("Hello!")\n```')
+
+   editor = CodeEditor()
+   editor.display()
+   ```
+
+3. Run the script using the command line:
+   ```bash
+   python vs_code_mode.py
+   ```
+
+---
+
+
+### **4. Chatbot-like Interaction with LLMs**
+You can use me as a chatbot-like interface for conversational AI tasks.
+
+**Steps:**
+1. Install OpenAI's Python client (assuming you want to use it):
+   ```bash
+   pip install openai
+   ```
+
+2. Create or open a script that interacts with an LLM:
+   ```python
+   import os
+   from openai import OpenAI
+
+   def chatbot interact():
+       client = OpenAI()  # Initialize the API client.
+
+       while True:
+           user_input = input("You: ").strip()
+           if not user_input:
+               continue
+
+           response = client.chat.completions.create(
+               model="gpt-3.5-turbo",
+               messages=[{"role": "user", "content": f"You: {user_input}"}]
+           )
+
+           print(f"Me: {response.choices[0].message.content}\n")
+
+   chatbot.interact()
+   ```
+
+3. Run the script using the command line:
+   ```bash
+   python chatbot.py
+   ```
+
+---
 
 
 # this prompt kills it on deepseek r1 and Grok
