@@ -85,6 +85,36 @@ user-friendly.
 
 4. Open your web browser to `http://localhost:5000` to see "Hello, DeepSeek!" displayed.
 
+---
+
+### **2. Jupyter Notebook Integration**
+You can use me within a Jupyter Notebook environment for computational tasks.
+
+**Steps:**
+1. Install the required package:
+   ```bash
+   pip install ipywidgets
+   ```
+
+2. Create or open a Jupyter notebook and add these cells:
+
+```python
+import ipywidgets as widgets
+
+@widgets.interact
+def hello(name="DeepSeek-R1"):
+    return f"Hello, {name}!"
+```
+
+3. Run the notebook in your terminal:
+   ```bash
+   jupyter notebook
+   ```
+
+4. Open `index.ipynb` in your notebook interface and interact with me.
+
+---
+
 
 # this prompt kills it on deepseek r1 and Grok
 
