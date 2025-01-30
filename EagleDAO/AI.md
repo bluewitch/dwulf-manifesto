@@ -135,36 +135,51 @@ coordination between agents more intuitive and interactive.
 
 # A.I. Agent NINA
 
-## Security (Alpha Protocol)
+**NINA A.I. Agent: Integral Security, Efficiency, and Offense within the Eagle DAO Ecosystem**
 
-The NINA A.I. Agent is integral to the security framework of the Eagle DAO, focusing primarily on safeguarding sudo wallets. NINA's capabilities include:
+The NINA A.I. Agent is a cornerstone of security, DevOps efficiency, and offensive capabilities within the Eagle DAO 
+ecosystem, offering a comprehensive defense mechanism that balances robustness with proactive threat mitigation.
 
-- **Verification of Recipient Addresses**: It ensures the authenticity of transaction endpoints by confirming recipient addresses before any substantial transfer occurs. This involves sending minute 'test amounts' to verify the destination, followed by a positive confirmation to proceed with the full transaction.
-  
-- **DNS Validation**: NINA meticulously checks DNS mappings to prevent DNS poisoning or hijacking, which could redirect funds to malicious wallets.
+**Security (Alpha Protocol):**
 
-- **Wallet Mnemonic Reconstruction**: In case of data loss or corruption, NINA can automatically reconstruct the mnemonic seed used to create wallets, providing a robust backup solution. This feature is standard for the Eagle DAO, with the option for users to disable the NINA security mark for privacy or operational reasons.
+NINA ensures the integrity of transactions by verifying recipient addresses through test amounts before initiating any 
+substantial transfers. This dual-step process involves confirming both the authenticity and cleanliness of destination 
+addresses to prevent unauthorized funds. Additionally, NINA meticulously validates DNS mappings to safeguard against 
+potential DNS poisoning or hijacking attacks, ensuring secure communication channels.
 
-## DevOps (Beta Protocol)
+In cases of data loss or corruption, NINA can reconstruct mnemonic seeds from stored backup data, providing a reliable 
+fallback solution for wallet recovery. This feature underscores its commitment to user security and trust.
 
-NINA extends its utility into DevOps by:
+**DevOps (Beta Protocol):**
 
-- **Environment Setup**: It sets up a hardened Linux environment tailored for Web3 development. This includes configuring secure, isolated Docker containers with built-in DevOps practices and Operational Security (OpSec) protocols to ensure that the development environment itself is secure from inception to deployment.
+NINA enhances the development environment by setting up hardened Linux systems tailored for Web3 applications. These 
+environments are equipped with secure, isolated Docker containers that incorporate DevOps best practices and Operational 
+Security protocols, ensuring a robust foundation for application development.
 
-- **Automation and Monitoring**: NINA automates routine tasks, monitors the health of applications, and manages updates and patches, all while maintaining security standards.
+To further streamline workflows, NINA automates routine tasks and monitors application health in real-time. This proactive 
+approach not only improves operational efficiency but also maintains the highest standards of security throughout the 
+deployment process.
 
-## Hacking (Omega Protocol)
+**Hacking (Omega Protocol):**
 
-The experimental nature of NINA's hacking capabilities under the Omega protocol includes:
+Under the Omega protocol, NINA introduces two modes: Sticky Bear Mode and Proactive Hacking Mode. Sticky Bear Mode is 
+designed as a defense mechanism, automatically initiating countermeasures in response to detected threats. This proactive 
+approach aims to neutralize attackers by tracing their origins before they can cause harm.
 
-- **Sticky Bear Mode**: This feature is enabled by default. Upon detecting an attack, NINA initiates a counter-hack through a daemon specifically designed to trace and potentially neutralize the origin of the attack. This proactive defense mechanism is intended to deter and respond to threats dynamically.
+For advanced users, Proactive Hacking Mode offers an aggressive strategy to preemptively secure all connection points, 
+mitigating potential risks through preemptive action. However, this mode requires a deep understanding of both legal and 
+ethical implications, balancing offensive capabilities with responsible conduct.
 
-- **Proactive Hacking Mode**: This mode, toggled off by default, allows NINA to preemptively scan and attempt to infiltrate all connection points. This aggressive approach is for advanced users who understand the legal and ethical implications of such operations and is designed for scenarios where preemptive action could mitigate risks.
+**Conclusion:**
 
-## Conclusion
+NINA A.I. Agent represents a trifecta of security, efficiency, and offensive capabilities within the Eagle DAO ecosystem. By 
+fortifying security through verifiable transactions and DNS checks, automating DevOps processes for reliable application 
+management, and providing advanced hacking tools for proactive threat mitigation, NINA ensures both robust defense and 
+efficient operations.
 
-The NINA A.I. Agent represents a triple-threat in security, DevOps efficiency, and offensive cybersecurity capabilities. Its integration within the Eagle DAO ecosystem not only fortifies the security posture of the EagleDAO, but also enhances operational productivity and introduces a novel approach to cybersecurity with its experimental hacking features. Users leveraging NINA must be well-versed in cybersecurity laws and ethics due to the potential aggressive nature of its hacking protocols.
-
+Users must be mindful of the legal and ethical considerations inherent in these capabilities, particularly with the 
+experimental nature of Proactive Hacking Mode. As such, integration into the Eagle DAO ecosystem requires careful 
+consideration and adherence to cybersecurity principles.
 ---
 
 # Ollama and Deepseek
