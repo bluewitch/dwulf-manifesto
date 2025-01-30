@@ -22,6 +22,8 @@ A base multi-sig wallet will serve as the foundational wallet for the Wheel Hous
 
 - [Wheelhouse](https://www.wheelhousesc.com/), Construction
 
+---
+
 # Daze of the Wolf (Media)
 Daze of the Wolf is a media system for the production of social media. A chain will be deployed, with coin/tokens, to mint NFT objects to interact, and gamify the platform. The main productions are:
 
@@ -37,4 +39,16 @@ It is revenue-driven by:
 
 - [Daze of the Wolf](https://www.dazeofthewolf.com), (under construction)
 
+---
+
+# Greenwitch DAO (Revenue A.I. Agent)
+Originally, Greenwitch Productions LLC was dissolved and reemerged as Greenwitch DAO. Greenwitch DAO is embedded with A.I. agents that utilize the aggregate of all available datasets (Grok, OpenAI, Deepseeker, Claude, etc.), including its own.
+
+- Primary Function: Revenue generation
+- Secondary Function: User onboarding (secure wallet)
+- Tertiary Function: DID (or legal wrapping, KYC)
+
+TESS is the interface for the DAO, which helps pair-bond the user interface for the DAO. Only first-generation wallets are required for the credentials for standard Web3 sign-ins to the DAO site. Zero-generation wallets, enshrined by NINA, are once removed to prevent compromise of private keys and mnemonics.
+
+---
 ---
