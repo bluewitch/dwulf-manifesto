@@ -5,76 +5,169 @@
 ### **Git Cheat Sheet**
 
 #### **Core Commands**
-- **Initialization**: `git init`
-- **Clone**: 
-  - `git clone [repository]` (from URL or filesystem)
-  - `git branch <name>` and `git checkout <branch>`
-- **Adding files**:
-  - `git add .` or `git add *` (to all files)
-- **Committing**:
-  - `git commit [-m "message"]`
-  - `git log [-h]` (to view commits with headers)
-  - `git diff HEAD^ <file>` and `git diff --name-only <file>`
-- **Status**:
-  - `git status` or `git ls-files` (to see which files are in the index)
-- **Conflict resolution**:
-  - `git merge <branch>` or `git rebase`
-- **Branch management**:
-  - `git branch [-m "<message>"] <name>` to create a new branch
-  - `git checkout -b <branch-name>` (and then activate with `. . .`)
-  - `git merge` and `git rebase`
-  - `git cherry-pick <file>` or `git cherry-pick --no-success <commit>`
-- **Log**:
-  - `git log -- follow-up`, `git log [--branches] [-n]`
+These are the foundational commands that manage your repository.
 
-#### **Branching Commands**
-- `git branch`
-- `git checkout -b`
-- `git merge`
-- `git rebase`
-- `git branch --set-upstream-to <upstream> | --unset-upstream`
-- `git cherry-pick`
+1. **Initialization**: `git init`
+   - Creates a new Git repository in your current directory.
+   ```bash
+   cd project
+   git init
+   ```
 
-#### **Merging Commands**
-- `git merge`
-- `git rebase` (and `git fetch --reBASE origin/master`)
+2. **Cloning**: 
+   - To clone an existing repository:
+     ```bash
+     git clone https://github.com/username/repo.git
+     ```
+   - With custom branch name:
+     ```bash
+     git clone [repository] <branch_name>
+     ```
 
-#### **Stashing Commands**
-- `git stash`: save changes
-  - `git stash pop`: discard change
-  - `git stash list`: view history
-  - `git stash apply`: commit
-  - `git stash drop`: clear cache
+3. **Branch Management**:
+   - Create a new branch:
+     ```bash
+     git checkout <file> # Activate the current branch
+     git branch <new_branch_name>
+     git checkout -- <new_branch_name> # Deactivate and activate new branch
+     ```
+   
+4. **Adding Files**:
+   - Add all files to Git:
+     ```bash
+     git add .
+     ```
+   - Add specific files:
+     ```bash
+     git add *.cpp      # Add only .cpp files
+     ```
 
-#### **Remote Commands**
-- `git remote`: manage remote repositories
-  - `git remote add <remote> <url>`
-  - `git fetch`
-  - `git pull`
+5. **Committing**:
+   - Basic commit with message:
+     ```bash
+     git commit -m "First commit to main branch"
+     ```
+   - List recent commits (up to 10 by default):
+     ```bash
+     git log --graph --color
+     ```
 
-#### **Configuration**
-- `git config`: for core settings
-  - `git global config` (for alias-related settings)
-  - `git reset config` to clear
+6. **Branching Commands**
+7. **Merging Commands**:
+   - Merge a remote branch into your current local branch:
+     ```bash
+     git merge remote_branch_name
+     ```
+   - Rebased merge:
+     ```bash
+     git rebase origin/remote_branch_name
+     ```
+
+8. **Stashing Commands**:
+   - Save changes to staging area:
+     ```bash
+     git stash
+     ```
+   - Discard change (pop):
+     ```bash
+     git stash pop
+     ```
+   - Apply change later (apply):
+     ```bash
+     git stash apply
+     ```
+
+9. **Remote Commands**:
+   - Fetch updates from remote repository:
+     ```bash
+     git fetch origin master
+     ```
+   - Only pull specific changes (use `--` with refspec):
+     ```bash
+     git fetch origin -- [branch_name]
+     ```
+
+10. **Configuration**:
+    - Add an alias for a command:
+      ```bash
+      export PYTHONPATH=/path/to/modules:PYTHONPATH
+      ```
+    - Reset to defaults:
+      ```bash
+      git config --global core.autocrlf false
+      ```
+
+---
 
 #### **Plumbing Commands**
-- `git cat-file`, `git show-branch`, `git show-ref`, etc.
-- `git hash-object <object>` and `git ls-remote`
+These handle Git's internal processes.
+
+1. **Hashing**:
+   - Compute hash of a file:
+     ```bash
+     git rev-parse --verify file_path
+     ```
+   - Get SHA-1 hash for quick comparisons:
+     ```bash
+     git diff --name-only
+     ```
+
+2. **Objects and Log**:
+   - List all commit objects (O) along with parents, times, etc.:
+     ```bash
+     git log --object --graph --color
+     ```
+
+---
 
 #### **Porcelain Commands**
-- View diffs: `git diff`
-- Diff details:
-  - `git bisect`
-- Log changes: `git log --brief`
-- Search for code changes: `git grep "pattern"`
-- Show branch status: `git show`
-- Tag list: `git tag --list`
+These allow viewing details without executing commands.
+
+1. **Diffs**:
+   - Compare two files/directories using Git's diff format:
+     ```bash
+     git diff file1.c file2.c
+     ```
+   - Show changes as a graph (truncated for brevity):
+     ```bash
+     git diff --name-only | git log --graph --color
+     ```
+
+2. **Log**:
+   - Basic diff log of changes in the current local repository:
+     ```bash
+     git diff | git log -- --color
+     ```
+   - Full log with hashes and times (truncated):
+     ```bash
+     git log -- --raw --date head
+     ```
+
+---
 
 #### **Aliases**
-- Define custom commands: 
-  ```
-  git config --global alias.<alias> "<command>"
-  ```
+These are handy shortcuts for repetitive commands.
+
+1. Default alias setup in .gitconfig:
+   ```ini
+   [core]
+   aliases = .
+   # Optional: Replace all with one action (e.g., 'git add')
+   replace = !(git add -u)
+   ```
+2. Resetting defaults after use:
+     ```bash
+     source ~/.gitconfig
+     git config --global core replace ''       # Remove replace alias
+     ```
+
+---
+
+#### **Conclusion**
+
+Each command serves a specific purpose in managing your Git repository, whether it's initializing the repo, cloning, 
+branching, merging, or tracking changes. By incorporating these commands into your workflow, you can streamline version 
+control tasks and collaborate more efficiently with team members.
 
 ---
 
