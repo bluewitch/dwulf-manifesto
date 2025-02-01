@@ -157,3 +157,131 @@ To integrate Elves and ELFs into your JavaScript application for cross-chain com
 By following these steps and utilizing the provided code examples, you can effectively leverage Elves with ELFs and AMPS for secure 
 cross-chain communication in your JAM Layer 2 application. This approach ensures efficiency, security, and reliable interactions across 
 multiple blockchain chains.
+
+
+# Rusty ELF
+
+To integrate Elves with JAM Layer 2 (JAM) using the Rust programming language, you'll need to follow a structured approach that leverages 
+WebAssembly, specifically ELFs (Executable Linkable Format), along with AMPS for transaction management. Below is a detailed step-by-step 
+guide on how this can be achieved:
+
+### Step 1: Set Up JAM Layer 2 Environment
+Ensure your project is set up within the JAM Layer 2 environment provided by OpenZeppelin. This includes initializing the `jamp` main-chain 
+repository and setting up the necessary dependencies for WebAssembly integration.
+
+```bash
+cargo init --features jamp,serde,serde_derive,jumpm,web-vitals
+cargo add --features web-astd webAssembly
+```
+
+### Step 2: Develop Chain-Specific Code with ELFs
+Each chain within JAM will need its own runtime logic encapsulated in an ELF. These ELFs contain the necessary functions and data to 
+interact with other chains.
+
+```rust
+// Example of creating a simple Elf for Chain A
+#[derive(Elf, BinI, BinO, BinC, BinS)]
+pub struct ExampleElf {
+    pub bin_i: BinI,
+    pub bin_o: BinO,
+}
+
+impl ExampleElf {
+    pub fn main() -> Result<()> {
+        // Load other chains' ELFs and interact with them
+        Ok(())
+    }
+}
+```
+
+### Step 3: Compile Chains into Separate ELFs
+Use WebAssembly tools like `wasm` or a Rust crate such as `web-astd` to compile each chain's runtime logic into an ELF.
+
+```bash
+# Example using wasm
+wasm --outelfelf out.elf -- -f elf --link-only --verify-elf=none example.chsonly
+```
+
+### Step 4: Implement AMPS for Cross-Chain Communication
+AMPS (App-level Multi-Pass Switching) allows you to append transactions from one chain to another without needing chain-specific code. This 
+is crucial for integrating Elves in a cross-chain manner.
+
+```rust
+// Example of using AMPS
+use openswjamps::{app, mps};
+
+async fn main() -> Result<()> {
+    let app = App::new("ExampleApp");
+    let mps = Mps::create(&mut app);
+    
+    // Append transactions from Chain A to Chain B
+    mps.append transaction_from_chain_a to_chain_b();
+
+    Ok(())
+}
+```
+
+### Step 5: Load and Execute ELFs Safely
+Load the compiled ELFs safely within your Rust application, ensuring that each Elf is loaded only when needed. This prevents vulnerabilities 
+arising from executing code from unknown sources.
+
+```rust
+use openzeppelin::jamp::webAssembly::ELF;
+
+fn load_elf() -> Result<ELF> {
+    // Load Chain A's Elf
+    Elf::from_path("chain_a.out")
+        .expect("Failed to load Chain A's Elf")
+
+    // Similarly, load other Chains' ELFs as needed
+}
+
+#[tokio::main]
+async fn main() -> Result<()> {
+    let elf = load_elf();
+
+    // Execute the Elf's functions using WebAssembly
+    use web_vitals;
+
+    // Example execution logic
+    // Replace with actual function calls from Chain A to Chain B
+    webASCIILazyExecutor::execute(Elf::main, elf)
+        .await
+        .expect("Failed to execute Elf");
+}
+```
+
+### Step 6: Implement Data Exchange Between ELFs
+Ensure that data passed between ELFs is correctly synchronized. This may involve using shared memory constructs or message passing 
+mechanisms provided by AMPS.
+
+```rust
+// Example of sending a message from Chain A to Chain B
+async fn send_data() -> Result<()> {
+    use openswjamps::meps;
+
+    // Prepare the data to be sent
+    let mut data = meps message;
+
+    // Send the message using AMPS
+    mps.send(data, sender => sender_name, receiver_name)
+        .await
+```
+
+### Step 7: Test and Debug
+Thoroughly test the integration between different Chains. Monitor transactions being appended across chains to ensure they're functioning 
+correctly.
+
+```bash
+cargo run --release --test
+```
+
+### Explanation
+- **ELFs**: Each chain's runtime logic is encapsulated in an ELF, ensuring that only intended code runs when loaded.
+- **AMPS**: Facilitates transaction appending between Chains without requiring chain-specific code, enabling seamless cross-chain 
+interaction.
+- **Safety**: Load ELFs with WebAssembly to prevent executing arbitrary code from unknown sources.
+
+By following these steps, you can successfully integrate Elves with JAM Layer 2 in Rust, allowing for robust and secure cross-chain 
+interactions.
+
