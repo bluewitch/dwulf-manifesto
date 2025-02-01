@@ -285,3 +285,94 @@ interaction.
 By following these steps, you can successfully integrate Elves with JAM Layer 2 in Rust, allowing for robust and secure cross-chain 
 interactions.
 
+
+
+# ELF Python Example
+
+Here’s a step-by-step Python example demonstrating the use of WebAssembly (as the foundation for ELF) in blockchain inter-chain 
+communication:
+
+### Step 1: Define the Function
+First, define a simple function in Python that could be used to enable inter-chain communication.
+
+```python
+def add_numbers(a: int, b: int) -> int:
+    return a + b
+```
+
+This function takes two integers and returns their sum. It's just an example of what might be needed for cross-chain operations like adding 
+values from different chains.
+
+### Step 2: Compile the Function to WebAssembly
+Use `wasmc` (a tool that translates Python code into WebAssembly modules) or a similar compiler to compile this function.
+
+```bash
+python3 -m wasmc --library-name add_numbers.py add_numbers.py
+```
+
+This command compiles `add_numbers.py` and creates the necessary `.wasm` files, which are platform-independent binaries ready to be executed 
+on any supported environment (including Layer 2 systems).
+
+### Step 3: Create an Executable (Elf)
+Pack these WebAssembly modules into an ELF format. This involves creating a Python script that exports the compiled module.
+
+```python
+import webv2 as wb
+
+wb.ElfFileStub.add_numbers = None  # Export the function from the Elf
+wb.save()
+```
+
+This generates an `add_numbers.elf` file, which is self-contained and can be loaded on any system supporting Layer 2 environments like JAM.
+
+### Step 4: Load the ELF in Chain B's Runtime
+In Chain B, use the appropriate framework (like AMPS) to load and execute this elf.
+
+```python
+from amps import *
+
+# Load the elf from Chain B's runtime
+elf = ElfLinkProxies.loadElf(add_numbers.elf)
+
+# Now you can call the function as if it's part of Chain B's runtime
+result = elf.add_numbers(3, 5)
+```
+
+This demonstrates how an elf loaded onto Chain B's runtime allows functions to be called as if they were native code in Chain B.
+
+### Step 5: Using AMPS for Communication
+Integrate this functionality into the AMPS framework to handle inter-chain communication seamlessly.
+
+```python
+from amps import ElfLinkProxies
+
+# Example of using the elf within AMPS
+elf = ElfLinkProxies.loadElf(add_numbers.elf)
+
+# When a transaction from Chain A requests adding numbers, it uses your elf function.
+transaction = Transaction(
+    chain_from=ChainA,
+    chain_to=ChainB,
+    func=elf.add_numbers
+)
+```
+
+### Step 6: Updating an Elf and Managing Updates
+Ensure that the elf remains secure by controlling updates. Use mechanisms to restrict or allow specific changes as needed.
+
+```python
+# Restricting updates on the elf loaded from Chain B's runtime
+ElfLinkProxies.setUpdateFlag(elf, "prevent_updates", True)
+
+# Allowing certain methods to be updated if necessary
+ElfLinkProxies.setUpdateFlag(elf, "allow_add_numbers", True)
+```
+
+### Conclusion
+This example shows how WebAssembly is used under the hood in ELF to enable cross-chain communication. By compiling Python functions into 
+WebAssembly and using frameworks like AMPS, developers can securely and efficiently interact between different blockchain networks without 
+needing deep knowledge of each chain's internal workings.
+
+The key takeaway is that WebAssembly acts as a bridge, allowing ELFs to encapsulate necessary functionality while maintaining security and 
+performance across Layer 2 systems.
+
