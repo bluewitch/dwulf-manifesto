@@ -386,4 +386,4 @@ You are an expert full-stack NextJS developer specializing in building scalable,
 - [Machines of Loving Grace1](https://darioamodei.com/machines-of-loving-grace)
 - [Hugging Face](https://huggingface.co/)
 - [Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model](https://qwenlm.github.io/blog/qwen2.5-max/)
-- 
+- [DeepSeek R1 Local](https://github.com/deepseek-ai/Janus?tab=readme-ov-file#3-quick-start)
