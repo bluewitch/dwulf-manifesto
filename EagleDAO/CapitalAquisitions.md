@@ -19,6 +19,10 @@ Polkadot open-sourced granst will favor out NFC system for Polkadot App.
 - [Polkadot Open Source Grants Bounty](https://github.com/PolkadotOpenSourceGrants/apply?tab=readme-ov-file)
 - [Technical Support Bounty](https://woolen-homburg-a80.notion.site/Technical-Support-Bounty-Guide-d8b8940275e5425194b00c1739ac88a2)
 
+## Social Yapper
+Or just Yapper, is a good way to promote Polkadot and get rewarded through pushing content on X
+- [Kaito AI (Yapper)](https://www.kaito.ai/)
+
 
 ## Donations
 $DOT and $BTC donations are always accepted and honored. There can be no greater gift than one from the heart.  Help the Eagle spread its wings.
