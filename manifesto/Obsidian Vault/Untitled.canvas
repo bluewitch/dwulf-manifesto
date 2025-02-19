@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"18c67e96ede62fe8","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"991ac60f27132875","x":-880,"y":-440,"width":1600,"height":1020,"color":"2","type":"text","text":"Wheelhouse DAO"}
+	],
+	"edges":[]
+}

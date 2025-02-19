@@ -18,7 +18,7 @@ Although [[Ethereum Network]] has more legacy, and reach, it also has more legac
 
 ---
 
-# The Organization of the DA
+# The Organization of the DAO
 
 Any DAO (Decentralized Autonomous Organization) is a type of organization that is run by a set of rules encoded as computer programs, in Substrate this is known as pallets and/or smart contracts, on a blockchain. Here are some of the components of a Organization of the DA:
 

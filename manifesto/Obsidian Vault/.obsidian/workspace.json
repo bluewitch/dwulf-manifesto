@@ -958,9 +958,63 @@
               "icon": "lucide-file",
               "title": "Tanssi Grant"
             }
+          },
+          {
+            "id": "736f5bb7e7f8cf19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetalGods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MetalGods"
+            }
+          },
+          {
+            "id": "2b3fde99ecce1f7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "7e4d0008c83e4af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X Algo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "X Algo"
+            }
+          },
+          {
+            "id": "7b78411888979ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code Questions"
+            }
           }
         ],
-        "currentTab": 68
+        "currentTab": 72
       }
     ],
     "direction": "vertical"
@@ -979,7 +1033,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -1102,20 +1157,48 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ff1e495b64ed7c6f",
+  "active": "7b78411888979ff9",
   "lastOpenFiles": [
+    "Media_Images/meme_images/mem_bender_disney_blackjack.jpg",
+    "Media_Images/meme_images/spinning-donut-featured.gif",
+    "Media_Images/meme_images/meditations_powerful_mind.jpg",
+    "Media_Images/meme_images/mem_simpsons_safety.png",
+    "X Algo.md",
+    "Code Questions.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Media/The Birthing Tree.md",
+    "Media/Socials.md",
+    "Media/Poetry (not Vogon).md",
+    "Media/Poem Fragments.md",
+    "Media/Playwrights.md",
+    "Media/NINA Story.md",
+    "Socials/Resume CV.md",
+    "Synthetic_Intelligence/NINA.md",
+    "Synthetic_Intelligence/Back Propagation.md",
+    "Synthetic_Intelligence/Artificial Intelligence.md",
+    "Synthetic_Intelligence/A.I. URLs.md",
+    "Synthetic_Intelligence/A.I. Avatars.md",
+    "Synthetic_Intelligence/A.I. Agents.md",
+    "Synthetic_Intelligence/Ollama.md",
+    "DAO/KYC.md",
+    "Media_Images/Home_images/home_bathroom_restroom.jpg",
+    "Media_Images/craft_images/craft_green_goddess_tree.jpg",
+    "DAO/DAO Profiles.md",
+    "DAO/DAO.md",
+    "Divine_Media/God.md",
+    "Divine_Media/Eve Scriptures.md",
+    "Untitled.md",
+    "Media_Images/Home_images/home_Wyoming.jpg",
+    "Daze of the Wolf.md",
+    "().md",
+    "Media_Images/Media Images Description.md",
+    "Media_Images/Home_images/home_outside_wood_stairs.jpg",
+    "Media_Images/Home_images/home_kitchen_islandwood.jpg",
+    "Media_Images/Home_images/home_bedroom_top",
     "Media_Images/Public_Wallet_Adresses/Monero_Public.png",
     "Media_Images/Public_Wallet_Adresses/bc1qfzk3e34w72vny4va5ymvswezkfnu0nvxpqyul3.png",
-    "Media_Images/Public_Wallet_Adresses/12gWb1R61chD3PDtNLba2d3hytHuSp5WRGnZaj9LzArP7KVs.png",
-    "Media_Images/Public_Wallet_Adresses/1WbbLZDZ37PQ4gYL6ULsJKZMY9MjjSVyt9Jn2tXgp6ek6oX.svg",
     "Media_Images/Public_Wallet_Adresses",
-    "Media_Images/Code_images/code_Adobe-Creative-Suite-Icons.jpg",
-    "Media_Images/Capital_images/capital_HRJobCode.png",
-    "Media_Images/Capital_images/capital_final-tech-jobs-salaries-1aad.png",
-    "Media_Images/OC_Hero_images/vet_Zippo.jpg",
-    "Media_Images/OC_Hero_images/vet_wethepeople.png",
-    "Media_Images/OC_Hero_images/vet_Vietnam Memorial.jpg",
-    "Media_Images/OC_Hero_images/vet_Veterans2018.png",
     "Media_Images/Home_images",
     "Media_Images/Fungi_images",
     "Media_Images/Capital_images/capital_gateway.jfif",
@@ -1124,35 +1207,7 @@
     "Media_Images/OC_Hero_images",
     "Media_Images/Capital_images/capital_FEDACT.jfif",
     "Media_Images/Capital_images",
-    "Media_Images/GT_images",
-    "Quotes.md",
-    "Profile.md",
-    "PARA.md",
-    "Obsidian Notes.md",
-    "NFC.md",
-    "My Tribe.md",
-    "Mom.md",
-    "MetalGods.md",
-    "MemX.md",
-    "Home Lab.md",
-    "HHG Chromatic.md",
-    "Docs.md",
-    "Daze of the Wolf.md",
-    "X Algo.md",
-    "Wish List.md",
-    "Tanssi Grant.md",
-    "().md",
-    "Blockchain/Development for EVM.md",
-    "DAO/Web3 Foundation.md",
-    "DAO/Untitled.md",
-    "DAO/Tanssi RAW.md",
-    "DAO/Tanssi.md",
-    "DAO/JAM Substrate Interplay.md",
-    "DAO/JAM SDK.md",
-    "DAO/POPcli.md",
-    "Untitled.canvas",
     "DAO/GreenWitchDAO-BizDev.canvas",
-    "Engineering_Software/Untitled.canvas",
-    "Untitled 1.canvas"
+    "Engineering_Software/Untitled.canvas"
   ]
 }
