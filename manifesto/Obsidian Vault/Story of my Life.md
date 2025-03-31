@@ -25,9 +25,9 @@ That mantra stuck when I got my first car—a 1969 Ford Maverick V6, a beast of 
 
 # Legal Eagle
 
-Life has a way of tossing you into the deep end when you least expect it. Fresh into my freelancing career, I was drifting—hungry for work, tethered to my tech, when a newly minted attorney named Quin Kiet strode into my orbit. He had a proposition: set up his office’s computer network, take on the mantle of IT guru, and in return, he’d unlock the mysteries of the legal world for me. LLCs, contracts, courts, taxes—the whole labyrinthine mess. Plus, a monthly stipend, off the books. It was a handshake deal I couldn’t refuse.
+Life has a way of tossing you into the deep end when you least expect it. Fresh into my freelancing career, I was drifting—hungry for work, tethered to my tech, when a newly minted attorney named Quin Kiet strode into my orbit. He had a proposition: set up his office’s computer network, take on the mantle of IT guru, and in return, he’d unlock the mysteries of the legal world for me. LLCs, contracts, courts, taxes—the whole labyrinthine mess. Plus, a monthly stipend, off the books, of course. It was a handshake deal I couldn’t refuse.
 
-I got to work, threading cables like a digital spider. I wired up his LAN, routers, and switches, planting Linux at the heart of our servers—my fortress of choice. The workstations, though? Windows. I fought it tooth and nail—security was my gospel, and Microsoft’s swiss-cheese OS grated against every OpSec instinct I had. But the staff clung to their Windows-only software, too stubborn to climb the Linux learning curve. I pitched Wine as a bridge for compatibility, but they wouldn’t bite. So, I relented, grumbling as I locked it down as best I could.
+I got to work, threading cables like a digital spider. I wired up his LAN, routers, and switches, planting Linux at the heart of our servers—my fortress of choice. The workstations, though? Windows. I fought it tooth and nail—security was my gospel, and Microsoft’s swiss-cheese OS grated against every OpSec instinct I had. But the staff clung to their Windows-only software, too stubborn to climb the Linux learning curve. I even pitched Wine as a bridge for compatibility, but they wouldn’t bite. So, I relented, grumbling as I locked it down as best I could.
 
 The tech was a breeze—second nature to me. The legal system? A circus of inefficiency. Courthouses and law offices seemed to hum with an anti-tech force field. Fax machines—fax machines—were still the lifeblood of their workflow. It was like watching a judge in robes summon a medieval courier, scribbling on parchment with a quill, dusting the ink, sealing it with a wax-stamped ring, and sending it off with orders to shuffle forms through a chain of clerks and mailmen. Then they’d do it all over again. I’d seen cleaner code in my Commodore days.
 
@@ -57,3 +57,25 @@ Then, like a paladin clad in shining armor, Quin swept in. “Your Honor,” he 
 
 Afterward, over Thai food at his favorite spot, we laughed until our sides ached. But beneath the humor, something clicked. The rigid decorum of that courtroom—the suits, the titles, the assumptions—left gaps wide enough to slip through. I’d stumbled into a hack, not of code, but of people. Social engineering, they’d call it later, and that accidental masquerade rewired my approach to everything. Systems weren’t just tech—they were human, too, and I’d spend years mastering both.
 
+
+# Freelancer in a Free? World
+
+The law office gig didn’t last. Quin’s world got crowded with more lawyers, and they elbowed me out—new faces who didn’t care for my Linux sermons or off-the-books hustle. Eventually, Quin himself bailed on the profession, leaving me adrift. I was back to square one, freelancing in a world that felt less free every day. Job hunting was the obvious move, but the W2 life? A rigged game. Income tax stung, sure, but the real gut punch was watching 40% of my pay vanish before I even saw it—siphoned off by payroll like an interest-free loan to Uncle Sam. Then came the insult: scrambling for W4s, shelling out for tax services, all to file numbers the IRS already had. They’d indexed my Social Security, tracked my banks, even peeked at my medical data—yet I still had to play their paper chase. Ludicrous.
+
+I knew anarchists who’d quit filing altogether. “They’ve got the numbers,” they’d shrug. “Let ‘em figure it out.” A W2 worker couldn’t dodge taxes—the system snatched it upfront—but skipping the paperwork? That was a quiet rebellion I admired, even if I didn’t join them.
+
+# Building a Better Bank
+
+Quin’s legal crash course wasn’t for nothing. I took those lessons and ran, crafting LLCs like shields—shells with their own tax IDs to blur my trail in the banking system. It was a hack to keep tax hounds and collection vultures off my accounts. For a while, it worked. I kept it lean: a small cash pad in each account for emergencies, which hit more often than I’d like. Gym memberships I’d canceled would still siphon funds, forcing me to swap accounts like a shell game. Debit charges lagged 30 days behind, ghosting my balance. Fraudulent hits? I’d call the bank and the culprit five minutes after they struck, but they’d dangle my refund for 90 days pending “investigation.” Worst of all: liens that froze my funds, zeroed me out, then slapped on $50 in legal fees—leaving me owing $90 just to close the damn thing.
+
+The banking cartel wasn’t inept—it was a machine built to grind me down. I needed an exit. In 2017, I found it: Bitcoin and decentralized systems.
+
+# Building the Chains to Set Us Free
+
+I’ll admit, I wasn’t a Bitcoin believer at first. Like most, I scoffed—digital coins replacing money? Please. Then, a year later, I read the white paper. That nine-page gospel flipped a switch. My religion changed; I saw the light. Money wasn’t the point—freedom was.
+
+Freelancing as a web developer had kept me afloat, hammering out Web2 projects with a craftsman’s pride. But the tide was turning. WYSIWYG platforms, AI agents, automation—they were strangling the trade. Code was heading toward an AI takeover, and I saw the window shrinking. A seasoned dev could consult for a bit, maybe, but the clock was ticking. I needed a new frontier.
+
+Blockchain called. I dove in headfirst—Bitcoin’s raw simplicity, Ethereum’s smart-contract sprawl, and finally Polkadot, the ecosystem that felt like home. Polkadot wasn’t just tech; it was a destination. With JAM (Join-Accumulate Machine), it promised to weave Web2 and Web3 into one seamless fabric—running any program, any paradigm. My hacker soul sang. This was my Commodore 64 moment all over again: a system to master, to bend, to build from scratch.
+
+Rust became my language, Substrate my framework. Simple in theory, devilish in the details—but that’s where I thrived. I’d cut my teeth on first-principles thinking in computer science, and now I’d stack those blocks into Web3. Polkadot wasn’t just a tool—it was the culmination of everything I’d learned, from trial-and-error hacks to legal loopholes to banking battles. I’d build the chains to set us free, one line of code at a time.

@@ -38,3 +38,5 @@ To implement account abstraction in a Substrate-based blockchain, developers wou
 
 Implementing account abstraction on a Polkadot Substrate-based blockchain presents a unique opportunity to streamline user interactions and broaden the capabilities of blockchain accounts. By leveraging Rust and Substrate’s modular architecture, developers can create innovative account models that enhance usability and functionality within the Polkadot ecosystem.
 
+---
+#blockchain 
