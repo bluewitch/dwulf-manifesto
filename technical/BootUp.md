@@ -52,3 +52,30 @@ kernelstub.Installer : INFO     Making entry file for Pop!_OS
 root@pop-os:~# 
 
 ```
+
+# rebuilding journal
+```bash
+root@pop-os:~# rm -rf /var/log/journal/*
+root@pop-os:~# systemctl stop systemd-journald
+systemctl start systemd-journald
+Warning: Stopping systemd-journald.service, but it can still be activated by:
+  systemd-journald-dev-log.socket
+  systemd-journald-audit.socket
+  systemd-journald.socket
+root@pop-os:~# journalctl -b | grep usb
+Apr 04 06:23:41 pop-os kernel: usb 1-3: device descriptor read/64, error -71
+Apr 04 06:23:46 pop-os kernel: usb 1-3: device descriptor read/64, error -71
+Apr 04 06:23:46 pop-os kernel: usb usb1-port3: attempt power cycle
+Apr 04 06:23:47 pop-os kernel: usb 1-3: new high-speed USB device number 18 using xhci_hcd
+Apr 04 06:23:51 pop-os kernel: usb 1-3: device descriptor read/8, error -71
+Apr 04 06:23:52 pop-os kernel: usb 1-3: device descriptor read/8, error -71
+Apr 04 06:23:52 pop-os kernel: usb 1-3: new high-speed USB device number 19 using xhci_hcd
+Apr 04 06:23:57 pop-os kernel: usb 1-3: device descriptor read/8, error -71
+Apr 04 06:23:57 pop-os kernel: usb 1-3: device descriptor read/8, error -71
+Apr 04 06:23:57 pop-os kernel: usb usb1-port3: unable to enumerate USB device
+Apr 04 06:23:57 pop-os kernel: usb 1-3: new high-speed USB device number 20 using xhci_hcd
+Apr 04 06:24:02 pop-os kernel: usb 1-3: device descriptor read/64, error -71
+root@pop-os:~# 
+
+
+```
