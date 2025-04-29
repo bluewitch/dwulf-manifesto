@@ -44,7 +44,8 @@ From there he has been trying to adapt to the new space faring world.
 - - This is the only Cyberpunk game I am very much into, but I played this so many times already, just waiting for the DLC, to rescue the president.
 
 ## RPG Fantasy
-- Skyrim
+- Skyrim/Oblivion
 - - What can I say, this is the D&D simulator the way the Gods meant it to be, with Mods you can turn this into a perfect setting for mini-movies and media.
-
+- - Male Nord fighter thief, dual weild leather clad armour
+  - Female Brenton full mage (witch)
 
