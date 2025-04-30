@@ -48,4 +48,6 @@ From there he has been trying to adapt to the new space faring world.
 - - What can I say, this is the D&D simulator the way the Gods meant it to be, with Mods you can turn this into a perfect setting for mini-movies and media.
 - - Male Nord fighter thief, dual weild leather clad armour
   - Female Brenton full mage (witch)
+ 
+  - 
 
